@@ -1,0 +1,179 @@
+========================================start程序1111=============================================
+====================================2020-04-03 23:35:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2355&f=dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2395&f=dxcyz_dalan_dsdk_48_1.0.0_20200403_225022.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2516&f=xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk']
+[文件大小]:269.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk完成！ 用时129.54秒
+------------------------------------节点1-----------------------------------下载校验结果：True
+1585928232
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk']
+2020-04-03 23:37:12开始安装shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk
+D:\Downloads\\shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk==com.tencent.tmgp.tgfml.xncsj
+此手机未安装com.tencent.tmgp.tgfml.xncsj包....
+False
+2020-04-03 23:37:15_开始安装_shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk
+此手机已安装com.tencent.tmgp.tgfml.xncsj包....
+True
+------------------------------------20200403_230219.apk-----节点2-------------------------------------安装返回结果： True
+1585928274
+{'status': True, 'msg': '成功'}
+D:/Downloads/shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk==com.tencent.tmgp.tgfml.xncsj
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': '', 'load': ''}], 'game_app_name': '山海经正版', 'asset': [{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}]}}
+shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219.apk
+实际图片对应路径{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/shjzbgdt_dalan_dsdk_48_1.0.0_20200403_230219/，对应pkg_id=2295
+服务端素材图片 []
+apk的应用名称= 山海经正版
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+-----------------------------------节点3------------------------------------拆包校验结果：True
+1585928280
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.local.superdalan.com//d04c5dc46c1c25f1a4ae969e5af88f24~500' width=600 />
+返回的png为 http://file.local.superdalan.com//d04c5dc46c1c25f1a4ae969e5af88f24~500
+1585928349
+{'status': True, 'msg': '成功'}
+---------------------------节点4------------------------------打开游戏结果:True
+有账号
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.local.superdalan.com//09c850297240bedaa76b1c5b5381eda9~500' width=600 />
+返回的png为 http://file.local.superdalan.com//09c850297240bedaa76b1c5b5381eda9~500
+1585928390
+{'status': True, 'msg': '成功'}
+---------------------------节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020040332170542346
+当前未登录微信
+<img src='http://file.local.superdalan.com//827c6174cff3368ef40ab1a0773eaab8~500' width=600 />
+返回的png为 http://file.local.superdalan.com//827c6174cff3368ef40ab1a0773eaab8~500
+1585928425
+{'status': True, 'msg': '成功'}
+---------------------------节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:269.20 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2355&f=dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk完成！ 用时149.46秒
+------------------------------------节点1-----------------------------------下载校验结果：True
+1585928574
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk']
+2020-04-03 23:42:55开始安装dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk
+D:\Downloads\\dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk==com.dxcyzhdcs.wzjh.toutiao
+此手机未安装com.dxcyzhdcs.wzjh.toutiao包....
+False
+2020-04-03 23:42:58_开始安装_dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk
+此手机已安装com.dxcyzhdcs.wzjh.toutiao包....
+True
+-------------------------------------节点2-------------------------------------安装返回结果： True
+1585928612
+{'status': True, 'msg': '成功'}
+D:/Downloads/dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk==com.dxcyzhdcs.wzjh.toutiao
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': 'dc69aae724ca5a7b8d5715f88e471c95', 'load': 'ee3626ffc2400e6e32032f7307c6abcd'}], 'game_app_name': '地下城勇者', 'asset': [{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}]}}
+dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848.apk
+实际图片对应路径{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/dxcyztthdcs_dalan_dsdk_48_1.0.0_20200403_225848/，对应pkg_id=2355
+服务端素材图片 ['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+apk的应用名称= 地下城勇者
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+-----------------------------------节点3------------------------------------拆包校验结果：True
+1585928619
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.local.superdalan.com//5f9b352880cf20efeee87dc18759e4cb~500' width=600 />
+返回的png为 http://file.local.superdalan.com//5f9b352880cf20efeee87dc18759e4cb~500
+1585928675
+{'status': True, 'msg': '成功'}
+---------------------------节点4------------------------------打开游戏结果:True
+有账号
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.local.superdalan.com//587518f67727f1f2a1364c1b13f363c8~500' width=600 />
+返回的png为 http://file.local.superdalan.com//587518f67727f1f2a1364c1b13f363c8~500
+1585928708
+{'status': True, 'msg': '成功'}
+---------------------------节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020040332174132378
+<img src='http://file.local.superdalan.com//92ab27cf0e4171838438655dc98b9ed1~500' width=600 />
+返回的png为 http://file.local.superdalan.com//92ab27cf0e4171838438655dc98b9ed1~500
+已走异常流程_截图异常页面(原因：主要是因为没有进入指定页面_)
+1585928751
+{'status': True, 'msg': '成功'}
+---------------------------节点6----------------------------下单调起微信结果:False
+[文件大小]:268.39 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2395&f=dxcyz_dalan_dsdk_48_1.0.0_20200403_225022.apk完成！ 用时110.08秒
+------------------------------------节点1-----------------------------------下载校验结果：True
+1585928861
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['dxcyz_dalan_dsdk_48_1.0.0_20200403_225022.apk']
+2020-04-03 23:47:41开始安装dxcyz_dalan_dsdk_48_1.0.0_20200403_225022.apk
+安装dxcyz_dalan_dsdk_48_1.0.0_20200403_225022.apk过程中出现异常_执行失败
+-------------------------------------节点2-------------------------------------安装返回结果： 未知异常_404
+1585928863
+{'status': True, 'msg': '成功'}
+[文件大小]:268.64 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2516&f=xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk完成！ 用时114.12秒
+------------------------------------节点1-----------------------------------下载校验结果：True
+1585928977
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk']
+2020-04-03 23:49:37开始安装xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk
+D:\Downloads\\xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk==com.xkjh.wzjh
+此手机未安装com.xkjh.wzjh包....
+False
+2020-04-03 23:49:40_开始安装_xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk
+此手机已安装com.xkjh.wzjh包....
+True
+-------------------------------------节点2-------------------------------------安装返回结果： True
+1585929015
+{'status': True, 'msg': '成功'}
+D:/Downloads/xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk==com.xkjh.wzjh
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': '6ce7e354e4bfd420bd2638a02dfcd52c', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'game_app_name': '侠客江湖', 'asset': [{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}]}}
+xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152.apk
+实际图片对应路径{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/xkjhwzjh_dalan_dsdk_48_1.0.0_20200403_232152/，对应pkg_id=2516
+服务端素材图片 ['6ce7e354e4bfd420bd2638a02dfcd52c.jpg', '9baae0e1fd1931f1c3d3c88c2e647465.jpg']
+apk的应用名称= 侠客江湖
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+-----------------------------------节点3------------------------------------拆包校验结果：True
+1585929024
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+找不到登录元素，或元素超时
+<img src='http://file.local.superdalan.com//784f129366cce70ef34ddf109c81451e~500' width=600 />
+返回的png为 http://file.local.superdalan.com//784f129366cce70ef34ddf109c81451e~500
+1585929127
+{'status': True, 'msg': '成功'}
+---------------------------节点4------------------------------打开游戏结果:False
+全部测试已执行完毕

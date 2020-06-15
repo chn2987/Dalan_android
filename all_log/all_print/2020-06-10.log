@@ -1,0 +1,1441 @@
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 15:51:32===========================================
+Wed Jun 10 15:51:32 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2776&f=chwyly1_dalan_dysdk_74_1_20200610_155253.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2898&f=shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 15:55:01===========================================
+Wed Jun 10 15:55:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2776&f=chwyly1_dalan_dysdk_74_1_20200610_155253.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2898&f=shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk']
+当前进程:29664--时间15:55:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2776&f=chwyly1_dalan_dysdk_74_1_20200610_155253.apk
+Wed Jun 10 15:55:02 2020--设备b5940085:{'model': 'MI 9', 'size': '1080x2340', 'system_version': '10', 'device_id': 'b5940085', 'imei': '867436046322127', 'network': '当前网络为-移动网络'}
+[文件大小]:138.65 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2776&f=chwyly1_dalan_dysdk_74_1_20200610_155253.apk完成！ 用时109.61秒
+---------------------------设备:b5940085____chwyly1_dalan_dysdk_74_1_20200610_155253.apk----节点1-----------------------------------下载校验结果：True
+1591775812
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 15:56:52 2020--29664--b5940085:File_directory下包有['chwyly1_dalan_dysdk_74_1_20200610_155253.apk']
+2020-06-10 15:56:52--b5940085开始安装chwyly1_dalan_dysdk_74_1_20200610_155253.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_dysdk_74_1_20200610_155253.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_dysdk_74_1_20200610_155253.apk==com.tencent.tmgp.ywhcchwy
+b5940085手机未安装com.tencent.tmgp.ywhcchwy包....
+False
+2020-06-10 15:56:57_开始在b5940085设备安装_chwyly1_dalan_dysdk_74_1_20200610_155253.apk
+b5940085手机已安装com.tencent.tmgp.ywhcchwy包....
+True
+------------------------------b5940085__chwyly1_dalan_dysdk_74_1_20200610_155253.apk----节点2-------------------------------------安装返回结果：True
+1591775829
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_dysdk_74_1_20200610_155253.apk==com.tencent.tmgp.ywhcchwy
+{'msg': '成功', 'status': True, 'data': {'game_original_name': '彩虹物语', 'file': [{'logo': '', 'login': '4713d8e70bbb13ab290f4d921fd35bea', 'load': '99248f9a7d9afa22a9478f06a6364da7', 'splash': 'd878ce0f1948a4f83c3adeb29298c88a'}], 'asset': [{'mp3_file': '', 'decompression': '', 'logo': 'assets/logo.png', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'login': 'assets/loginBg.jpg'}], 'game_app_name': '彩虹物语', 'channel_pinyin': 'dalan_dysdk'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_dysdk_74_1_20200610_155253.zip
+29664--b5940085--实际图片对应路径{'mp3_file': '', 'decompression': '', 'logo': 'assets/logo.png', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'login': 'assets/loginBg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_dysdk_74_1_20200610_155253/，对应pkg_id=2776
+Wed Jun 10 15:57:49 2020--29664--b5940085服务端素材图片['4713d8e70bbb13ab290f4d921fd35bea.jpg', '99248f9a7d9afa22a9478f06a6364da7.jpg', 'd878ce0f1948a4f83c3adeb29298c88a.jpg']
+b5940085--apk的应用名称=彩虹物语
+b5940085--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------29664--b5940085---chwyly1_dalan_dysdk_74_1_20200610_155253.apk----节点3------------------------------------拆包校验结果：True
+1591775873
+production
+{'msg': '成功', 'status': True}
+b5940085--手机亮屏状态
+Wed Jun 10 15:57:54 2020--29664--b5940085--http://pkg.superdalan.com/game.pkg/download?pkgId=2776&f=chwyly1_dalan_dysdk_74_1_20200610_155253.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1591775874
+production
+{'msg': '成功', 'status': True}
+b5940085执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:29664--设备id:b5940085--Wed Jun 10 15:57:56 2020
+当前进程:21700--时间15:55:01的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2898&f=shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk
+Wed Jun 10 15:55:03 2020--设备54a4c6159804:{'system_version': '7.0', 'size': '1080x1920', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'device_id': '54a4c6159804', 'model': 'Redmi Note 4X'}
+[文件大小]:258.78 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2898&f=shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk完成！ 用时130.15秒
+---------------------------设备:54a4c6159804____shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk----节点1-----------------------------------下载校验结果：True
+1591775833
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 15:57:13 2020--21700--54a4c6159804:File_directory下包有['shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk']
+2020-06-10 15:57:13--54a4c6159804开始安装shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk==com.shjbtb.wzjh
+54a4c6159804手机未安装com.shjbtb.wzjh包....
+False
+2020-06-10 15:57:21_开始在54a4c6159804设备安装_shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk
+54a4c6159804手机已安装com.shjbtb.wzjh包....
+True
+------------------------------54a4c6159804__shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk----节点2-------------------------------------安装返回结果：True
+1591775899
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk==com.shjbtb.wzjh
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'asset': [{'splash': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'mp3_file': ''}], 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'game_app_name': '山海经bt版', 'game_original_name': '我在江湖'}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.zip
+21700--54a4c6159804--实际图片对应路径{'splash': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533/，对应pkg_id=2898
+Wed Jun 10 15:58:40 2020--21700--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经bt版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------21700--54a4c6159804---shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk----节点3------------------------------------拆包校验结果：True
+1591775927
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.shjbtb.wzjh
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+21700--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//9361ddc5262de30490c2b464c9a5dfdb~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//9361ddc5262de30490c2b464c9a5dfdb~500
+1591775996
+production
+{'status': True, 'msg': '成功'}
+----------Wed Jun 10 15:59:56 2020--21700--54a4c6159804--shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18612260669
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804进入创角界面
+54a4c6159804循环判断游戏内元素
+[aircv][sift] threshold=0.7, result={'rectangle': [(0, 107), (0, 220), (397, 220), (397, 107)], 'result': [0, 164], 'confidence': 0.4523245580494404}
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//8312078e68da14c71c16ef0eb83789fd~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//8312078e68da14c71c16ef0eb83789fd~500
+1591776051
+production
+{'status': True, 'msg': '成功'}
+--------------------21700--54a4c6159804--shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+21700--54a4c6159804找到首充按钮
+54a4c6159804_已在充值档位页面
+54a4c6159804__子线程 eve__start 
+21700--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020061065450723478
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//c09e3d7aacc6086f92aeb8af5dd04c55~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//c09e3d7aacc6086f92aeb8af5dd04c55~500
+(True, '2020061065450723478', 'c09e3d7aacc6086f92aeb8af5dd04c55')
+production
+{'content': {'status': 1, 'status_desc': '已下单'}, 'msg': 'success', 'ret': 1}
+1591776101
+production
+{'status': True, 'msg': '成功'}
+-------------------Wed Jun 10 16:01:41 2020--21700--54a4c6159804__shjbtbgdtlmb_dalan_dsdk_48_1.0.0_20200609_164533.apk---节点6----------------------------下单调起微信结果:True
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:21700--设备id:54a4c6159804--Wed Jun 10 16:01:44 2020
+
+start主线程 at: Wed Jun 10 15:55:01 2020
+主进程 end at: Wed Jun 10 16:01:45 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:05:00===========================================
+Wed Jun 10 16:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:10:00===========================================
+Wed Jun 10 16:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:15:00===========================================
+Wed Jun 10 16:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:20:00===========================================
+Wed Jun 10 16:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:25:00===========================================
+Wed Jun 10 16:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:30:00===========================================
+Wed Jun 10 16:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:35:01===========================================
+Wed Jun 10 16:35:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:40:00===========================================
+Wed Jun 10 16:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:45:01===========================================
+Wed Jun 10 16:45:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:50:01===========================================
+Wed Jun 10 16:50:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 16:55:01===========================================
+Wed Jun 10 16:55:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:00:00===========================================
+Wed Jun 10 17:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:05:00===========================================
+Wed Jun 10 17:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:10:00===========================================
+Wed Jun 10 17:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:15:00===========================================
+Wed Jun 10 17:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:20:00===========================================
+Wed Jun 10 17:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:25:00===========================================
+Wed Jun 10 17:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:30:01===========================================
+Wed Jun 10 17:30:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:35:01===========================================
+Wed Jun 10 17:35:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:40:00===========================================
+Wed Jun 10 17:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:45:00===========================================
+Wed Jun 10 17:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:50:00===========================================
+Wed Jun 10 17:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 17:55:00===========================================
+Wed Jun 10 17:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:00:00===========================================
+Wed Jun 10 18:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:05:00===========================================
+Wed Jun 10 18:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:10:00===========================================
+Wed Jun 10 18:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:15:00===========================================
+Wed Jun 10 18:15:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk']
+当前进程:22404--时间18:15:11的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk
+Wed Jun 10 18:15:11 2020--设备b5940085:{'system_version': '10', 'size': '1080x2340', 'network': '当前网络为-移动网络', 'model': 'MI 9', 'device_id': 'b5940085', 'imei': '867436046322127'}
+[文件大小]:793.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk完成！ 用时297.72秒
+---------------------------设备:b5940085____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk----节点1-----------------------------------下载校验结果：True
+1591784410
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 18:20:10 2020--22404--b5940085:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk']
+2020-06-10 18:20:10--b5940085开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk==com.dalan.zsg
+b5940085手机未安装com.dalan.zsg包....
+False
+2020-06-10 18:20:27_开始在b5940085设备安装_sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk
+b5940085手机已安装com.dalan.zsg包....
+True
+------------------------------b5940085__sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk----节点2-------------------------------------安装返回结果：True
+1591784494
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk==com.dalan.zsg
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '征三国', 'asset': [{'load': 'assets/channel_loginloading.jpg', 'splash': 'assets/splash.png', 'mp3_file': '', 'decompression': '', 'logo': 'assets/logo.mp4', 'login': 'assets/channel_login.jpg'}], 'game_original_name': '三国杀名将传', 'channel_pinyin': 'dsdk', 'file': [{'logo': '03e0b9681c9804fee6c49455a5c869a6', 'load': '5f947db9c2c1285be8c680883745e7f1', 'login': '7028b43bc9cabcf82e3b6cc2c1d68937', 'splash': '1abc1b884fd7f50ebaeb750d88bd9442'}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.zip
+22404--b5940085--实际图片对应路径{'load': 'assets/channel_loginloading.jpg', 'decompression': '', 'mp3_file': '', 'logo': 'assets/logo.mp4', 'splash': 'assets/splash.png', 'login': 'assets/channel_login.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556/，对应pkg_id=2901
+Wed Jun 10 18:22:44 2020--22404--b5940085服务端素材图片['03e0b9681c9804fee6c49455a5c869a6.jpg', '5f947db9c2c1285be8c680883745e7f1.jpg', '7028b43bc9cabcf82e3b6cc2c1d68937.jpg', '1abc1b884fd7f50ebaeb750d88bd9442.jpg']
+b5940085--apk的应用名称=征三国
+--------------------------22404--b5940085---sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_181556.apk----节点3------------------------------------拆包校验结果：False
+失败原因:只有应用名称匹配成功_图片失败
+1591784569
+production
+{'status': True, 'msg': '成功'}
+b5940085包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Wed Jun 10 18:15:00 2020
+主进程 end at: Wed Jun 10 18:22:52 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:25:00===========================================
+Wed Jun 10 18:25:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:30:00===========================================
+Wed Jun 10 18:30:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:35:00===========================================
+Wed Jun 10 18:35:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_183251.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk']
+当前进程:17544--时间18:35:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_183251.apk
+Wed Jun 10 18:35:02 2020--设备b5940085:{'device_id': 'b5940085', 'system_version': '10', 'size': '1080x2340', 'model': 'MI 9', 'imei': '867436046322127', 'network': '当前网络为-移动网络'}
+[文件大小]:133.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_183251.apk完成！ 用时157.96秒
+---------------------------设备:b5940085____chwyly1_dalan_bilibili_74_1_20200610_183251.apk----节点1-----------------------------------下载校验结果：True
+1591785460
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 18:37:40 2020--17544--b5940085:File_directory下包有['chwyly1_dalan_bilibili_74_1_20200610_183251.apk']
+2020-06-10 18:37:40--b5940085开始安装chwyly1_dalan_bilibili_74_1_20200610_183251.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_183251.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_183251.apk==com.ywhc.chwy.bilibili
+b5940085手机未安装com.ywhc.chwy.bilibili包....
+False
+2020-06-10 18:37:45_开始在b5940085设备安装_chwyly1_dalan_bilibili_74_1_20200610_183251.apk
+b5940085手机已安装com.ywhc.chwy.bilibili包....
+True
+------------------------------b5940085__chwyly1_dalan_bilibili_74_1_20200610_183251.apk----节点2-------------------------------------安装返回结果：True
+1591785474
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_183251.apk==com.ywhc.chwy.bilibili
+{'msg': '成功', 'data': {'channel_pinyin': 'dalan_bilibili', 'game_original_name': '彩虹物语', 'file': [{'login': '4713d8e70bbb13ab290f4d921fd35bea', 'load': '99248f9a7d9afa22a9478f06a6364da7', 'splash': 'd878ce0f1948a4f83c3adeb29298c88a', 'logo': ''}], 'game_app_name': '彩虹物语', 'asset': [{'login': 'assets/loginBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'load': 'assets/loadingBg.jpg', 'decompression': '', 'mp3_file': '', 'logo': 'assets/logo.png'}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_183251.zip
+17544--b5940085--实际图片对应路径{'login': 'assets/loginBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': '', 'logo': 'assets/logo.png', 'load': 'assets/loadingBg.jpg', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_183251/，对应pkg_id=2849
+Wed Jun 10 18:38:17 2020--17544--b5940085服务端素材图片['4713d8e70bbb13ab290f4d921fd35bea.jpg', 'd878ce0f1948a4f83c3adeb29298c88a.jpg', '99248f9a7d9afa22a9478f06a6364da7.jpg']
+b5940085--apk的应用名称=彩虹物语
+b5940085--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------17544--b5940085---chwyly1_dalan_bilibili_74_1_20200610_183251.apk----节点3------------------------------------拆包校验结果：True
+1591785500
+production
+{'status': True, 'msg': '成功'}
+b5940085--手机亮屏状态
+Wed Jun 10 18:38:21 2020--17544--b5940085--http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_183251.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1591785501
+production
+{'status': True, 'msg': '成功'}
+b5940085执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:17544--设备id:b5940085--Wed Jun 10 18:38:23 2020
+当前进程:33448--时间18:35:01的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk
+Wed Jun 10 18:35:03 2020--设备54a4c6159804:{'size': '1080x1920', 'network': '当前网络为-wifi', 'system_version': '7.0', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'device_id': '54a4c6159804'}
+[文件大小]:793.92 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk完成！ 用时718.05秒
+---------------------------设备:54a4c6159804____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk----节点1-----------------------------------下载校验结果：True
+1591786022
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 18:47:02 2020--33448--54a4c6159804:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk']
+2020-06-10 18:47:02--54a4c6159804开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk==com.dalan.zsg
+54a4c6159804手机未安装com.dalan.zsg包....
+False
+2020-06-10 18:47:27_开始在54a4c6159804设备安装_sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk
+54a4c6159804手机已安装com.dalan.zsg包....
+True
+------------------------------54a4c6159804__sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk----节点2-------------------------------------安装返回结果：True
+1591786156
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk==com.dalan.zsg
+{'data': {'game_original_name': '三国杀名将传', 'asset': [{'splash': 'assets/splash.png', 'mp3_file': '', 'load': 'assets/channel_loginloading.jpg', 'decompression': '', 'login': 'assets/channel_login.jpg', 'logo': 'assets/logo.mp4'}], 'game_app_name': '征三国', 'file': [{'logo': '', 'splash': '1abc1b884fd7f50ebaeb750d88bd9442', 'login': '7028b43bc9cabcf82e3b6cc2c1d68937', 'load': '5f947db9c2c1285be8c680883745e7f1'}], 'channel_pinyin': 'dsdk'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.zip
+33448--54a4c6159804--实际图片对应路径{'splash': 'assets/splash.png', 'logo': 'assets/logo.mp4', 'load': 'assets/channel_loginloading.jpg', 'decompression': '', 'login': 'assets/channel_login.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345/，对应pkg_id=2901
+Wed Jun 10 18:50:13 2020--33448--54a4c6159804服务端素材图片['1abc1b884fd7f50ebaeb750d88bd9442.jpg', '5f947db9c2c1285be8c680883745e7f1.jpg', '7028b43bc9cabcf82e3b6cc2c1d68937.jpg']
+54a4c6159804--apk的应用名称=征三国
+54a4c6159804--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------33448--54a4c6159804---sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk----节点3------------------------------------拆包校验结果：True
+1591786217
+production
+{'msg': '成功', 'status': True}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+Wed Jun 10 18:50:21 2020--33448--54a4c6159804--http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_182345.apk此原名游戏尚未接入，敬请期待
+1591786221
+production
+{'msg': '成功', 'status': True}
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:33448--设备id:54a4c6159804--Wed Jun 10 18:50:24 2020
+当前进程:7116--时间18:35:01的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk
+Wed Jun 10 18:35:03 2020--设备R8AYIJWO99999999:{'model': 'Redmi Note 3', 'system_version': '5.0.2', 'network': '当前网络为-移动网络', 'imei': '/system/bin/sh: tail: not found\n\n', 'device_id': 'R8AYIJWO99999999', 'size': '1080x1920'}
+[文件大小]:793.49 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk完成！ 用时719.69秒
+---------------------------设备:R8AYIJWO99999999____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk----节点1-----------------------------------下载校验结果：True
+1591786023
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 18:47:04 2020--7116--R8AYIJWO99999999:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk']
+2020-06-10 18:47:04--R8AYIJWO99999999开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk==com.dalan.zsg
+R8AYIJWO99999999手机未安装com.dalan.zsg包....
+False
+2020-06-10 18:47:28_开始在R8AYIJWO99999999设备安装_sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk
+R8AYIJWO99999999手机已安装com.dalan.zsg包....
+True
+------------------------------R8AYIJWO99999999__sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk----节点2-------------------------------------安装返回结果：True
+1591786220
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk==com.dalan.zsg
+{'msg': '成功', 'data': {'asset': [{'load': 'assets/channel_loginloading.jpg', 'login': 'assets/channel_login.jpg', 'mp3_file': '', 'logo': 'assets/logo.mp4', 'decompression': '', 'splash': 'assets/splash.png'}], 'game_original_name': '三国杀名将传', 'channel_pinyin': 'dsdk', 'file': [{'login': '7028b43bc9cabcf82e3b6cc2c1d68937', 'load': '5f947db9c2c1285be8c680883745e7f1', 'splash': '1abc1b884fd7f50ebaeb750d88bd9442', 'logo': ''}], 'game_app_name': '征三国'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.zip
+7116--R8AYIJWO99999999--实际图片对应路径{'load': 'assets/channel_loginloading.jpg', 'login': 'assets/channel_login.jpg', 'mp3_file': '', 'splash': 'assets/splash.png', 'decompression': '', 'logo': 'assets/logo.mp4'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021/，对应pkg_id=2901
+Wed Jun 10 18:51:21 2020--7116--R8AYIJWO99999999服务端素材图片['1abc1b884fd7f50ebaeb750d88bd9442.jpg', '5f947db9c2c1285be8c680883745e7f1.jpg', '7028b43bc9cabcf82e3b6cc2c1d68937.jpg']
+R8AYIJWO99999999--apk的应用名称=征三国
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------7116--R8AYIJWO99999999---sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk----节点3------------------------------------拆包校验结果：True
+1591786286
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999手机已灭屏_将执行解锁命令
+R8AYIJWO99999999--手机亮屏状态_二次点亮
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+Wed Jun 10 18:51:30 2020--7116--R8AYIJWO99999999--http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_183021.apk此原名游戏尚未接入，敬请期待
+1591786290
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+2__end 进程:7116--设备id:R8AYIJWO99999999--Wed Jun 10 18:51:34 2020
+
+start主线程 at: Wed Jun 10 18:35:00 2020
+主进程 end at: Wed Jun 10 18:51:37 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 18:55:00===========================================
+Wed Jun 10 18:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:00:00===========================================
+Wed Jun 10 19:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:05:00===========================================
+Wed Jun 10 19:05:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk']
+当前进程:21584--时间19:05:13的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk
+Wed Jun 10 19:05:13 2020--设备b5940085:{'model': 'MI 9', 'device_id': 'b5940085', 'imei': '867436046322127', 'size': '1080x2340', 'network': '当前网络为-移动网络', 'system_version': '10'}
+[文件大小]:793.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk完成！ 用时117.73秒
+---------------------------设备:b5940085____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk----节点1-----------------------------------下载校验结果：True
+1591787232
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 19:07:12 2020--21584--b5940085:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk']
+2020-06-10 19:07:12--b5940085开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk==com.dalan.zsg
+b5940085手机已安装com.dalan.zsg包....
+True
+Wed Jun 10 19:07:34 2020--b5940085--install_前检查手机已安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk
+b5940085--开始卸载sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk包
+Wed Jun 10 19:07:35 2020--b5940085--卸载sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk包完成_____进行再次安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk
+b5940085手机已安装com.dalan.zsg包....
+------------------------------b5940085__sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk----节点2-------------------------------------安装返回结果：True
+1591787308
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk==com.dalan.zsg
+{'status': True, 'data': {'game_app_name': '征三国', 'file': [{'splash': '1abc1b884fd7f50ebaeb750d88bd9442', 'login': '7028b43bc9cabcf82e3b6cc2c1d68937', 'load': '5f947db9c2c1285be8c680883745e7f1', 'logo': ''}], 'game_original_name': '三国杀名将传', 'channel_pinyin': 'dsdk', 'asset': [{'login': 'assets/channel_login.jpg', 'logo': 'assets/logo.mp4', 'decompression': '', 'splash': 'assets/splash.png', 'mp3_file': '', 'load': 'assets/channel_loginloading.jpg'}]}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.zip
+21584--b5940085--实际图片对应路径{'login': 'assets/channel_login.jpg', 'load': 'assets/channel_loginloading.jpg', 'decompression': '', 'splash': 'assets/splash.png', 'mp3_file': '', 'logo': 'assets/logo.mp4'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150/，对应pkg_id=2901
+Wed Jun 10 19:09:35 2020--21584--b5940085服务端素材图片['1abc1b884fd7f50ebaeb750d88bd9442.jpg', '7028b43bc9cabcf82e3b6cc2c1d68937.jpg', '5f947db9c2c1285be8c680883745e7f1.jpg']
+b5940085--apk的应用名称=征三国
+b5940085--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------21584--b5940085---sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk----节点3------------------------------------拆包校验结果：True
+1591787380
+production
+{'msg': '成功', 'status': True}
+b5940085--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+Wed Jun 10 19:09:41 2020--21584--b5940085--http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_190150.apk此原名游戏尚未接入，敬请期待
+1591787381
+production
+{'msg': '成功', 'status': True}
+b5940085执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:21584--设备id:b5940085--Wed Jun 10 19:09:44 2020
+
+start主线程 at: Wed Jun 10 19:05:00 2020
+主进程 end at: Wed Jun 10 19:09:45 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:10:01===========================================
+Wed Jun 10 19:10:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:15:00===========================================
+Wed Jun 10 19:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:20:00===========================================
+Wed Jun 10 19:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:25:00===========================================
+Wed Jun 10 19:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:30:00===========================================
+Wed Jun 10 19:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:35:00===========================================
+Wed Jun 10 19:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:40:00===========================================
+Wed Jun 10 19:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:45:00===========================================
+Wed Jun 10 19:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:50:00===========================================
+Wed Jun 10 19:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 19:55:00===========================================
+Wed Jun 10 19:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:00:00===========================================
+Wed Jun 10 20:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:05:00===========================================
+Wed Jun 10 20:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:10:00===========================================
+Wed Jun 10 20:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:15:00===========================================
+Wed Jun 10 20:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:20:00===========================================
+Wed Jun 10 20:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:25:00===========================================
+Wed Jun 10 20:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:30:00===========================================
+Wed Jun 10 20:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:35:00===========================================
+Wed Jun 10 20:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:40:00===========================================
+Wed Jun 10 20:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+当前进程:34952--时间20:40:03的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 20:40:04 2020--设备b5940085:{'size': '', 'network': '当前网络为-移动网络', 'model': '', 'imei': '', 'system_version': '', 'device_id': 'b5940085'}
+[文件大小]:793.53 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk完成！ 用时171.37秒
+---------------------------设备:b5940085____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk----节点1-----------------------------------下载校验结果：True
+1591792976
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 20:42:56 2020--34952--b5940085:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+2020-06-10 20:42:56--b5940085开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 20:43:02 2020--b5940085安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 20:40:00 2020
+主进程 end at: Wed Jun 10 20:43:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:45:02===========================================
+Wed Jun 10 20:45:02 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+当前进程:21072--时间20:45:03的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 20:45:04 2020--设备b5940085:{'size': '', 'imei': '', 'model': '', 'device_id': 'b5940085', 'network': '当前网络为-移动网络', 'system_version': ''}
+[文件大小]:793.53 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk完成！ 用时93.19秒
+---------------------------设备:b5940085____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk----节点1-----------------------------------下载校验结果：True
+1591793198
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 20:46:38 2020--21072--b5940085:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+2020-06-10 20:46:38--b5940085开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 20:46:43 2020--b5940085安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 20:45:02 2020
+主进程 end at: Wed Jun 10 20:46:43 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 20:50:01===========================================
+Wed Jun 10 20:50:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+当前进程:14976--时间20:50:02的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 20:50:02 2020--设备b5940085:{'size': '', 'device_id': 'b5940085', 'model': '', 'imei': '', 'network': '当前网络为-移动网络', 'system_version': ''}
+[文件大小]:793.53 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk完成！ 用时341.86秒
+---------------------------设备:b5940085____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk----节点1-----------------------------------下载校验结果：True
+1591793745
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 20:55:45 2020--14976--b5940085:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+2020-06-10 20:55:45--b5940085开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 20:55:50 2020--b5940085安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 20:50:01 2020
+主进程 end at: Wed Jun 10 20:55:50 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:00:01===========================================
+Wed Jun 10 21:00:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_205947.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+当前进程:31780--时间21:00:02的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:00:02 2020--设备b5940085:{'network': '当前网络为-移动网络', 'imei': '', 'size': '', 'device_id': 'b5940085', 'system_version': '', 'model': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时150.13秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591794153
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:02:33 2020--31780--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:02:33--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:02:38 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+当前进程:13204--时间21:00:02的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_205947.apk
+Wed Jun 10 21:00:03 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'size': '1080x1920', 'model': 'Redmi Note 4X', 'system_version': '7.0'}
+[文件大小]:133.27 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_205947.apk完成！ 用时155.12秒
+---------------------------设备:54a4c6159804____chwyly1_dalan_bilibili_74_1_20200610_205947.apk----节点1-----------------------------------下载校验结果：True
+1591794159
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:02:39 2020--13204--54a4c6159804:File_directory下包有['chwyly1_dalan_bilibili_74_1_20200610_205947.apk']
+2020-06-10 21:02:39--54a4c6159804开始安装chwyly1_dalan_bilibili_74_1_20200610_205947.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_205947.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_205947.apk==com.ywhc.chwy.bilibili
+54a4c6159804手机未安装com.ywhc.chwy.bilibili包....
+False
+2020-06-10 21:02:45_开始在54a4c6159804设备安装_chwyly1_dalan_bilibili_74_1_20200610_205947.apk
+54a4c6159804手机已安装com.ywhc.chwy.bilibili包....
+True
+------------------------------54a4c6159804__chwyly1_dalan_bilibili_74_1_20200610_205947.apk----节点2-------------------------------------安装返回结果：True
+1591794195
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_205947.apk==com.ywhc.chwy.bilibili
+{'data': {'asset': [{'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png'}], 'file': [{'logo': '', 'load': '99248f9a7d9afa22a9478f06a6364da7', 'login': '4713d8e70bbb13ab290f4d921fd35bea', 'splash': 'd878ce0f1948a4f83c3adeb29298c88a'}], 'game_app_name': '彩虹物语', 'game_original_name': '彩虹物语', 'channel_pinyin': 'dalan_bilibili'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_205947.zip
+13204--54a4c6159804--实际图片对应路径{'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyly1_dalan_bilibili_74_1_20200610_205947/，对应pkg_id=2849
+Wed Jun 10 21:03:35 2020--13204--54a4c6159804服务端素材图片['99248f9a7d9afa22a9478f06a6364da7.jpg', '4713d8e70bbb13ab290f4d921fd35bea.jpg', 'd878ce0f1948a4f83c3adeb29298c88a.jpg']
+54a4c6159804--apk的应用名称=彩虹物语
+54a4c6159804--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------13204--54a4c6159804---chwyly1_dalan_bilibili_74_1_20200610_205947.apk----节点3------------------------------------拆包校验结果：True
+1591794220
+production
+{'msg': '成功', 'status': True}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+Wed Jun 10 21:03:42 2020--13204--54a4c6159804--http://pkg.superdalan.com/game.pkg/download?pkgId=2849&f=chwyly1_dalan_bilibili_74_1_20200610_205947.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1591794222
+production
+{'msg': '成功', 'status': True}
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:13204--设备id:54a4c6159804--Wed Jun 10 21:03:45 2020
+当前进程:15196--时间21:00:02的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+Wed Jun 10 21:00:03 2020--设备R8AYIJWO99999999:{'model': 'Redmi Note 3', 'device_id': 'R8AYIJWO99999999', 'system_version': '5.0.2', 'size': '1080x1920', 'network': '当前网络为-移动网络', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:793.53 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk完成！ 用时457.98秒
+---------------------------设备:R8AYIJWO99999999____sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk----节点1-----------------------------------下载校验结果：True
+1591794462
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 21:07:42 2020--15196--R8AYIJWO99999999:File_directory下包有['sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk']
+2020-06-10 21:07:42--R8AYIJWO99999999开始安装sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk==com.dalan.zsg
+R8AYIJWO99999999手机未安装com.dalan.zsg包....
+False
+2020-06-10 21:07:57_开始在R8AYIJWO99999999设备安装_sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk
+R8AYIJWO99999999手机已安装com.dalan.zsg包....
+True
+------------------------------R8AYIJWO99999999__sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk----节点2-------------------------------------安装返回结果：True
+1591794631
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk==com.dalan.zsg
+{'msg': '成功', 'status': True, 'data': {'file': [{'load': '5f947db9c2c1285be8c680883745e7f1', 'splash': 'f5ff1afff27a45b494653530dc24810a', 'login': '7028b43bc9cabcf82e3b6cc2c1d68937', 'logo': ''}], 'asset': [{'mp3_file': '', 'logo': 'assets/logo.mp4', 'login': 'assets/channel_login.jpg', 'decompression': '', 'load': 'assets/channel_loginloading.jpg', 'splash': 'assets/splash.png'}], 'channel_pinyin': 'dsdk', 'game_app_name': '征三国', 'game_original_name': '三国杀名将传'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.zip
+15196--R8AYIJWO99999999--实际图片对应路径{'mp3_file': '', 'logo': 'assets/logo.mp4', 'login': 'assets/channel_login.jpg', 'decompression': '', 'load': 'assets/channel_loginloading.jpg', 'splash': 'assets/splash.png'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856/，对应pkg_id=2901
+Wed Jun 10 21:11:17 2020--15196--R8AYIJWO99999999服务端素材图片['5f947db9c2c1285be8c680883745e7f1.jpg', 'f5ff1afff27a45b494653530dc24810a.jpg', '7028b43bc9cabcf82e3b6cc2c1d68937.jpg']
+R8AYIJWO99999999--apk的应用名称=征三国
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数3，实际匹配数3
+--------------------------15196--R8AYIJWO99999999---sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk----节点3------------------------------------拆包校验结果：True
+1591794683
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999手机已灭屏_将执行解锁命令
+R8AYIJWO99999999--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+Wed Jun 10 21:11:28 2020--15196--R8AYIJWO99999999--http://pkg.superdalan.com/game.pkg/download?pkgId=2901&f=sgsmjzzsghgf_dalan_dsdk_3_1.0.0_20200610_203856.apk此原名游戏尚未接入，敬请期待
+1591794688
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+2__end 进程:15196--设备id:R8AYIJWO99999999--Wed Jun 10 21:11:32 2020
+
+start主线程 at: Wed Jun 10 21:00:01 2020
+主进程 end at: Wed Jun 10 21:11:34 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:15:01===========================================
+Wed Jun 10 21:15:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:12248--时间21:15:14的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:15:15 2020--设备b5940085:{'system_version': '', 'imei': '', 'device_id': 'b5940085', 'size': '', 'network': '当前网络为-移动网络', 'model': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时52.45秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591794968
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 21:16:09 2020--12248--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:16:09--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:16:14 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:15:01 2020
+主进程 end at: Wed Jun 10 21:16:15 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:20:00===========================================
+Wed Jun 10 21:20:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:8788--时间21:20:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:20:01 2020--设备b5940085:{'size': '', 'imei': '', 'network': '当前网络为-移动网络', 'system_version': '', 'model': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.96秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591795256
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:20:56 2020--8788--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:20:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:21:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:20:00 2020
+主进程 end at: Wed Jun 10 21:21:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:25:00===========================================
+Wed Jun 10 21:25:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:12996--时间21:25:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:25:01 2020--设备b5940085:{'size': '', 'network': '当前网络为-移动网络', 'model': '', 'device_id': 'b5940085', 'system_version': '', 'imei': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.92秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591795557
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:25:57 2020--12996--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:25:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:26:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:25:00 2020
+主进程 end at: Wed Jun 10 21:26:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:30:00===========================================
+Wed Jun 10 21:30:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:21068--时间21:30:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:30:01 2020--设备b5940085:{'model': '', 'imei': '', 'network': '当前网络为-移动网络', 'size': '', 'device_id': 'b5940085', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.73秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591795858
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:30:58 2020--21068--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:30:58--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:31:03 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:30:00 2020
+主进程 end at: Wed Jun 10 21:31:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:35:00===========================================
+Wed Jun 10 21:35:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:23256--时间21:35:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:35:01 2020--设备b5940085:{'size': '', 'model': '', 'device_id': 'b5940085', 'network': '当前网络为-移动网络', 'system_version': '', 'imei': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.11秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591796157
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 21:35:57 2020--23256--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:35:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:36:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:35:00 2020
+主进程 end at: Wed Jun 10 21:36:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:40:00===========================================
+Wed Jun 10 21:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:27104--时间21:40:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:40:01 2020--设备b5940085:{'device_id': 'b5940085', 'system_version': '', 'network': '当前网络为-移动网络', 'model': '', 'imei': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.42秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591796456
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 21:40:56 2020--27104--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:40:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:41:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:40:00 2020
+主进程 end at: Wed Jun 10 21:41:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:45:00===========================================
+Wed Jun 10 21:45:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:26264--时间21:45:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:45:01 2020--设备b5940085:{'device_id': 'b5940085', 'imei': '', 'network': '当前网络为-移动网络', 'size': '', 'model': '', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.42秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591796757
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 21:45:57 2020--26264--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:45:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:46:03 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:45:00 2020
+主进程 end at: Wed Jun 10 21:46:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:50:00===========================================
+Wed Jun 10 21:50:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:30236--时间21:50:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:50:01 2020--设备b5940085:{'device_id': 'b5940085', 'size': '', 'system_version': '', 'network': '当前网络为-移动网络', 'imei': '', 'model': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.26秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591797057
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:50:57 2020--30236--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:50:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:51:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:50:00 2020
+主进程 end at: Wed Jun 10 21:51:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 21:55:00===========================================
+Wed Jun 10 21:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:11192--时间21:55:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:55:01 2020--设备b5940085:{'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'size': '', 'imei': '', 'model': '', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.18秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591797357
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 21:55:57 2020--11192--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 21:55:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 21:56:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 21:55:00 2020
+主进程 end at: Wed Jun 10 21:56:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:00:00===========================================
+Wed Jun 10 22:00:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:12920--时间22:00:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:00:01 2020--设备b5940085:{'imei': '', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'system_version': '', 'model': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.71秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591797656
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 22:00:56 2020--12920--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:00:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:01:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:00:00 2020
+主进程 end at: Wed Jun 10 22:01:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:05:00===========================================
+Wed Jun 10 22:05:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:31512--时间22:05:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:05:01 2020--设备b5940085:{'model': '', 'device_id': 'b5940085', 'size': '', 'network': '当前网络为-移动网络', 'system_version': '', 'imei': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.32秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591797957
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 22:05:57 2020--31512--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:05:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:06:03 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:05:00 2020
+主进程 end at: Wed Jun 10 22:06:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:10:01===========================================
+Wed Jun 10 22:10:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:31360--时间22:10:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:10:02 2020--设备b5940085:{'imei': '', 'size': '', 'network': '当前网络为-移动网络', 'system_version': '', 'device_id': 'b5940085', 'model': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.66秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591798257
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 22:10:57 2020--31360--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:10:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:11:03 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:10:01 2020
+主进程 end at: Wed Jun 10 22:11:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:15:01===========================================
+Wed Jun 10 22:15:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:22160--时间22:15:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:15:02 2020--设备b5940085:{'imei': '', 'model': '', 'network': '当前网络为-移动网络', 'size': '', 'system_version': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时52.65秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591798555
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 22:15:55 2020--22160--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:15:55--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:16:00 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:15:01 2020
+主进程 end at: Wed Jun 10 22:16:00 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:20:00===========================================
+Wed Jun 10 22:20:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:14308--时间22:20:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:20:01 2020--设备b5940085:{'system_version': '', 'network': '当前网络为-移动网络', 'model': '', 'imei': '', 'size': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.17秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591798856
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 22:20:56 2020--14308--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:20:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:21:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:20:00 2020
+主进程 end at: Wed Jun 10 22:21:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:25:00===========================================
+Wed Jun 10 22:25:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:13584--时间22:25:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:25:01 2020--设备b5940085:{'imei': '', 'device_id': 'b5940085', 'network': '当前网络为-移动网络', 'system_version': '', 'model': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.90秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591799156
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 22:25:56 2020--13584--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:25:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:26:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:25:00 2020
+主进程 end at: Wed Jun 10 22:26:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:30:00===========================================
+Wed Jun 10 22:30:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:12488--时间22:30:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:30:01 2020--设备b5940085:{'imei': '', 'system_version': '', 'size': '', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'model': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.93秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591799458
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 22:30:58 2020--12488--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:30:58--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:31:03 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:30:00 2020
+主进程 end at: Wed Jun 10 22:31:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:35:00===========================================
+Wed Jun 10 22:35:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:26176--时间22:35:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:35:01 2020--设备b5940085:{'network': '当前网络为-移动网络', 'system_version': '', 'model': '', 'size': '', 'device_id': 'b5940085', 'imei': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.32秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591799757
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 22:35:57 2020--26176--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:35:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:36:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:35:00 2020
+主进程 end at: Wed Jun 10 22:36:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:40:00===========================================
+Wed Jun 10 22:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:30856--时间22:40:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:40:01 2020--设备b5940085:{'network': '当前网络为-移动网络', 'model': '', 'device_id': 'b5940085', 'imei': '', 'size': '', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.95秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591800056
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 22:40:56 2020--30856--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:40:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:41:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:40:00 2020
+主进程 end at: Wed Jun 10 22:41:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:45:00===========================================
+Wed Jun 10 22:45:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:18708--时间22:45:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:45:01 2020--设备b5940085:{'imei': '', 'network': '当前网络为-移动网络', 'model': '', 'size': '', 'device_id': 'b5940085', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.94秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591800357
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 22:45:57 2020--18708--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:45:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:46:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:45:00 2020
+主进程 end at: Wed Jun 10 22:46:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:50:00===========================================
+Wed Jun 10 22:50:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:10412--时间22:50:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:50:01 2020--设备b5940085:{'size': '', 'imei': '', 'model': '', 'network': '当前网络为-移动网络', 'system_version': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.69秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591800657
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 22:50:57 2020--10412--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:50:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:51:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:50:00 2020
+主进程 end at: Wed Jun 10 22:51:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 22:55:00===========================================
+Wed Jun 10 22:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:20832--时间22:55:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:55:01 2020--设备b5940085:{'model': '', 'system_version': '', 'imei': '', 'device_id': 'b5940085', 'network': '当前网络为-移动网络', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.57秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591800955
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 22:55:55 2020--20832--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 22:55:55--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 22:56:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 22:55:00 2020
+主进程 end at: Wed Jun 10 22:56:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:00:00===========================================
+Wed Jun 10 23:00:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:8524--时间23:00:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:00:01 2020--设备b5940085:{'imei': '', 'system_version': '', 'network': '当前网络为-移动网络', 'size': '', 'model': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.61秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591801255
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:00:56 2020--8524--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:00:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:01:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:00:00 2020
+主进程 end at: Wed Jun 10 23:01:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:05:00===========================================
+Wed Jun 10 23:05:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:9524--时间23:05:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:05:01 2020--设备b5940085:{'imei': '', 'model': '', 'device_id': 'b5940085', 'network': '当前网络为-移动网络', 'size': '', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.05秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591801556
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 23:05:56 2020--9524--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:05:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:06:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:05:00 2020
+主进程 end at: Wed Jun 10 23:06:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:10:00===========================================
+Wed Jun 10 23:10:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:29584--时间23:10:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:10:01 2020--设备b5940085:{'model': '', 'imei': '', 'network': '当前网络为-移动网络', 'size': '', 'system_version': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.92秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591801856
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:10:56 2020--29584--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:10:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:11:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:10:00 2020
+主进程 end at: Wed Jun 10 23:11:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:15:00===========================================
+Wed Jun 10 23:15:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:13428--时间23:15:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:15:01 2020--设备b5940085:{'device_id': 'b5940085', 'system_version': '', 'network': '当前网络为-移动网络', 'imei': '', 'size': '', 'model': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.43秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591802156
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 23:15:56 2020--13428--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:15:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:16:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:15:00 2020
+主进程 end at: Wed Jun 10 23:16:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:20:00===========================================
+Wed Jun 10 23:20:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:26540--时间23:20:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:20:01 2020--设备b5940085:{'size': '', 'imei': '', 'model': '', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'system_version': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.25秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591802456
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:20:56 2020--26540--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:20:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:21:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:20:00 2020
+主进程 end at: Wed Jun 10 23:21:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:25:00===========================================
+Wed Jun 10 23:25:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:12816--时间23:25:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:25:01 2020--设备b5940085:{'model': '', 'network': '当前网络为-移动网络', 'system_version': '', 'device_id': 'b5940085', 'imei': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.46秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591802756
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 23:25:56 2020--12816--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:25:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:26:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:25:00 2020
+主进程 end at: Wed Jun 10 23:26:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:30:00===========================================
+Wed Jun 10 23:30:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:19900--时间23:30:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:30:01 2020--设备b5940085:{'system_version': '', 'device_id': 'b5940085', 'model': '', 'network': '当前网络为-移动网络', 'imei': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.17秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591803057
+production
+{'status': True, 'msg': '成功'}
+Wed Jun 10 23:30:57 2020--19900--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:30:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:31:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:30:00 2020
+主进程 end at: Wed Jun 10 23:31:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:35:00===========================================
+Wed Jun 10 23:35:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:16272--时间23:35:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:35:01 2020--设备b5940085:{'model': '', 'network': '当前网络为-移动网络', 'size': '', 'system_version': '', 'device_id': 'b5940085', 'imei': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.74秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591803357
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:35:57 2020--16272--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:35:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:36:02 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:35:00 2020
+主进程 end at: Wed Jun 10 23:36:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:40:00===========================================
+Wed Jun 10 23:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:34116--时间23:40:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:40:01 2020--设备b5940085:{'size': '', 'model': '', 'system_version': '', 'network': '当前网络为-移动网络', 'imei': '', 'device_id': 'b5940085'}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.14秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591803656
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:40:56 2020--34116--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:40:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:41:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:40:00 2020
+主进程 end at: Wed Jun 10 23:41:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:45:00===========================================
+Wed Jun 10 23:45:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:22512--时间23:45:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:45:01 2020--设备b5940085:{'system_version': '', 'network': '当前网络为-移动网络', 'model': '', 'device_id': 'b5940085', 'imei': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时53.85秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591803956
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:45:56 2020--22512--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:45:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:46:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:45:00 2020
+主进程 end at: Wed Jun 10 23:46:01 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:50:00===========================================
+Wed Jun 10 23:50:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:11420--时间23:50:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:50:01 2020--设备b5940085:{'imei': '', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'model': '', 'system_version': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时55.43秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591804257
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:50:57 2020--11420--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:50:57--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:51:03 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:50:00 2020
+主进程 end at: Wed Jun 10 23:51:03 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-10 23:55:00===========================================
+Wed Jun 10 23:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+当前进程:11980--时间23:55:01的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:55:01 2020--设备b5940085:{'device_id': 'b5940085', 'system_version': '', 'network': '当前网络为-移动网络', 'model': '', 'imei': '', 'size': ''}
+[文件大小]:128.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2761&f=chwyly1_dalan_huawei_74_1_20200610_205809.apk完成！ 用时54.44秒
+---------------------------设备:b5940085____chwyly1_dalan_huawei_74_1_20200610_205809.apk----节点1-----------------------------------下载校验结果：True
+1591804556
+production
+{'msg': '成功', 'status': True}
+Wed Jun 10 23:55:56 2020--11980--b5940085:File_directory下包有['chwyly1_dalan_huawei_74_1_20200610_205809.apk']
+2020-06-10 23:55:56--b5940085开始安装chwyly1_dalan_huawei_74_1_20200610_205809.apk
+Wed Jun 10 23:56:01 2020--b5940085安装chwyly1_dalan_huawei_74_1_20200610_205809.apk过程中出现异常_执行失败
+
+start主线程 at: Wed Jun 10 23:55:00 2020
+主进程 end at: Wed Jun 10 23:56:02 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success

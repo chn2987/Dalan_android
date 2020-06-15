@@ -1,0 +1,806 @@
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 14:57:52===========================================
+Mon Jun  8 14:57:52 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:27108--时间14:57:54的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 14:57:55 2020--设备54a4c6159804:{'imei': '99000920749832', 'network': '当前网络为-wifi', 'model': 'Redmi Note 4X', 'system_version': '7.0', 'size': '1080x1920', 'device_id': '54a4c6159804'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时13.81秒
+---------------------------设备:54a4c6159804____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591599490
+production
+{'msg': '成功', 'status': True}
+Mon Jun  8 14:58:10 2020--27108--54a4c6159804:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 14:58:10--54a4c6159804开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+54a4c6159804手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 14:58:15 2020--54a4c6159804--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+54a4c6159804--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 14:58:16 2020--54a4c6159804--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+54a4c6159804手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------54a4c6159804__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591599525
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'data': {'file': [{'load': '1e32ad2c77982fed8732b25d7e482a1d', 'login': 'b7106ab8b3620cbc509ef6175a822fe2'}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'game_app_name': '招摇如歌', 'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': ''}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+27108--54a4c6159804--实际图片对应路径{'splash': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 14:58:53 2020--27108--54a4c6159804服务端素材图片['1e32ad2c77982fed8732b25d7e482a1d.jpg', 'b7106ab8b3620cbc509ef6175a822fe2.jpg']
+54a4c6159804--apk的应用名称=招摇如歌
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------27108--54a4c6159804---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591599534
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.zyrg.toutiao2
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+27108--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//f446f74fd885e71643ddfef385195fbb~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//f446f74fd885e71643ddfef385195fbb~500
+1591599596
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  8 14:59:56 2020--27108--54a4c6159804--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804进入创角界面
+54a4c6159804循环判断游戏内元素
+[aircv][sift] threshold=0.7, result={'rectangle': [(0, 107), (0, 220), (397, 220), (397, 107)], 'confidence': 0.4523245580494404, 'result': [0, 164]}
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//dad0a25f21ccac7435ce581a1837cb42~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//dad0a25f21ccac7435ce581a1837cb42~500
+1591599651
+production
+{'msg': '成功', 'status': True}
+--------------------27108--54a4c6159804--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+27108--54a4c6159804找到首充按钮
+27108--54a4c6159804有立即领取按钮
+54a4c6159804_已在充值档位页面
+54a4c6159804__子线程 eve__start 
+27108--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060864259791767
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//2edb76a2ad3431205d24b8dddc395056~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//2edb76a2ad3431205d24b8dddc395056~500
+(True, '2020060864259791767', '2edb76a2ad3431205d24b8dddc395056')
+production
+{'ret': 1, 'content': {'status': 1, 'status_desc': '已下单'}, 'msg': 'success'}
+1591599697
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  8 15:01:37 2020--27108--54a4c6159804__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点6----------------------------下单调起微信结果:True
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:27108--设备id:54a4c6159804--Mon Jun  8 15:01:40 2020
+
+start主线程 at: Mon Jun  8 14:57:52 2020
+主进程 end at: Mon Jun  8 15:01:40 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:09:58===========================================
+Mon Jun  8 15:09:58 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:7680--时间15:10:00的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 15:10:02 2020--设备QDY4C17818002168:{'model': 'TRT-AL00', 'imei': '865767038708929', 'network': '当前网络为-移动网络', 'size': '720x1280', 'system_version': '7.0', 'device_id': 'QDY4C17818002168'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时11.08秒
+---------------------------设备:QDY4C17818002168____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591600213
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  8 15:10:13 2020--7680--QDY4C17818002168:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 15:10:13--QDY4C17818002168开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+QDY4C17818002168手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 15:10:24 2020--QDY4C17818002168--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+QDY4C17818002168--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 15:10:25 2020--QDY4C17818002168--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+QDY4C17818002168手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------QDY4C17818002168__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591600256
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'data': {'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'asset': [{'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'logo': ''}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'game_app_name': '招摇如歌'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+7680--QDY4C17818002168--实际图片对应路径{'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 15:11:03 2020--7680--QDY4C17818002168服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+QDY4C17818002168--apk的应用名称=招摇如歌
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------7680--QDY4C17818002168---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591600264
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168手机已灭屏_将执行解锁命令
+QDY4C17818002168--手机亮屏状态_二次点亮
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.zyrg.toutiao2
+QDY4C17818002168启动游戏时_有权限弹框
+7680--QDY4C17818002168已授权_或无需授权=2
+7680--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d9839415cba0f49e1c5f1863c5ea4d0a~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//d9839415cba0f49e1c5f1863c5ea4d0a~500
+1591600339
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  8 15:12:20 2020--7680--QDY4C17818002168--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号18520103625
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168登录游戏成功
+<img src='http://file.superdalan.com//1ebd8182f1138f88b35d8584beee9b04~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//1ebd8182f1138f88b35d8584beee9b04~500
+1591600390
+production
+{'status': True, 'msg': '成功'}
+--------------------7680--QDY4C17818002168--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+7680--QDY4C17818002168找到首充按钮
+7680--QDY4C17818002168有立即领取按钮
+QDY4C17818002168_已在充值档位页面
+QDY4C17818002168__子线程 eve__start 
+7680--QDY4C17818002168拉起支付方式弹窗成功
+QDY4C17818002168__子线程eve__stop
+QDY4C17818002168___主线程结束___
+None
+
+start主线程 at: Mon Jun  8 15:09:58 2020
+主进程 end at: Mon Jun  8 15:13:47 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:21:47===========================================
+Mon Jun  8 15:21:47 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:18116--时间15:21:49的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 15:21:50 2020--设备QDY4C17818002168:{'size': '720x1280', 'network': '当前网络为-wifi', 'system_version': '7.0', 'model': 'TRT-AL00', 'imei': '865767038708929', 'device_id': 'QDY4C17818002168'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时12.42秒
+---------------------------设备:QDY4C17818002168____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591600923
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  8 15:22:03 2020--18116--QDY4C17818002168:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 15:22:03--QDY4C17818002168开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+QDY4C17818002168手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 15:22:09 2020--QDY4C17818002168--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+QDY4C17818002168--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 15:22:10 2020--QDY4C17818002168--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+QDY4C17818002168手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------QDY4C17818002168__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591600960
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'status': True, 'data': {'asset': [{'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': ''}], 'game_original_name': '我在江湖', 'game_app_name': '招摇如歌', 'file': [{'load': '1e32ad2c77982fed8732b25d7e482a1d', 'login': 'b7106ab8b3620cbc509ef6175a822fe2'}], 'channel_pinyin': 'dsdk'}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+18116--QDY4C17818002168--实际图片对应路径{'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 15:23:00 2020--18116--QDY4C17818002168服务端素材图片['1e32ad2c77982fed8732b25d7e482a1d.jpg', 'b7106ab8b3620cbc509ef6175a822fe2.jpg']
+QDY4C17818002168--apk的应用名称=招摇如歌
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------18116--QDY4C17818002168---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591600981
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.zyrg.toutiao2
+QDY4C17818002168启动游戏时_有权限弹框
+18116--QDY4C17818002168已授权_或无需授权=2
+18116--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//701ac333abbf31c031e20276ff2c1d9f~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//701ac333abbf31c031e20276ff2c1d9f~500
+1591601049
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  8 15:24:09 2020--18116--QDY4C17818002168--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号18520103625
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168登录游戏成功
+<img src='http://file.superdalan.com//1963d8c1cbb9092c69cedea858768dc3~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//1963d8c1cbb9092c69cedea858768dc3~500
+1591601099
+production
+{'status': True, 'msg': '成功'}
+--------------------18116--QDY4C17818002168--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+18116--QDY4C17818002168找到首充按钮
+18116--QDY4C17818002168有立即领取按钮
+QDY4C17818002168_已在充值档位页面
+QDY4C17818002168__子线程 eve__start 
+18116--QDY4C17818002168拉起支付方式弹窗成功
+QDY4C17818002168__子线程eve__stop
+QDY4C17818002168___主线程结束___
+QDY4C17818002168登录order_id=2020060864265242649
+QDY4C17818002168当前未登录微信
+<img src='http://file.superdalan.com//1b6444e364640bfa8dc76e5c8ec66713~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//1b6444e364640bfa8dc76e5c8ec66713~500
+(True, '2020060864265242649', '1b6444e364640bfa8dc76e5c8ec66713')
+production
+{'ret': 1, 'msg': 'success', 'content': {'status': 1, 'status_desc': '已下单'}}
+1591601146
+production
+{'status': True, 'msg': '成功'}
+-------------------Mon Jun  8 15:25:46 2020--18116--QDY4C17818002168__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点6----------------------------下单调起微信结果:True
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+QDY4C17818002168执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:18116--设备id:QDY4C17818002168--Mon Jun  8 15:25:49 2020
+
+start主线程 at: Mon Jun  8 15:21:47 2020
+主进程 end at: Mon Jun  8 15:25:49 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:29:21===========================================
+Mon Jun  8 15:29:21 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:17392--时间15:29:22的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 15:29:24 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络', 'size': '1080x1920', 'system_version': '5.0.2', 'model': 'Redmi Note 3'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时12.75秒
+---------------------------设备:R8AYIJWO99999999____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591601377
+production
+{'msg': '成功', 'status': True}
+Mon Jun  8 15:29:37 2020--17392--R8AYIJWO99999999:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 15:29:37--R8AYIJWO99999999开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+R8AYIJWO99999999手机未安装com.dalan.zyrg.toutiao2包....
+False
+2020-06-08 15:29:42_开始在R8AYIJWO99999999设备安装_zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+R8AYIJWO99999999手机已安装com.dalan.zyrg.toutiao2包....
+True
+------------------------------R8AYIJWO99999999__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591601455
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'status': True, 'data': {'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'channel_pinyin': 'dsdk', 'asset': [{'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'logo': '', 'splash': '', 'decompression': ''}], 'game_original_name': '我在江湖', 'game_app_name': '招摇如歌'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+17392--R8AYIJWO99999999--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'logo': '', 'splash': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 15:31:02 2020--17392--R8AYIJWO99999999服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+R8AYIJWO99999999--apk的应用名称=招摇如歌
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------17392--R8AYIJWO99999999---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591601463
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999手机已灭屏_将执行解锁命令
+R8AYIJWO99999999--手机亮屏状态_二次点亮
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.zyrg.toutiao2
+17392--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//ac338c53abc8424f5c3eab9cb456bb41~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//ac338c53abc8424f5c3eab9cb456bb41~500
+1591601519
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  8 15:31:59 2020--17392--R8AYIJWO99999999--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18520103625
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999登录游戏成功
+<img src='http://file.superdalan.com//61065a803a2776fb6be713788121b51a~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//61065a803a2776fb6be713788121b51a~500
+1591601569
+production
+{'msg': '成功', 'status': True}
+--------------------17392--R8AYIJWO99999999--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+17392--R8AYIJWO99999999找到首充按钮
+17392--R8AYIJWO99999999有立即领取按钮
+[aircv][sift] threshold=0.6, result={'confidence': 0.6831857115030289, 'rectangle': [(100, 100), (100, 155), (342, 155), (342, 100)], 'result': (221, 127)}
+R8AYIJWO99999999_已在充值档位页面
+R8AYIJWO99999999__子线程 eve__start 
+17392--R8AYIJWO99999999拉起支付方式弹窗成功
+R8AYIJWO99999999__子线程eve__stop
+R8AYIJWO99999999___主线程结束___
+R8AYIJWO99999999登录order_id=2020060864267074735
+R8AYIJWO99999999当前未登录微信
+<img src='http://file.superdalan.com//0e47272021ee9197e97cd698d5f90051~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//0e47272021ee9197e97cd698d5f90051~500
+(True, '2020060864267074735', '0e47272021ee9197e97cd698d5f90051')
+production
+{'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1}
+1591601612
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  8 15:33:32 2020--17392--R8AYIJWO99999999__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点6----------------------------下单调起微信结果:True
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:17392--设备id:R8AYIJWO99999999--Mon Jun  8 15:33:36 2020
+
+start主线程 at: Mon Jun  8 15:29:21 2020
+主进程 end at: Mon Jun  8 15:33:36 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:54:44===========================================
+Mon Jun  8 15:54:44 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:54:51===========================================
+Mon Jun  8 15:54:51 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:30948--时间15:54:53的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 15:54:53 2020--设备b5940085:{'model': 'MI 9', 'device_id': 'b5940085', 'network': '当前网络为-移动网络', 'imei': '867436046322127', 'system_version': '10', 'size': '1080x2340'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时11.97秒
+---------------------------设备:b5940085____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591602906
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  8 15:55:06 2020--30948--b5940085:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 15:55:06--b5940085开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 15:55:10 2020--b5940085--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 15:55:11 2020--b5940085--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591602930
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'status': True, 'data': {'game_original_name': '我在江湖', 'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'channel_pinyin': 'dsdk', 'asset': [{'logo': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': ''}], 'game_app_name': '招摇如歌'}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+30948--b5940085--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'logo': '', 'splash': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 15:55:38 2020--30948--b5940085服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+b5940085--apk的应用名称=招摇如歌
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------30948--b5940085---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591602939
+production
+{'status': True, 'msg': '成功'}
+b5940085--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085 com.dalan.zyrg.toutiao2
+b5940085启动游戏时_有权限弹框
+b5940085已授权_或无需授权=2
+30948--b5940085打开app成功==到了登录页面
+<img src='http://file.superdalan.com//3481271fd6c4c2b31c93b001e94362da~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//3481271fd6c4c2b31c93b001e94362da~500
+1591602982
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  8 15:56:22 2020--30948--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+
+start主线程 at: Mon Jun  8 15:54:51 2020
+主进程 end at: Mon Jun  8 15:56:26 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:57:51===========================================
+Mon Jun  8 15:57:51 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 15:57:55===========================================
+Mon Jun  8 15:57:55 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:34824--时间15:57:52的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 15:57:53 2020--设备b5940085:{'network': '当前网络为-移动网络', 'imei': '867436046322127', 'system_version': '10', 'model': 'MI 9', 'device_id': 'b5940085', 'size': '1080x2340'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时9.78秒
+---------------------------设备:b5940085____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591603083
+production
+{'msg': '成功', 'status': True}
+Mon Jun  8 15:58:03 2020--34824--b5940085:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 15:58:03--b5940085开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 15:58:08 2020--b5940085--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 15:58:08 2020--b5940085--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591603107
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '我在江湖', 'game_app_name': '招摇如歌', 'asset': [{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}], 'file': [{'load': '1e32ad2c77982fed8732b25d7e482a1d', 'login': 'b7106ab8b3620cbc509ef6175a822fe2'}], 'channel_pinyin': 'dsdk'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+34824--b5940085--实际图片对应路径{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 15:58:37 2020--34824--b5940085服务端素材图片['1e32ad2c77982fed8732b25d7e482a1d.jpg', 'b7106ab8b3620cbc509ef6175a822fe2.jpg']
+b5940085--apk的应用名称=招摇如歌
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------34824--b5940085---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591603118
+production
+{'msg': '成功', 'status': True}
+b5940085--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085 com.dalan.zyrg.toutiao2
+b5940085启动游戏时_有权限弹框
+b5940085已授权_或无需授权=2
+34824--b5940085打开app成功==到了登录页面
+<img src='http://file.superdalan.com//8bea7d179cce9793383d4e90022c0a62~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//8bea7d179cce9793383d4e90022c0a62~500
+1591603161
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  8 15:59:21 2020--34824--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085在登录方式选择页面_有账号登录元素
+b5940085设备对应账号18520103625
+b5940085_没有有账号
+
+start主线程 at: Mon Jun  8 15:57:51 2020
+主进程 end at: Mon Jun  8 15:59:48 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 16:01:50===========================================
+Mon Jun  8 16:01:50 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:14344--时间16:01:51的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 16:01:52 2020--设备b5940085:{'network': '当前网络为-移动网络', 'imei': '867436046322127', 'device_id': 'b5940085', 'system_version': '10', 'size': '1080x2340', 'model': 'MI 9'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时9.66秒
+---------------------------设备:b5940085____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591603322
+production
+{'msg': '成功', 'status': True}
+Mon Jun  8 16:02:02 2020--14344--b5940085:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 16:02:02--b5940085开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 16:02:07 2020--b5940085--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 16:02:08 2020--b5940085--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591603346
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'data': {'file': [{'load': '1e32ad2c77982fed8732b25d7e482a1d', 'login': 'b7106ab8b3620cbc509ef6175a822fe2'}], 'asset': [{'load': 'assets/loadingbg.jpg', 'decompression': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'logo': ''}], 'game_app_name': '招摇如歌', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+14344--b5940085--实际图片对应路径{'load': 'assets/loadingbg.jpg', 'decompression': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 16:02:33 2020--14344--b5940085服务端素材图片['1e32ad2c77982fed8732b25d7e482a1d.jpg', 'b7106ab8b3620cbc509ef6175a822fe2.jpg']
+b5940085--apk的应用名称=招摇如歌
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------14344--b5940085---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591603354
+production
+{'msg': '成功', 'status': True}
+b5940085--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085 com.dalan.zyrg.toutiao2
+b5940085启动游戏时_有权限弹框
+b5940085已授权_或无需授权=1
+14344--b5940085找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//25346836cb96573f583514f84cfc2b25~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//25346836cb96573f583514f84cfc2b25~500
+1591603462
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  8 16:04:22 2020--14344--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:False
+
+start主线程 at: Mon Jun  8 16:01:50 2020
+主进程 end at: Mon Jun  8 16:04:23 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 16:05:49===========================================
+Mon Jun  8 16:05:49 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:12104--时间16:05:50的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 16:05:51 2020--设备b5940085:{'model': 'MI 9', 'size': '1080x2340', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'system_version': '10', 'imei': '867436046322127'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时9.58秒
+---------------------------设备:b5940085____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591603561
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  8 16:06:01 2020--12104--b5940085:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 16:06:01--b5940085开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 16:06:06 2020--b5940085--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 16:06:06 2020--b5940085--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591603585
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'data': {'game_app_name': '招摇如歌', 'channel_pinyin': 'dsdk', 'asset': [{'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': ''}], 'file': [{'load': '1e32ad2c77982fed8732b25d7e482a1d', 'login': 'b7106ab8b3620cbc509ef6175a822fe2'}], 'game_original_name': '我在江湖'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+12104--b5940085--实际图片对应路径{'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 16:06:32 2020--12104--b5940085服务端素材图片['1e32ad2c77982fed8732b25d7e482a1d.jpg', 'b7106ab8b3620cbc509ef6175a822fe2.jpg']
+b5940085--apk的应用名称=招摇如歌
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------12104--b5940085---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591603593
+production
+{'status': True, 'msg': '成功'}
+b5940085--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085 com.dalan.zyrg.toutiao2
+b5940085启动游戏时_有权限弹框
+b5940085已授权_或无需授权=2
+12104--b5940085打开app成功==到了登录页面
+<img src='http://file.superdalan.com//4b69972da9a6bbbde335694079cb1d3b~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//4b69972da9a6bbbde335694079cb1d3b~500
+1591603637
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  8 16:07:17 2020--12104--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085在登录方式选择页面_有账号登录元素
+b5940085设备对应账号18520103625
+b5940085_没有有账号
+
+start主线程 at: Mon Jun  8 16:05:49 2020
+主进程 end at: Mon Jun  8 16:07:44 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 19:55:38===========================================
+Mon Jun  8 19:55:38 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:15920--时间19:55:40的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 19:55:40 2020--设备b5940085:{'system_version': '10', 'size': '1080x2340', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'model': 'MI 9', 'imei': '867436046322127'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时19.26秒
+---------------------------设备:b5940085____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591617360
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  8 19:56:00 2020--15920--b5940085:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 19:56:00--b5940085开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 19:56:05 2020--b5940085--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 19:56:06 2020--b5940085--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591617387
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'game_original_name': '我在江湖', 'game_app_name': '招摇如歌', 'asset': [{'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': ''}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+15920--b5940085--实际图片对应路径{'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 19:56:35 2020--15920--b5940085服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+b5940085--apk的应用名称=招摇如歌
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------15920--b5940085---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591617397
+production
+{'status': True, 'msg': '成功'}
+b5940085--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085 com.dalan.zyrg.toutiao2
+b5940085启动游戏时_有权限弹框
+b5940085已授权_或无需授权=1
+15920--b5940085找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//4171079679a285bf27d38cfc47a4232c~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//4171079679a285bf27d38cfc47a4232c~500
+1591617506
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  8 19:58:26 2020--15920--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:False
+b5940085执行2次了还是失败，需要删除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Mon Jun  8 19:55:38 2020
+主进程 end at: Mon Jun  8 19:58:26 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 20:04:17===========================================
+Mon Jun  8 20:04:17 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-08 20:06:10===========================================
+Mon Jun  8 20:06:10 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+当前进程:17924--时间20:06:11的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+Mon Jun  8 20:06:12 2020--设备b5940085:{'size': '1080x2340', 'model': 'MI 9', 'network': '当前网络为-移动网络', 'device_id': 'b5940085', 'system_version': '10', 'imei': '867436046322127'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk完成！ 用时12.03秒
+---------------------------设备:b5940085____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点1-----------------------------------下载校验结果：True
+1591617985
+production
+{'msg': '成功', 'status': True}
+Mon Jun  8 20:06:25 2020--17924--b5940085:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk']
+2020-06-08 20:06:25--b5940085开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+True
+Mon Jun  8 20:06:29 2020--b5940085--install_前检查手机已安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085--开始卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包
+Mon Jun  8 20:06:30 2020--b5940085--卸载zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk包完成_____进行再次安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk
+b5940085手机已安装com.dalan.zyrg.toutiao2包....
+------------------------------b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点2-------------------------------------安装返回结果：True
+1591618007
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'game_app_name': '招摇如歌', 'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'asset': [{'login': 'assets/selectserverbg.jpg', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'logo': '', 'decompression': ''}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.zip
+17924--b5940085--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'logo': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657/，对应pkg_id=2887
+Mon Jun  8 20:06:55 2020--17924--b5940085服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+b5940085--apk的应用名称=招摇如歌
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------17924--b5940085---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点3------------------------------------拆包校验结果：True
+1591618016
+production
+{'msg': '成功', 'status': True}
+b5940085--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085 com.dalan.zyrg.toutiao2
+b5940085启动游戏时_有权限弹框
+b5940085已授权_或无需授权=2
+17924--b5940085打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d06fbb1b0d5533b437b7eba14328eebe~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//d06fbb1b0d5533b437b7eba14328eebe~500
+1591618060
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  8 20:07:40 2020--17924--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085在登录方式选择页面_有账号登录元素
+b5940085设备对应账号18520103625
+b5940085进入登录页_有进入游戏按钮
+[aircv][sift] threshold=0.7, result={'result': (229, 30), 'confidence': 0.8673980236053467, 'rectangle': [(120, 0), (120, 63), (338, 63), (338, 0)]}
+b5940085进入创角界面
+b5940085循环判断游戏内元素
+b5940085登录游戏成功
+<img src='http://file.superdalan.com//939406140ad39708320494416ad83e31~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//939406140ad39708320494416ad83e31~500
+1591618105
+production
+{'msg': '成功', 'status': True}
+--------------------17924--b5940085--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+17924--b5940085找到首充按钮
+[aircv][sift] threshold=0.7, result={'result': (195, 186), 'confidence': 0.48480137065052986, 'rectangle': [(164, 170), (164, 203), (227, 203), (227, 170)]}
+[aircv][sift] threshold=0.7, result={'result': (2021, 238), 'confidence': 0.542549379169941, 'rectangle': [(1984, 219), (1984, 257), (2058, 257), (2058, 219)]}
+[aircv][sift] threshold=0.7, result={'result': (195, 186), 'confidence': 0.48389216884970665, 'rectangle': [(164, 170), (164, 203), (227, 203), (227, 170)]}
+[aircv][sift] threshold=0.7, result={'result': (2020, 238), 'confidence': 0.5398687794804573, 'rectangle': [(1984, 219), (1984, 257), (2057, 257), (2057, 219)]}
+[aircv][sift] threshold=0.7, result={'result': (196, 186), 'confidence': 0.49886778206564486, 'rectangle': [(165, 170), (165, 203), (227, 203), (227, 170)]}
+[aircv][sift] threshold=0.7, result={'result': (2014, 234), 'confidence': 0.5296821650117636, 'rectangle': [(1983, 218), (1983, 251), (2046, 251), (2046, 218)]}
+[aircv][sift] threshold=0.7, result={'result': (196, 186), 'confidence': 0.5073023661971092, 'rectangle': [(165, 170), (165, 203), (227, 203), (227, 170)]}
+[aircv][sift] threshold=0.7, result={'result': (2020, 237), 'confidence': 0.584873653948307, 'rectangle': [(1984, 219), (1984, 256), (2056, 256), (2056, 219)]}
+[aircv][sift] threshold=0.7, result={'result': (196, 186), 'confidence': 0.5030230274423957, 'rectangle': [(165, 170), (165, 203), (227, 203), (227, 170)]}
+[aircv][sift] threshold=0.7, result={'result': (2014, 234), 'confidence': 0.5030230274423957, 'rectangle': [(1983, 218), (1983, 251), (2045, 251), (2045, 218)]}
+[aircv][sift] threshold=0.7, result={'result': (203, 190), 'confidence': 0.5455527491867542, 'rectangle': [(166, 171), (166, 209), (240, 209), (240, 171)]}
+[aircv][sift] threshold=0.7, result={'result': (2021, 238), 'confidence': 0.5455527491867542, 'rectangle': [(1984, 219), (1984, 257), (2058, 257), (2058, 219)]}
+17924--b5940085有立即领取按钮
+b5940085_已在充值档位页面
+b5940085__子线程 eve__start 
+17924--b5940085拉起支付方式弹窗成功
+b5940085__子线程eve__stop
+b5940085___主线程结束___
+b5940085登录order_id=2020060864344034789
+b5940085当前未登录微信
+<img src='http://file.superdalan.com//c0fb6b57deee95e4ee955157078514d5~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//c0fb6b57deee95e4ee955157078514d5~500
+(True, '2020060864344034789', 'c0fb6b57deee95e4ee955157078514d5')
+production
+{'msg': 'success', 'ret': 1, 'content': {'status_desc': '已下单', 'status': 1}}
+1591618156
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  8 20:09:16 2020--17924--b5940085__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200605_145657.apk---节点6----------------------------下单调起微信结果:True
+b5940085执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:17924--设备id:b5940085--Mon Jun  8 20:09:18 2020
+
+start主线程 at: Mon Jun  8 20:06:10 2020
+主进程 end at: Mon Jun  8 20:09:19 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success

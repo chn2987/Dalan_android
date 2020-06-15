@@ -1,0 +1,93 @@
+========================================start程序1111=============================================
+    ====================================2020-04-18 10:25:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk']
+[文件大小]:263.05 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk完成！ 用时16.11秒
+---------------------------0___20200415_120419.apk----节点1-----------------------------------下载校验结果：True
+1587176718
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk']
+2020-04-18 10:25:18开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+D:\Downloads\\dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk==com.tencent.tmgp.tgfml.xncsj
+此手机未安装com.tencent.tmgp.tgfml.xncsj包....
+False
+2020-04-18 10:25:22_开始安装_dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+此手机已安装com.tencent.tmgp.tgfml.xncsj包....
+True
+------------------------------0___20200415_120419.apk----节点2-------------------------------------安装返回结果：True
+1587176767
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk==com.tencent.tmgp.tgfml.xncsj
+{'data': {'game_app_name': '地下城勇者', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'decompression': ''}], 'file': [{'login': 'dc69aae724ca5a7b8d5715f88e471c95', 'load': 'ee3626ffc2400e6e32032f7307c6abcd'}]}, 'status': True, 'msg': '成功'}
+dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+实际图片对应路径{'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419/，对应pkg_id=2607
+服务端素材图片 ['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+apk的应用名称= 地下城勇者
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_120419.apk----节点3------------------------------------拆包校验结果：True
+1587176822
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//a1ee846eaecf952db9344d7902f9a224~500' width=600 />
+返回的png为 http://file.superdalan.com//a1ee846eaecf952db9344d7902f9a224~500
+1587176914
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200415_120419.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//57bad18a6e3354dc24a6db3f9037ecb5~500' width=600 />
+返回的png为 http://file.superdalan.com//57bad18a6e3354dc24a6db3f9037ecb5~500
+1587176958
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200415_120419.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041830642573561
+当前未登录微信
+<img src='http://file.superdalan.com//cc9c171187c5723fd96ee0142c9674db~500' width=600 />
+返回的png为 http://file.superdalan.com//cc9c171187c5723fd96ee0142c9674db~500
+(True, '2020041830642573561', 'cc9c171187c5723fd96ee0142c9674db')
+production
+{'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1, 'msg': 'success'}
+1587176997
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200415_120419.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+

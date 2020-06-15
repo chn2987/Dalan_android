@@ -1,0 +1,441 @@
+========================================start程序1111=============================================
+    ====================================2020-04-14 18:38:10===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk', 'htt
+p://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_171501.apk', '
+http://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk',
+ 'http://pkg.superdalan.com/game.pkg/download?pkgId=2605&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk']
+[文件大小]:253.74 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk完成！ 用时249.07秒
+---------------------------0___20200414_182324.apk----节点1-----------------------------------下载校验结果：True
+1586860941
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk']
+2020-04-14 18:42:21开始安装rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk
+D:\Downloads\\rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk==com.rongyao.wzjh.wzjh
+此手机未安装com.rongyao.wzjh.wzjh包....
+False
+2020-04-14 18:42:25_开始安装_rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk
+此手机已安装com.rongyao.wzjh.wzjh包....
+True
+------------------------------0___20200414_182324.apk----节点2-------------------------------------安装返回结果：True
+1586860980
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk==com.rongyao.wzjh.wzjh
+{'status': True, 'data': {'game_app_name': '江湖', 'game_original_name': '我在江湖', 'file': [None], 'asset': [{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'splash': ''}], 'channel_pinyin': 'rongyao_android'}, 'msg': '成功'}
+----------------------0___20200414_182324.apk---节点3------------------------------后台没有配置素材无需校验
+1586860981
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200414_182324.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586860988
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:257.41 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_171501.apk完成！ 用时81.83秒
+---------------------------1___20200414_171501.apk----节点1-----------------------------------下载校验结果：True
+1586861070
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_171501.apk']
+2020-04-14 18:44:30开始安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_171501.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-14 18:44:34_开始安装_lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_171501.apk
+安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_171501.apk过程中出现异常_执行失败
+------------------------------1___20200414_171501.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586861094
+production
+{'status': True, 'msg': '成功'}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:200.19 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk完成！ 用时16.65秒
+---------------------------2___20200414_182750.apk----节点1-----------------------------------下载校验结果：True
+1586861111
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk']
+2020-04-14 18:45:11开始安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-14 18:45:14_开始安装_lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk
+安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk过程中出现异常_执行失败
+------------------------------2___20200414_182750.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586861132
+production
+{'status': True, 'msg': '成功'}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:293.26 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2605&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk完成！ 用时21.12秒
+---------------------------3___20200414_182750.apk----节点1-----------------------------------下载校验结果：True
+1586861153
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk']
+2020-04-14 18:45:53开始安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk
+D:\Downloads\\lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk==com.tencent.tmgp.jmxyqybtb.tgfml
+此手机已安装com.tencent.tmgp.jmxyqybtb.tgfml包....
+True
+install_前检查手机已安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk
+开始卸载lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk包
+卸载lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk包完成_____进行再次安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk
+此手机已安装com.tencent.tmgp.jmxyqybtb.tgfml包....
+------------------------------3___20200414_182750.apk----节点2-------------------------------------安装返回结果：True
+1586861188
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk==com.tencent.tmgp.jmxyqybtb.tgfml
+{'status': True, 'data': {'game_app_name': '苍蓝航线', 'game_original_name': '黎明航线', 'file': [None], 'asset': [{'login': 'assets/vendor/bg_login.png', 'decompression': '', 'mp3_file': '', 'load': 'assets/vendor/bg_loading.png', 'logo': 'assets/vendor/logo.png', 'splash': ''}], 'channel_pinyin': 'dsdk'}, 'msg': '成功'}
+----------------------3___20200414_182750.apk---节点3------------------------------后台没有配置素材无需校验
+1586861188
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+ 3__http://pkg.superdalan.com/game.pkg/download?pkgId=2605&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_182750.apk此原名游戏尚未接入，敬请期待
+1586861223
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-14 19:05:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk']
+[文件大小]:293.26 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk完成！ 用时11.29秒
+---------------------------0___20200414_190442.apk----节点1-----------------------------------下载校验结果：True
+1586862313
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk']
+2020-04-14 19:05:13开始安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk
+D:\Downloads\\lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk==com.tencent.tmgp.jmxyqybtb.tgfml
+此手机已安装com.tencent.tmgp.jmxyqybtb.tgfml包....
+True
+install_前检查手机已安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk
+开始卸载lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk包
+卸载lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk包完成_____进行再次安装lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk
+此手机已安装com.tencent.tmgp.jmxyqybtb.tgfml包....
+------------------------------0___20200414_190442.apk----节点2-------------------------------------安装返回结果：True
+1586862351
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk==com.tencent.tmgp.jmxyqybtb.tgfml
+{'data': {'file': [None], 'game_original_name': '黎明航线', 'channel_pinyin': 'dsdk', 'asset': [{'load': 'assets/vendor/bg_loading.png', 'mp3_file': '', 'splash': '', 'logo': 'assets/vendor/logo.png', 'login': 'assets/vendor/bg_login.png', 'decompression': ''}], 'game_app_name': '苍蓝航线'}, 'status': True, 'msg': '成功'}
+----------------------0___20200414_190442.apk---节点3------------------------------后台没有配置素材无需校验
+1586862351
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2604&f=lmhxgdtzb_dalan_dsdk_59_1.0.0_20200414_190442.apk此原名游戏尚未接入，敬请期待
+1586862387
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-14 19:20:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2349&f=rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk']
+[文件大小]:253.74 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2349&f=rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk完成！ 用时6.17秒
+---------------------------0___20200414_192118.apk----节点1-----------------------------------下载校验结果：True
+1586863208
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk']
+2020-04-14 19:20:08开始安装rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk
+D:\Downloads\\rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk==com.rongyao.wzjh
+此手机未安装com.rongyao.wzjh包....
+False
+2020-04-14 19:20:12_开始安装_rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk
+此手机已安装com.rongyao.wzjh包....
+True
+------------------------------0___20200414_192118.apk----节点2-------------------------------------安装返回结果：True
+1586863249
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk==com.rongyao.wzjh
+{'data': {'asset': [{'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': '', 'splash': ''}], 'game_app_name': '江湖', 'game_original_name': '我在江湖', 'channel_pinyin': 'rongyao_android', 'file': [None]}, 'status': True, 'msg': '成功'}
+----------------------0___20200414_192118.apk---节点3------------------------------后台没有配置素材无需校验
+1586863249
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2349&f=rongyao22_rongyao_android_48_1.0.0_20200414_192118.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586863256
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-14 19:25:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk']
+[文件大小]:253.74 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk完成！ 用时5.90秒
+---------------------------0___20200414_192333.apk----节点1-----------------------------------下载校验结果：True
+1586863508
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk']
+2020-04-14 19:25:08开始安装rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk
+D:\Downloads\\rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk==com.rongyao.wzjh.wzjh
+此手机已安装com.rongyao.wzjh.wzjh包....
+True
+install_前检查手机已安装rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk
+开始卸载rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk包
+卸载rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk包完成_____进行再次安装rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk
+此手机已安装com.rongyao.wzjh.wzjh包....
+------------------------------0___20200414_192333.apk----节点2-------------------------------------安装返回结果：True
+1586863541
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk==com.rongyao.wzjh.wzjh
+{'msg': '成功', 'status': True, 'data': {'asset': [{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'rongyao_android', 'file': [None], 'game_app_name': '江湖'}}
+----------------------0___20200414_192333.apk---节点3------------------------------后台没有配置素材无需校验
+1586863541
+production
+{'msg': '成功', 'status': True}
+手机亮屏状态
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200414_192333.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586863547
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-14 20:10:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk']
+[文件大小]:37.37 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk完成！ 用时2.13秒
+---------------------------0___20200414_200958.apk----节点1-----------------------------------下载校验结果：True
+1586866205
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk']
+2020-04-14 20:10:05开始安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk
+D:\Downloads\\ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk==com.xycy.ceshi
+此手机未安装com.xycy.ceshi包....
+False
+2020-04-14 20:10:08_开始安装_ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk
+此手机已安装com.xycy.ceshi包....
+True
+------------------------------0___20200414_200958.apk----节点2-------------------------------------安装返回结果：True
+1586866220
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk==com.xycy.ceshi
+{'msg': '成功', 'status': True, 'data': {'game_original_name': '西游除妖', 'asset': [None], 'file': [None], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '西游除妖'}}
+----------------------0___20200414_200958.apk---节点3------------------------------后台没有配置素材无需校验
+1586866220
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_200958.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586866228
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-14 20:25:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk']
+[文件大小]:37.37 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk完成！ 用时1.68秒
+---------------------------0___20200414_202411.apk----节点1-----------------------------------下载校验结果：True
+1586867104
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk']
+2020-04-14 20:25:04开始安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk
+D:\Downloads\\ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk==com.xycy.ceshi
+此手机已安装com.xycy.ceshi包....
+True
+install_前检查手机已安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk
+开始卸载ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk包
+卸载ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk包完成_____进行再次安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk
+此手机已安装com.xycy.ceshi包....
+------------------------------0___20200414_202411.apk----节点2-------------------------------------安装返回结果：True
+1586867117
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk==com.xycy.ceshi
+{'data': {'game_original_name': '西游除妖', 'asset': [None], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '西游除妖', 'file': [None]}, 'status': True, 'msg': '成功'}
+----------------------0___20200414_202411.apk---节点3------------------------------后台没有配置素材无需校验
+1586867117
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202411.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586867124
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:37.37 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk完成！ 用时4.72秒
+---------------------------1___20200414_202611.apk----节点1-----------------------------------下载校验结果：True
+1586867129
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk']
+2020-04-14 20:25:29开始安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk
+D:\Downloads\\ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk==com.xycy.ceshi
+此手机已安装com.xycy.ceshi包....
+True
+install_前检查手机已安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk
+开始卸载ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk包
+卸载ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk包完成_____进行再次安装ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk
+此手机已安装com.xycy.ceshi包....
+------------------------------1___20200414_202611.apk----节点2-------------------------------------安装返回结果：True
+1586867141
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk==com.xycy.ceshi
+{'data': {'game_original_name': '西游除妖', 'asset': [None], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '西游除妖', 'file': [None]}, 'status': True, 'msg': '成功'}
+----------------------1___20200414_202611.apk---节点3------------------------------后台没有配置素材无需校验
+1586867141
+production
+{'msg': '成功', 'status': True}
+手机亮屏状态
+ 1__http://pkg.superdalan.com/game.pkg/download?pkgId=1646&f=ceshiyong_dalan_xy_dsdk_49_1.0.0_20200414_202611.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586867147
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-14 23:20:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2606&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk']
+[文件大小]:263.05 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2606&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk完成！ 用时5.66秒
+---------------------------0___20200414_231841.apk----节点1-----------------------------------下载校验结果：True
+1586877608
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk']
+2020-04-14 23:20:08开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+D:\Downloads\\dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk==com.tencent.tmgp.tgfml.jwcs
+此手机未安装com.tencent.tmgp.tgfml.jwcs包....
+False
+2020-04-14 23:20:11_开始安装_dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+此手机已安装com.tencent.tmgp.tgfml.jwcs包....
+True
+------------------------------0___20200414_231841.apk----节点2-------------------------------------安装返回结果：True
+1586877647
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk==com.tencent.tmgp.tgfml.jwcs
+{'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'game_app_name': '地下城勇者', 'asset': [{'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg'}], 'file': [{'login': 'dc69aae724ca5a7b8d5715f88e471c95', 'load': 'ee3626ffc2400e6e32032f7307c6abcd'}]}, 'msg': '成功', 'status': True}
+dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.
+0_20200414_231841/，对应pkg_id=2606
+服务端素材图片 ['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+apk的应用名称= 地下城勇者
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200414_231841.apk----节点3------------------------------------拆包校验结果：True
+1586877669
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//890a07a4ef338f48f5c6d2dec509375a~500' width=600 />
+返回的png为 http://file.superdalan.com//890a07a4ef338f48f5c6d2dec509375a~500
+1586877736
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200414_231841.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//d3a181208fa477a712c795df030db444~500' width=600 />
+返回的png为 http://file.superdalan.com//d3a181208fa477a712c795df030db444~500
+1586877778
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200414_231841.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041443298655689
+<img src='http://file.superdalan.com//f6d0ab89b496f0d1ff159abea3dba82b~500' width=600 />
+返回的png为 http://file.superdalan.com//f6d0ab89b496f0d1ff159abea3dba82b~500
+1586877814
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200414_231841.apk---节点6----------------------------下单调起微信结果:False
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+

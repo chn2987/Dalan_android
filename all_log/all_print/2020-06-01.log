@@ -1,0 +1,1936 @@
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 11:45:00===========================================
+Mon Jun  1 11:45:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2839&f=chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:4724--时间11:45:01的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 11:45:02 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'size': '1080x1920', 'model': 'Redmi Note 3', 'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时103.08秒
+---------------------------设备:R8AYIJWO99999999____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1590983206
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 11:46:46 2020--4724--R8AYIJWO99999999:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 11:46:46--R8AYIJWO99999999开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+R8AYIJWO99999999手机未安装com.ywhc.xxyzhbb包....
+False
+2020-06-01 11:46:51_开始在R8AYIJWO99999999设备安装_chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+R8AYIJWO99999999手机已安装com.ywhc.xxyzhbb包....
+True
+------------------------------R8AYIJWO99999999__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1590983262
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'xy_dsdk', 'asset': [{'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': '', 'decompression': ''}], 'game_app_name': '小小勇者：红包版', 'file': [{'logo': '', 'login': '98b75abc747451a09d6ba895330d053e', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e', 'splash': ''}], 'game_original_name': '彩虹物语'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+4724--R8AYIJWO99999999--实际图片对应路径{'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 11:47:49 2020--4724--R8AYIJWO99999999服务端素材图片['98b75abc747451a09d6ba895330d053e.jpg', '8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg']
+R8AYIJWO99999999--apk的应用名称=小小勇者：红包版
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------4724--R8AYIJWO99999999---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1590983270
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999手机已灭屏_将执行解锁命令
+R8AYIJWO99999999--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+[aircv][sift] threshold=0.7, result={'result': (798, 980), 'confidence': 0.5887783020734787, 'rectangle': [(716, 959), (716, 1002), (880, 1002), (880, 959)]}
+[aircv][sift] threshold=0.7, result={'result': (796, 981), 'confidence': 0.5707187801599503, 'rectangle': [(715, 959), (715, 1003), (878, 1003), (878, 959)]}
+[aircv][sift] threshold=0.7, result={'result': (798, 980), 'confidence': 0.5887783020734787, 'rectangle': [(716, 959), (716, 1002), (880, 1002), (880, 959)]}
+[aircv][sift] threshold=0.7, result={'result': (796, 981), 'confidence': 0.5707187801599503, 'rectangle': [(715, 959), (715, 1003), (878, 1003), (878, 959)]}
+[aircv][sift] threshold=0.7, result={'result': (796, 981), 'confidence': 0.5707187801599503, 'rectangle': [(715, 959), (715, 1003), (878, 1003), (878, 959)]}
+R8AYIJWO99999999_无热更按钮，不需要热更
+R8AYIJWO99999999-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1590983328
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 11:48:48 2020--4724--R8AYIJWO99999999--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面
+已在登录_在输入账号密码页面_R8AYIJWO99999999设备对应账号18520103625
+R8AYIJWO99999999游戏前_选择角色
+R8AYIJWO99999999在选服后出现异常,可能在维护(-详情看截图)
+<img src='http://file.superdalan.com//78243ae8688fa41c739b2427eb722054~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//78243ae8688fa41c739b2427eb722054~500
+1590983393
+production
+{'status': True, 'msg': '成功'}
+--------------------4724--R8AYIJWO99999999--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点5----------------------------登录游戏结果:False
+当前进程:7112--时间11:45:01的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2839&f=chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk
+Mon Jun  1 11:45:01 2020--设备54a4c6159804:{'model': '', 'device_id': '54a4c6159804', 'imei': '', 'size': '', 'system_version': '', 'network': '当前网络为-移动网络'}
+[文件大小]:129.97 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2839&f=chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk完成！ 用时101.77秒
+---------------------------设备:54a4c6159804____chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk----节点1-----------------------------------下载校验结果：True
+1590983203
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 11:46:43 2020--7112--54a4c6159804:File_directory下包有['chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk']
+2020-06-01 11:46:43--54a4c6159804开始安装chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk==com.ywhc.fzdl
+54a4c6159804手机已安装com.ywhc.fzdl包....
+True
+Mon Jun  1 11:46:49 2020--54a4c6159804--install_前检查手机已安装chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk
+54a4c6159804--开始卸载chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk包
+Mon Jun  1 11:46:50 2020--54a4c6159804--卸载chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk包完成_____进行再次安装chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk
+54a4c6159804手机已安装com.ywhc.fzdl包....
+------------------------------54a4c6159804__chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk----节点2-------------------------------------安装返回结果：True
+1590983228
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk==com.ywhc.fzdl
+{'data': {'channel_pinyin': 'xy_dsdk', 'asset': [{'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'login': 'assets/loginBg.jpg', 'mp3_file': ''}], 'file': [{'login': 'ff9a0110904b578eb3126a28afc44a5d', 'load': 'a76b178c72948b57cea6991ad8e8ba9a', 'logo': '', 'splash': ''}], 'game_original_name': '彩虹物语', 'game_app_name': '枫之大陆：红包版'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.zip
+7112--54a4c6159804--实际图片对应路径{'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'login': 'assets/loginBg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421/，对应pkg_id=2839
+Mon Jun  1 11:47:18 2020--7112--54a4c6159804服务端素材图片['ff9a0110904b578eb3126a28afc44a5d.jpg', 'a76b178c72948b57cea6991ad8e8ba9a.jpg']
+54a4c6159804--apk的应用名称=枫之大陆：红包版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------7112--54a4c6159804---chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk----节点3------------------------------------拆包校验结果：True
+1590983241
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+[aircv][sift] threshold=0.7, result={'rectangle': [(695, 955), (695, 1000), (872, 1000), (872, 955)], 'result': (783, 977), 'confidence': 0.512099739164114}
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//32090b76666bf8dae29ea5396efcdbbc~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//32090b76666bf8dae29ea5396efcdbbc~500
+1590983323
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 11:48:43 2020--7112--54a4c6159804--chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面
+已在登录_在输入账号密码页面_54a4c6159804设备对应账号18612260669
+54a4c6159804游戏前_选择角色
+[aircv][sift] threshold=0.7, result={'rectangle': [(616, 970), (616, 1005), (913, 1005), (913, 970)], 'result': [765, 988], 'confidence': 0.4492078311741352}
+[aircv][sift] threshold=0.7, result={'rectangle': [(616, 970), (616, 1005), (913, 1005), (913, 970)], 'result': [765, 988], 'confidence': 0.4523962177336216}
+54a4c6159804进入游戏异常_找不到元素
+<img src='http://file.superdalan.com//0b3723ae51007b390fd0803f8358876c~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//0b3723ae51007b390fd0803f8358876c~500
+1590983403
+production
+{'status': True, 'msg': '成功'}
+--------------------7112--54a4c6159804--chwyfzdlhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181421.apk---节点5----------------------------登录游戏结果:False
+54a4c6159804执行2次了还是失败，需要删除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Mon Jun  1 11:45:00 2020
+主进程 end at: Mon Jun  1 11:50:05 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 11:55:02===========================================
+Mon Jun  1 11:55:02 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:1444--时间11:55:24的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 11:55:25 2020--设备54a4c6159804:{'imei': '99000920749832', 'system_version': '7.0', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'size': '1080x1920', 'model': 'Redmi Note 4X'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时60.37秒
+---------------------------设备:54a4c6159804____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1590983786
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 11:56:26 2020--1444--54a4c6159804:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 11:56:26--54a4c6159804开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+True
+Mon Jun  1 11:56:32 2020--54a4c6159804--install_前检查手机已安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804--开始卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包
+Mon Jun  1 11:56:33 2020--54a4c6159804--卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包完成_____进行再次安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+------------------------------54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1590983812
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'msg': '成功', 'status': True, 'data': {'asset': [{'logo': 'assets/logo.png', 'decompression': '', 'load': 'assets/loadingBg.jpg', 'login': 'assets/loginBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': ''}], 'file': [{'login': '98b75abc747451a09d6ba895330d053e', 'splash': '', 'logo': '', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e'}], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '小小勇者：红包版', 'game_original_name': '彩虹物语'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+1444--54a4c6159804--实际图片对应路径{'logo': 'assets/logo.png', 'decompression': '', 'load': 'assets/loadingBg.jpg', 'login': 'assets/loginBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 11:57:00 2020--1444--54a4c6159804服务端素材图片['98b75abc747451a09d6ba895330d053e.jpg', '8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg']
+54a4c6159804--apk的应用名称=小小勇者：红包版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------1444--54a4c6159804---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1590983822
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//dac2fbcae539831c82c5728c0694c3d4~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//dac2fbcae539831c82c5728c0694c3d4~500
+1590983949
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  1 11:59:09 2020--1444--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:False
+54a4c6159804执行2次了还是失败，需要删除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Mon Jun  1 11:55:02 2020
+主进程 end at: Mon Jun  1 11:59:09 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:00:00===========================================
+Mon Jun  1 12:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:05:00===========================================
+Mon Jun  1 12:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:10:00===========================================
+Mon Jun  1 12:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:15:00===========================================
+Mon Jun  1 12:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:20:00===========================================
+Mon Jun  1 12:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:25:00===========================================
+Mon Jun  1 12:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:30:00===========================================
+Mon Jun  1 12:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:35:00===========================================
+Mon Jun  1 12:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:40:00===========================================
+Mon Jun  1 12:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:45:00===========================================
+Mon Jun  1 12:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:50:00===========================================
+Mon Jun  1 12:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 12:55:00===========================================
+Mon Jun  1 12:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:00:00===========================================
+Mon Jun  1 13:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:05:00===========================================
+Mon Jun  1 13:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:10:00===========================================
+Mon Jun  1 13:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:15:00===========================================
+Mon Jun  1 13:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:20:00===========================================
+Mon Jun  1 13:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:25:00===========================================
+Mon Jun  1 13:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:30:00===========================================
+Mon Jun  1 13:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:35:00===========================================
+Mon Jun  1 13:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:40:00===========================================
+Mon Jun  1 13:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:45:00===========================================
+Mon Jun  1 13:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:50:00===========================================
+Mon Jun  1 13:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 13:55:00===========================================
+Mon Jun  1 13:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:00:00===========================================
+Mon Jun  1 14:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:05:00===========================================
+Mon Jun  1 14:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:10:00===========================================
+Mon Jun  1 14:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:15:00===========================================
+Mon Jun  1 14:15:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+当前进程:7428--时间14:15:11的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+Mon Jun  1 14:15:13 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'model': 'Redmi Note 4X', 'size': '1080x1920', 'imei': '99000920749832', 'system_version': '7.0', 'device_id': '54a4c6159804'}
+[文件大小]:129.96 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk完成！ 用时57.56秒
+---------------------------设备:54a4c6159804____chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点1-----------------------------------下载校验结果：True
+1590992171
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 14:16:11 2020--7428--54a4c6159804:File_directory下包有['chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+2020-06-01 14:16:11--54a4c6159804开始安装chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk==com.tencent.tmgp.ttqymxw
+54a4c6159804手机未安装com.tencent.tmgp.ttqymxw包....
+False
+2020-06-01 14:16:17_开始在54a4c6159804设备安装_chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+54a4c6159804手机已安装com.tencent.tmgp.ttqymxw包....
+True
+------------------------------54a4c6159804__chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点2-------------------------------------安装返回结果：True
+1590992201
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk==com.tencent.tmgp.ttqymxw
+{'msg': '成功', 'status': True, 'data': {'game_app_name': '枫之大陆', 'game_original_name': '彩虹物语', 'asset': [{'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'load': 'assets/loadingBg.jpg'}], 'channel_pinyin': 'xy_dsdk', 'file': [{'load': 'a76b178c72948b57cea6991ad8e8ba9a', 'login': 'ff9a0110904b578eb3126a28afc44a5d', 'splash': '', 'logo': ''}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.zip
+7428--54a4c6159804--实际图片对应路径{'decompression': '', 'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'mp3_file': '', 'splash': 'res/drawable/unity_static_splash.png', 'login': 'assets/loginBg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632/，对应pkg_id=2844
+Mon Jun  1 14:16:48 2020--7428--54a4c6159804服务端素材图片['ff9a0110904b578eb3126a28afc44a5d.jpg', 'a76b178c72948b57cea6991ad8e8ba9a.jpg']
+54a4c6159804--apk的应用名称=枫之大陆
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------7428--54a4c6159804---chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点3------------------------------------拆包校验结果：True
+1590992211
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+[aircv][sift] threshold=0.7, result={'confidence': 0.5047224103473127, 'result': (789, 976), 'rectangle': [(699, 954), (699, 999), (879, 999), (879, 954)]}
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//32090b76666bf8dae29ea5396efcdbbc~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//32090b76666bf8dae29ea5396efcdbbc~500
+1590992296
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  1 14:18:16 2020--7428--54a4c6159804--chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面
+已在登录_在输入账号密码页面_54a4c6159804设备对应账号18612260669
+54a4c6159804游戏前_登录页有公告
+54a4c6159804游戏前_选择角色
+54a4c6159804进入游戏_成功
+<img src='http://file.superdalan.com//88b676cbb4838c0270d63598cb4372e4~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//88b676cbb4838c0270d63598cb4372e4~500
+1590992358
+production
+{'msg': '成功', 'status': True}
+--------------------7428--54a4c6159804--chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+7428--54a4c6159804找到商城入口按钮
+54a4c6159804__子线程 eve__start 
+7428--54a4c6159804进入充值档位页面
+7428--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060160194220135
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//cde3d20fa7081f8cc951b8582d219a3e~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//cde3d20fa7081f8cc951b8582d219a3e~500
+(True, '2020060160194220135', 'cde3d20fa7081f8cc951b8582d219a3e')
+production
+{'msg': 'success', 'ret': 1, 'content': {'status_desc': '已下单', 'status': 1}}
+1590992397
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  1 14:19:57 2020--7428--54a4c6159804__chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk---节点6----------------------------下单调起微信结果:True
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:7428--设备id:54a4c6159804--Mon Jun  1 14:20:00 2020
+
+start主线程 at: Mon Jun  1 14:15:00 2020
+主进程 end at: Mon Jun  1 14:20:00 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:25:00===========================================
+Mon Jun  1 14:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:30:00===========================================
+Mon Jun  1 14:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:39:02===========================================
+Mon Jun  1 14:39:02 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:40:00===========================================
+Mon Jun  1 14:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:45:00===========================================
+Mon Jun  1 14:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:50:00===========================================
+Mon Jun  1 14:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 14:55:00===========================================
+Mon Jun  1 14:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_202329.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_202706.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_221110.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200528_142144.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200601_145825.apk']
+当前进程:11288--时间14:56:23的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk
+Mon Jun  1 14:56:27 2020--设备54a4c6159804:{'size': '1080x1920', 'imei': '99000920749832', 'device_id': '54a4c6159804', 'system_version': '7.0', 'network': '当前网络为-wifi', 'model': 'Redmi Note 4X'}
+[文件大小]:18.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk完成！ 用时15.82秒
+---------------------------设备:54a4c6159804____test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk----节点1-----------------------------------下载校验结果：True
+1590994603
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 14:56:47 2020--11288--54a4c6159804:File_directory下包有['test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk']
+2020-06-01 14:56:47--54a4c6159804开始安装test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk==com.fzzj.jzcszy
+54a4c6159804手机未安装com.fzzj.jzcszy包....
+False
+2020-06-01 14:57:29_开始在54a4c6159804设备安装_test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk
+54a4c6159804手机已安装com.fzzj.jzcszy包....
+True
+------------------------------54a4c6159804__test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk----节点2-------------------------------------安装返回结果：True
+1590994666
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk==com.fzzj.jzcszy
+{'data': {'asset': [{'logo': '', 'load': '', 'decompression': '', 'login': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'mp3_file': ''}], 'file': [{'splash': '89e332006c3ead9c08bc369b30e8f287'}], 'game_app_name': '研发测试专用', 'game_original_name': '枫之战纪', 'channel_pinyin': 'xy_dsdk'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.zip
+11288--54a4c6159804--实际图片对应路径{'logo': '', 'load': '', 'decompression': '', 'login': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_195358/，对应pkg_id=2850
+Mon Jun  1 14:58:01 2020--11288--54a4c6159804服务端素材图片['89e332006c3ead9c08bc369b30e8f287.jpg']
+54a4c6159804--apk的应用名称=研发测试专用
+54a4c6159804素材及应用名验证失败,期望值=1,实际值=0
+--------------------------11288--54a4c6159804---test2_dalan_xy_dsdk_61_1.0.0_20200527_195358.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材及应用名都匹配失败
+1590995264
+production
+{'msg': '成功', 'status': True}
+54a4c6159804包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:7176--时间14:56:23的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk
+Mon Jun  1 14:56:27 2020--设备R8AYIJWO99999999:{'system_version': '5.0.2', 'size': '1080x1920', 'network': '当前网络为-移动网络', 'model': 'Redmi Note 3', 'device_id': 'R8AYIJWO99999999', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:18.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk完成！ 用时15.82秒
+---------------------------设备:R8AYIJWO99999999____test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk----节点1-----------------------------------下载校验结果：True
+1590994603
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 14:56:47 2020--7176--R8AYIJWO99999999:File_directory下包有['test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk']
+2020-06-01 14:56:47--R8AYIJWO99999999开始安装test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk==com.fzzj.jzcszy
+R8AYIJWO99999999手机已安装com.fzzj.jzcszy包....
+True
+Mon Jun  1 14:57:28 2020--R8AYIJWO99999999--install_前检查手机已安装test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk
+R8AYIJWO99999999--开始卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk包
+Mon Jun  1 14:57:30 2020--R8AYIJWO99999999--卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk包完成_____进行再次安装test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk
+R8AYIJWO99999999手机已安装com.fzzj.jzcszy包....
+------------------------------R8AYIJWO99999999__test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk----节点2-------------------------------------安装返回结果：True
+1590994674
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk==com.fzzj.jzcszy
+{'msg': '成功', 'status': True, 'data': {'file': [{'splash': '89e332006c3ead9c08bc369b30e8f287'}], 'asset': [{'splash': 'res/drawable-nodpi-v4/bg.jpg', 'load': '', 'login': '', 'decompression': '', 'logo': '', 'mp3_file': ''}], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '研发测试专用', 'game_original_name': '枫之战纪'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.zip
+7176--R8AYIJWO99999999--实际图片对应路径{'splash': 'res/drawable-nodpi-v4/bg.jpg', 'load': '', 'login': '', 'decompression': '', 'logo': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200033/，对应pkg_id=2850
+Mon Jun  1 14:58:14 2020--7176--R8AYIJWO99999999服务端素材图片['89e332006c3ead9c08bc369b30e8f287.jpg']
+R8AYIJWO99999999--apk的应用名称=研发测试专用
+R8AYIJWO99999999素材及应用名验证失败,期望值=1,实际值=0
+--------------------------7176--R8AYIJWO99999999---test2_dalan_xy_dsdk_61_1.0.0_20200527_200033.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材及应用名都匹配失败
+1590995227
+production
+{'msg': '成功', 'status': True}
+当前进程:10536--时间15:26:25的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk
+Mon Jun  1 15:26:28 2020--设备54a4c6159804:{'size': '1080x1920', 'system_version': '7.0', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi'}
+[文件大小]:18.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk完成！ 用时13.93秒
+---------------------------设备:54a4c6159804____test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk----节点1-----------------------------------下载校验结果：True
+1590996403
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 15:26:43 2020--10536--54a4c6159804:File_directory下包有['test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk']
+2020-06-01 15:26:43--54a4c6159804开始安装test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk==com.fzzj.jzcszy
+54a4c6159804手机已安装com.fzzj.jzcszy包....
+True
+Mon Jun  1 15:27:19 2020--54a4c6159804--install_前检查手机已安装test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk
+54a4c6159804--开始卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk包
+Mon Jun  1 15:27:20 2020--54a4c6159804--卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk包完成_____进行再次安装test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk
+54a4c6159804手机已安装com.fzzj.jzcszy包....
+------------------------------54a4c6159804__test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk----节点2-------------------------------------安装返回结果：True
+1590996455
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk==com.fzzj.jzcszy
+{'data': {'game_original_name': '枫之战纪', 'asset': [{'mp3_file': '', 'login': '', 'logo': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'load': '', 'decompression': ''}], 'file': [{'splash': '89e332006c3ead9c08bc369b30e8f287'}], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '研发测试专用'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.zip
+10536--54a4c6159804--实际图片对应路径{'mp3_file': '', 'login': '', 'logo': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'load': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_200214/，对应pkg_id=2850
+Mon Jun  1 15:27:51 2020--10536--54a4c6159804服务端素材图片['89e332006c3ead9c08bc369b30e8f287.jpg']
+54a4c6159804--apk的应用名称=研发测试专用
+54a4c6159804素材及应用名验证失败,期望值=1,实际值=0
+--------------------------10536--54a4c6159804---test2_dalan_xy_dsdk_61_1.0.0_20200527_200214.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材及应用名都匹配失败
+1590996708
+production
+{'msg': '成功', 'status': True}
+54a4c6159804包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:292--时间15:26:25的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk
+Mon Jun  1 15:26:28 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'size': '1080x1920', 'model': 'Redmi Note 3', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络', 'system_version': '5.0.2'}
+[文件大小]:18.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk完成！ 用时14.26秒
+---------------------------设备:R8AYIJWO99999999____test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk----节点1-----------------------------------下载校验结果：True
+1590996403
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 15:26:43 2020--292--R8AYIJWO99999999:File_directory下包有['test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk']
+2020-06-01 15:26:43--R8AYIJWO99999999开始安装test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk==com.fzzj.jzcszy
+R8AYIJWO99999999手机已安装com.fzzj.jzcszy包....
+True
+Mon Jun  1 15:27:19 2020--R8AYIJWO99999999--install_前检查手机已安装test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk
+R8AYIJWO99999999--开始卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk包
+Mon Jun  1 15:27:20 2020--R8AYIJWO99999999--卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk包完成_____进行再次安装test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk
+R8AYIJWO99999999手机已安装com.fzzj.jzcszy包....
+------------------------------R8AYIJWO99999999__test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk----节点2-------------------------------------安装返回结果：True
+1590996461
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk==com.fzzj.jzcszy
+{'data': {'asset': [{'splash': 'res/drawable-nodpi-v4/bg.jpg', 'mp3_file': '', 'login': '', 'load': '', 'decompression': '', 'logo': ''}], 'file': [{'splash': '89e332006c3ead9c08bc369b30e8f287'}], 'channel_pinyin': 'xy_dsdk', 'game_original_name': '枫之战纪', 'game_app_name': '研发测试专用'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.zip
+292--R8AYIJWO99999999--实际图片对应路径{'splash': 'res/drawable-nodpi-v4/bg.jpg', 'mp3_file': '', 'login': '', 'load': '', 'decompression': '', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_201606/，对应pkg_id=2850
+Mon Jun  1 15:28:02 2020--292--R8AYIJWO99999999服务端素材图片['89e332006c3ead9c08bc369b30e8f287.jpg']
+R8AYIJWO99999999--apk的应用名称=研发测试专用
+R8AYIJWO99999999素材及应用名验证失败,期望值=1,实际值=0
+--------------------------292--R8AYIJWO99999999---test2_dalan_xy_dsdk_61_1.0.0_20200527_201606.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材及应用名都匹配失败
+1590996708
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:10828--时间15:35:03的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_202706.apk
+Mon Jun  1 15:35:04 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n', 'model': 'Redmi Note 3', 'device_id': 'R8AYIJWO99999999'}
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_202706.apk完成！ 用时60.03秒
+---------------------------设备:R8AYIJWO99999999____test2_dalan_xy_dsdk_61_1.0.0_20200527_202706.apk----节点1-----------------------------------下载校验结果：False
+1590996965
+production
+{'status': True, 'msg': '成功'}
+包url异常下载失败 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:8784--时间15:35:03的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_202329.apk
+Mon Jun  1 15:35:04 2020--设备54a4c6159804:{'system_version': '7.0', 'device_id': '54a4c6159804', 'model': 'Redmi Note 4X', 'size': '1080x1920', 'imei': '99000920749832', 'network': '当前网络为-wifi'}
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_202329.apk完成！ 用时60.05秒
+---------------------------设备:54a4c6159804____test2_dalan_xy_dsdk_61_1.0.0_20200527_202329.apk----节点1-----------------------------------下载校验结果：False
+1590996965
+production
+{'msg': '失败', 'status': False}
+包url异常下载失败 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:9148--时间15:36:06的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk
+Mon Jun  1 15:36:07 2020--设备54a4c6159804:{'system_version': '7.0', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'size': '1080x1920', 'network': '当前网络为-wifi', 'device_id': '54a4c6159804'}
+[文件大小]:18.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk完成！ 用时63.71秒
+---------------------------设备:54a4c6159804____test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk----节点1-----------------------------------下载校验结果：True
+1590997031
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 15:37:11 2020--9148--54a4c6159804:File_directory下包有['test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk']
+2020-06-01 15:37:11--54a4c6159804开始安装test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk==com.fzzj.jzcszy
+54a4c6159804手机已安装com.fzzj.jzcszy包....
+True
+Mon Jun  1 15:37:52 2020--54a4c6159804--install_前检查手机已安装test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk
+54a4c6159804--开始卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk包
+Mon Jun  1 15:37:53 2020--54a4c6159804--卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk包完成_____进行再次安装test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk
+54a4c6159804手机已安装com.fzzj.jzcszy包....
+------------------------------54a4c6159804__test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk----节点2-------------------------------------安装返回结果：True
+1590997089
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk==com.fzzj.jzcszy
+{'status': True, 'data': {'asset': [{'load': '', 'decompression': '', 'mp3_file': '', 'login': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'logo': ''}], 'game_original_name': '枫之战纪', 'file': [{'splash': '89e332006c3ead9c08bc369b30e8f287'}], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '研发测试专用'}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.zip
+9148--54a4c6159804--实际图片对应路径{'load': '', 'decompression': '', 'mp3_file': '', 'login': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_203434/，对应pkg_id=2850
+Mon Jun  1 15:38:38 2020--9148--54a4c6159804服务端素材图片['89e332006c3ead9c08bc369b30e8f287.jpg']
+54a4c6159804--apk的应用名称=研发测试专用
+54a4c6159804素材及应用名验证失败,期望值=1,实际值=0
+--------------------------9148--54a4c6159804---test2_dalan_xy_dsdk_61_1.0.0_20200527_203434.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材及应用名都匹配失败
+1590997961
+production
+{'msg': '成功', 'status': True}
+当前进程:9236--时间15:36:06的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk
+Mon Jun  1 15:36:07 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'size': '1080x1920', 'model': 'Redmi Note 3'}
+[文件大小]:18.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2850&f=test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk完成！ 用时59.40秒
+---------------------------设备:R8AYIJWO99999999____test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk----节点1-----------------------------------下载校验结果：True
+1590997027
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 15:37:07 2020--9236--R8AYIJWO99999999:File_directory下包有['test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk']
+2020-06-01 15:37:07--R8AYIJWO99999999开始安装test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk==com.fzzj.jzcszy
+R8AYIJWO99999999手机已安装com.fzzj.jzcszy包....
+True
+Mon Jun  1 15:37:52 2020--R8AYIJWO99999999--install_前检查手机已安装test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk
+R8AYIJWO99999999--开始卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk包
+Mon Jun  1 15:37:53 2020--R8AYIJWO99999999--卸载test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk包完成_____进行再次安装test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk
+R8AYIJWO99999999手机已安装com.fzzj.jzcszy包....
+------------------------------R8AYIJWO99999999__test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk----节点2-------------------------------------安装返回结果：True
+1590997094
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk==com.fzzj.jzcszy
+{'data': {'game_original_name': '枫之战纪', 'game_app_name': '研发测试专用', 'asset': [{'login': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'mp3_file': '', 'decompression': '', 'logo': '', 'load': ''}], 'channel_pinyin': 'xy_dsdk', 'file': [{'splash': '89e332006c3ead9c08bc369b30e8f287'}]}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.zip
+9236--R8AYIJWO99999999--实际图片对应路径{'login': '', 'splash': 'res/drawable-nodpi-v4/bg.jpg', 'mp3_file': '', 'decompression': '', 'logo': '', 'load': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/test2_dalan_xy_dsdk_61_1.0.0_20200527_214054/，对应pkg_id=2850
+Mon Jun  1 15:38:49 2020--9236--R8AYIJWO99999999服务端素材图片['89e332006c3ead9c08bc369b30e8f287.jpg']
+R8AYIJWO99999999--apk的应用名称=研发测试专用
+R8AYIJWO99999999素材及应用名验证失败,期望值=1,实际值=0
+--------------------------9236--R8AYIJWO99999999---test2_dalan_xy_dsdk_61_1.0.0_20200527_214054.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材及应用名都匹配失败
+1590997959
+production
+{'msg': '成功', 'status': True}
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 16:37:43===========================================
+Mon Jun  1 16:37:43 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+当前进程:8940--时间16:39:02的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 16:39:05 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'model': 'Redmi Note 3'}
+[文件大小]:73.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk完成！ 用时5.67秒
+---------------------------设备:R8AYIJWO99999999____stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk----节点1-----------------------------------下载校验结果：True
+1591000751
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 16:39:11 2020--8940--R8AYIJWO99999999:File_directory下包有['stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+2020-06-01 16:39:11--R8AYIJWO99999999开始安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 16:39:49 2020--R8AYIJWO99999999安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk过程中出现异常_执行失败
+当前进程:11132--时间16:39:02的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 16:39:05 2020--设备54a4c6159804:{'system_version': '7.0', 'size': '1080x1920', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'device_id': '54a4c6159804', 'model': 'Redmi Note 4X'}
+[文件大小]:162.20 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk完成！ 用时10.87秒
+---------------------------设备:54a4c6159804____xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk----节点1-----------------------------------下载校验结果：True
+1591000756
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 16:39:16 2020--11132--54a4c6159804:File_directory下包有['xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk']
+2020-06-01 16:39:16--54a4c6159804开始安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 16:39:49 2020--54a4c6159804安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk过程中出现异常_执行失败
+
+start主线程 at: Mon Jun  1 16:37:43 2020
+主进程 end at: Mon Jun  1 16:39:54 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 16:52:13===========================================
+Mon Jun  1 16:52:13 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+当前进程:12120--时间16:52:18的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 16:52:21 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'model': 'Redmi Note 3', 'imei': '/system/bin/sh: tail: not found\n\n', 'system_version': '5.0.2'}
+[文件大小]:73.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk完成！ 用时5.26秒
+---------------------------设备:R8AYIJWO99999999____stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk----节点1-----------------------------------下载校验结果：True
+1591001547
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 16:52:27 2020--12120--R8AYIJWO99999999:File_directory下包有['stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+2020-06-01 16:52:27--R8AYIJWO99999999开始安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 16:53:04 2020--R8AYIJWO99999999安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk过程中出现异常_执行失败
+当前进程:3008--时间16:52:18的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 16:52:22 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'system_version': '7.0', 'size': '1080x1920'}
+[文件大小]:162.20 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk完成！ 用时10.71秒
+---------------------------设备:54a4c6159804____xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk----节点1-----------------------------------下载校验结果：True
+1591001553
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 16:52:33 2020--3008--54a4c6159804:File_directory下包有['xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk']
+2020-06-01 16:52:33--54a4c6159804开始安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 16:53:04 2020--54a4c6159804安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk过程中出现异常_执行失败
+
+start主线程 at: Mon Jun  1 16:52:13 2020
+主进程 end at: Mon Jun  1 16:53:09 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 16:55:00===========================================
+Mon Jun  1 16:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+当前进程:6196--时间16:55:01的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 16:55:02 2020--设备R8AYIJWO99999999:{'model': 'Redmi Note 3', 'network': '当前网络为-移动网络', 'imei': '/system/bin/sh: tail: not found\n\n', 'system_version': '5.0.2', 'size': '1080x1920', 'device_id': 'R8AYIJWO99999999'}
+[文件大小]:73.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk完成！ 用时57.03秒
+---------------------------设备:R8AYIJWO99999999____stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk----节点1-----------------------------------下载校验结果：True
+1591001760
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 16:56:00 2020--6196--R8AYIJWO99999999:File_directory下包有['stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+2020-06-01 16:56:00--R8AYIJWO99999999开始安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 16:56:06 2020--R8AYIJWO99999999安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk过程中出现异常_执行失败
+当前进程:9644--时间16:55:01的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 16:55:02 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'system_version': '7.0', 'size': '1080x1920', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'imei': '99000920749832'}
+[文件大小]:162.20 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk完成！ 用时106.68秒
+---------------------------设备:54a4c6159804____xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk----节点1-----------------------------------下载校验结果：True
+1591001810
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 16:56:50 2020--9644--54a4c6159804:File_directory下包有['xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk']
+2020-06-01 16:56:50--54a4c6159804开始安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 16:56:55 2020--54a4c6159804安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk过程中出现异常_执行失败
+
+start主线程 at: Mon Jun  1 16:55:00 2020
+主进程 end at: Mon Jun  1 16:56:56 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:00:00===========================================
+Mon Jun  1 17:00:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+当前进程:10088--时间17:00:01的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+Mon Jun  1 17:00:02 2020--设备R8AYIJWO99999999:{'imei': '/system/bin/sh: tail: not found\n\n', 'device_id': 'R8AYIJWO99999999', 'system_version': '5.0.2', 'model': 'Redmi Note 3', 'size': '1080x1920', 'network': '当前网络为-移动网络'}
+[文件大小]:73.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk完成！ 用时5.53秒
+---------------------------设备:R8AYIJWO99999999____stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk----节点1-----------------------------------下载校验结果：True
+1591002008
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 17:00:08 2020--10088--R8AYIJWO99999999:File_directory下包有['stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk']
+2020-06-01 17:00:08--R8AYIJWO99999999开始安装stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk==com.dalan.nsmyzstjz
+R8AYIJWO99999999手机未安装com.dalan.nsmyzstjz包....
+False
+2020-06-01 17:00:26_开始在R8AYIJWO99999999设备安装_stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk
+R8AYIJWO99999999手机已安装com.dalan.nsmyzstjz包....
+True
+------------------------------R8AYIJWO99999999__stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk----节点2-------------------------------------安装返回结果：True
+1591002064
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk==com.dalan.nsmyzstjz
+{'data': {'asset': [{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': ''}], 'channel_pinyin': 'dsdk', 'game_original_name': '豪门总裁', 'game_app_name': '女神盟约之商途巨子', 'file': [{'load': '', 'login': '662e0ee1d5e867391948410a82cc968a'}]}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/stjztest_dalan_dsdk_10_1.0.0_20200601_152702.zip
+10088--R8AYIJWO99999999--实际图片对应路径{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/stjztest_dalan_dsdk_10_1.0.0_20200601_152702/，对应pkg_id=2851
+Mon Jun  1 17:03:12 2020--10088--R8AYIJWO99999999服务端素材图片['662e0ee1d5e867391948410a82cc968a.jpg']
+R8AYIJWO99999999--apk的应用名称=女神盟约之商途巨子
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数1，实际匹配数1
+--------------------------10088--R8AYIJWO99999999---stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk----节点3------------------------------------拆包校验结果：True
+1591002607
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+Mon Jun  1 17:10:09 2020--10088--R8AYIJWO99999999--http://pkg.superdalan.com/game.pkg/download?pkgId=2851&f=stjztest_dalan_dsdk_10_1.0.0_20200601_152702.apk此原名游戏尚未接入，敬请期待
+1591002609
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:10088--设备id:R8AYIJWO99999999--Mon Jun  1 17:10:13 2020
+当前进程:5572--时间17:00:01的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+Mon Jun  1 17:00:02 2020--设备54a4c6159804:{'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'size': '1080x1920', 'imei': '99000920749832', 'system_version': '7.0', 'model': 'Redmi Note 4X'}
+[文件大小]:162.20 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk完成！ 用时11.11秒
+---------------------------设备:54a4c6159804____xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk----节点1-----------------------------------下载校验结果：True
+1591002014
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 17:00:14 2020--5572--54a4c6159804:File_directory下包有['xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk']
+2020-06-01 17:00:14--54a4c6159804开始安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk==com.biguo.xxsy.nearme.gamecenter
+54a4c6159804手机已安装com.biguo.xxsy.nearme.gamecenter包....
+True
+Mon Jun  1 17:00:27 2020--54a4c6159804--install_前检查手机已安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+54a4c6159804--开始卸载xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk包
+Mon Jun  1 17:00:28 2020--54a4c6159804--卸载xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk包完成_____进行再次安装xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk
+54a4c6159804手机已安装com.biguo.xxsy.nearme.gamecenter包....
+------------------------------54a4c6159804__xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk----节点2-------------------------------------安装返回结果：True
+1591002062
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk==com.biguo.xxsy.nearme.gamecenter
+{'msg': '成功', 'status': True, 'data': {'game_app_name': '仙侠神域', 'asset': [{'load': 'assets/AgentAssets/loading_bg.png', 'splash': 'assets/splash_image_0.png', 'mp3_file': '', 'decompression': '', 'logo': 'assets/AgentAssets/logo.png', 'login': 'assets/AgentAssets/login_bg.png'}], 'channel_pinyin': 'oppo', 'file': [{'logo': '8d2dd4d105003ef4240dbe93efda2c35', 'load': '98a23e6bc0f5694fb4f0957b2a84b7cd', 'splash': '49c81ed464d99245b3105e94aacfbf10', 'login': '5da88017da1cc0e5abda9d6c93e1e930'}], 'game_original_name': '仙侠神域（天蝎接入）'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.zip
+5572--54a4c6159804--实际图片对应路径{'load': 'assets/AgentAssets/loading_bg.png', 'splash': 'assets/splash_image_0.png', 'mp3_file': '', 'decompression': '', 'logo': 'assets/AgentAssets/logo.png', 'login': 'assets/AgentAssets/login_bg.png'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353/，对应pkg_id=2838
+Mon Jun  1 17:05:42 2020--5572--54a4c6159804服务端素材图片['8d2dd4d105003ef4240dbe93efda2c35.jpg', '98a23e6bc0f5694fb4f0957b2a84b7cd.jpg', '49c81ed464d99245b3105e94aacfbf10.jpg', '5da88017da1cc0e5abda9d6c93e1e930.jpg']
+54a4c6159804--apk的应用名称=仙侠神域
+54a4c6159804--素材及应用名验证成功,期望匹配数4，实际匹配数4
+--------------------------5572--54a4c6159804---xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk----节点3------------------------------------拆包校验结果：True
+1591002608
+production
+{'msg': '成功', 'status': True}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+Mon Jun  1 17:10:11 2020--5572--54a4c6159804--http://pkg.superdalan.com/game.pkg/download?pkgId=2838&f=xxsyoppo_biguo_oppo_66_1.0.0_20200601_155353.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1591002611
+production
+{'msg': '成功', 'status': True}
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:5572--设备id:54a4c6159804--Mon Jun  1 17:10:14 2020
+
+start主线程 at: Mon Jun  1 17:00:00 2020
+主进程 end at: Mon Jun  1 17:10:15 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:15:01===========================================
+Mon Jun  1 17:15:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:20:00===========================================
+Mon Jun  1 17:20:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk']
+当前进程:9124--时间17:20:08的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+Mon Jun  1 17:20:09 2020--设备54a4c6159804:{'system_version': '7.0', 'model': 'Redmi Note 4X', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'size': '1080x1920', 'device_id': '54a4c6159804'}
+[文件大小]:255.57 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk完成！ 用时110.92秒
+---------------------------设备:54a4c6159804____lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点1-----------------------------------下载校验结果：True
+1591003321
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 17:22:01 2020--9124--54a4c6159804:File_directory下包有['lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk']
+2020-06-01 17:22:01--54a4c6159804开始安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk==com.dalan.lltx.bd
+54a4c6159804手机已安装com.dalan.lltx.bd包....
+True
+Mon Jun  1 17:22:06 2020--54a4c6159804--install_前检查手机已安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+54a4c6159804--开始卸载lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk包
+Mon Jun  1 17:22:07 2020--54a4c6159804--卸载lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk包完成_____进行再次安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+54a4c6159804手机已安装com.dalan.lltx.bd包....
+------------------------------54a4c6159804__lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点2-------------------------------------安装返回结果：True
+1591003370
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk==com.dalan.lltx.bd
+{'msg': '成功', 'data': {'asset': [{'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'game_app_name': '琳琅天下', 'file': [{'login': '691621af884e8be6af6ecd70b27000cb', 'load': '37cef88c236306b8e48789247403dea8'}], 'channel_pinyin': 'dsdk'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.zip
+9124--54a4c6159804--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811/，对应pkg_id=2825
+Mon Jun  1 17:22:57 2020--9124--54a4c6159804服务端素材图片['691621af884e8be6af6ecd70b27000cb.jpg', '37cef88c236306b8e48789247403dea8.jpg']
+54a4c6159804--apk的应用名称=琳琅天下
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------9124--54a4c6159804---lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点3------------------------------------拆包校验结果：True
+1591003379
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.lltx.bd
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+9124--54a4c6159804找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//857301576281c8764c79f28bfbed94c0~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//857301576281c8764c79f28bfbed94c0~500
+1591003513
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 17:25:13 2020--9124--54a4c6159804--lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点4------------------------------打开游戏结果:False
+
+start主线程 at: Mon Jun  1 17:20:00 2020
+主进程 end at: Mon Jun  1 17:25:14 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:30:01===========================================
+Mon Jun  1 17:30:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk']
+当前进程:11272--时间17:30:04的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+Mon Jun  1 17:30:06 2020--设备54a4c6159804:{'system_version': '7.0', 'imei': '99000920749832', 'network': '当前网络为-wifi', 'size': '1080x1920', 'model': 'Redmi Note 4X', 'device_id': '54a4c6159804'}
+[文件大小]:255.57 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk完成！ 用时116.96秒
+---------------------------设备:54a4c6159804____lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点1-----------------------------------下载校验结果：True
+1591003923
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 17:32:03 2020--11272--54a4c6159804:File_directory下包有['lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk']
+2020-06-01 17:32:03--54a4c6159804开始安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk==com.dalan.lltx.bd
+54a4c6159804手机已安装com.dalan.lltx.bd包....
+True
+Mon Jun  1 17:32:09 2020--54a4c6159804--install_前检查手机已安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+54a4c6159804--开始卸载lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk包
+Mon Jun  1 17:32:09 2020--54a4c6159804--卸载lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk包完成_____进行再次安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+54a4c6159804手机已安装com.dalan.lltx.bd包....
+------------------------------54a4c6159804__lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点2-------------------------------------安装返回结果：True
+1591003960
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk==com.dalan.lltx.bd
+{'data': {'game_app_name': '琳琅天下', 'asset': [{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}], 'channel_pinyin': 'dsdk', 'file': [{'login': '691621af884e8be6af6ecd70b27000cb', 'load': '37cef88c236306b8e48789247403dea8'}], 'game_original_name': '我在江湖'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.zip
+11272--54a4c6159804--实际图片对应路径{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811/，对应pkg_id=2825
+Mon Jun  1 17:32:45 2020--11272--54a4c6159804服务端素材图片['691621af884e8be6af6ecd70b27000cb.jpg', '37cef88c236306b8e48789247403dea8.jpg']
+54a4c6159804--apk的应用名称=琳琅天下
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------11272--54a4c6159804---lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点3------------------------------------拆包校验结果：True
+1591003966
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.lltx.bd
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+11272--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//3946e6396bf1adcb5e9519c41b2a0fda~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//3946e6396bf1adcb5e9519c41b2a0fda~500
+1591004038
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 17:33:58 2020--11272--54a4c6159804--lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18612260669
+[aircv][sift] threshold=0.7, result={'rectangle': [(1041, 694), (1041, 897), (1264, 897), (1264, 694)], 'confidence': 0.33187131583690643, 'result': (1152, 795)}
+[aircv][sift] threshold=0.7, result={'rectangle': [(1041, 694), (1041, 897), (1264, 897), (1264, 694)], 'confidence': 0.33187131583690643, 'result': (1152, 795)}
+
+start主线程 at: Mon Jun  1 17:30:01 2020
+主进程 end at: Mon Jun  1 17:34:32 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:35:01===========================================
+Mon Jun  1 17:35:01 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk']
+当前进程:11296--时间17:35:04的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+Mon Jun  1 17:35:06 2020--设备54a4c6159804:{'device_id': '54a4c6159804', 'model': 'Redmi Note 4X', 'size': '1080x1920', 'imei': '99000920749832', 'system_version': '7.0', 'network': '当前网络为-wifi'}
+[文件大小]:255.57 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2825&f=lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk完成！ 用时45.97秒
+---------------------------设备:54a4c6159804____lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点1-----------------------------------下载校验结果：True
+1591004152
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 17:35:52 2020--11296--54a4c6159804:File_directory下包有['lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk']
+2020-06-01 17:35:52--54a4c6159804开始安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk==com.dalan.lltx.bd
+54a4c6159804手机已安装com.dalan.lltx.bd包....
+True
+Mon Jun  1 17:35:58 2020--54a4c6159804--install_前检查手机已安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+54a4c6159804--开始卸载lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk包
+Mon Jun  1 17:35:59 2020--54a4c6159804--卸载lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk包完成_____进行再次安装lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk
+54a4c6159804手机已安装com.dalan.lltx.bd包....
+------------------------------54a4c6159804__lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点2-------------------------------------安装返回结果：True
+1591004189
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk==com.dalan.lltx.bd
+{'data': {'asset': [{'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'decompression': ''}], 'file': [{'login': '691621af884e8be6af6ecd70b27000cb', 'load': '37cef88c236306b8e48789247403dea8'}], 'game_app_name': '琳琅天下', 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.zip
+11296--54a4c6159804--实际图片对应路径{'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811/，对应pkg_id=2825
+Mon Jun  1 17:36:35 2020--11296--54a4c6159804服务端素材图片['37cef88c236306b8e48789247403dea8.jpg', '691621af884e8be6af6ecd70b27000cb.jpg']
+54a4c6159804--apk的应用名称=琳琅天下
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------11296--54a4c6159804---lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点3------------------------------------拆包校验结果：True
+1591004198
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.lltx.bd
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+11296--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//c4550eabe249ac3015d525eaa20a19d6~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//c4550eabe249ac3015d525eaa20a19d6~500
+1591004272
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 17:37:53 2020--11296--54a4c6159804--lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18612260669
+54a4c6159804游戏前有公告
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804进入创角界面
+54a4c6159804循环判断游戏内元素
+[aircv][sift] threshold=0.7, result={'confidence': 0.47689790092408657, 'rectangle': [(180, 151), (180, 192), (299, 192), (299, 151)], 'result': [240, 172]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.47689790092408657, 'rectangle': [(180, 151), (180, 192), (299, 192), (299, 151)], 'result': [240, 172]}
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//7420715188f263e35052191039425691~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//7420715188f263e35052191039425691~500
+1591004332
+production
+{'status': True, 'msg': '成功'}
+--------------------11296--54a4c6159804--lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+11296--54a4c6159804找到首充按钮
+11296--54a4c6159804有立即领取按钮
+54a4c6159804__子线程 eve__start 54a4c6159804--已在充值档位页面
+
+11296--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060160254220268
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//db290d9e8d3cd13c731cc1475aa6ced0~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//db290d9e8d3cd13c731cc1475aa6ced0~500
+(True, '2020060160254220268', 'db290d9e8d3cd13c731cc1475aa6ced0')
+production
+{'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1}
+1591004377
+production
+{'status': True, 'msg': '成功'}
+-------------------Mon Jun  1 17:39:37 2020--11296--54a4c6159804__lltxwzjhbd_dalan_dsdk_48_1.0.0_20200601_171811.apk---节点6----------------------------下单调起微信结果:True
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:11296--设备id:54a4c6159804--Mon Jun  1 17:39:40 2020
+
+start主线程 at: Mon Jun  1 17:35:01 2020
+主进程 end at: Mon Jun  1 17:39:40 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:40:01===========================================
+Mon Jun  1 17:40:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:45:00===========================================
+Mon Jun  1 17:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:50:00===========================================
+Mon Jun  1 17:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 17:55:00===========================================
+Mon Jun  1 17:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:00:00===========================================
+Mon Jun  1 18:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:05:00===========================================
+Mon Jun  1 18:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:10:00===========================================
+Mon Jun  1 18:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:15:00===========================================
+Mon Jun  1 18:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:30:02===========================================
+Mon Jun  1 18:30:02 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:35:00===========================================
+Mon Jun  1 18:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:40:00===========================================
+Mon Jun  1 18:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:45:00===========================================
+Mon Jun  1 18:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:50:00===========================================
+Mon Jun  1 18:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 18:55:00===========================================
+Mon Jun  1 18:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:00:00===========================================
+Mon Jun  1 19:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:05:00===========================================
+Mon Jun  1 19:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:10:00===========================================
+Mon Jun  1 19:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:15:00===========================================
+Mon Jun  1 19:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:20:00===========================================
+Mon Jun  1 19:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:25:00===========================================
+Mon Jun  1 19:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:30:00===========================================
+Mon Jun  1 19:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:35:00===========================================
+Mon Jun  1 19:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:40:00===========================================
+Mon Jun  1 19:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk']
+当前进程:6756--时间19:40:03的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk
+Mon Jun  1 19:40:04 2020--设备54a4c6159804:{'size': '1080x1920', 'system_version': '7.0', 'model': 'Redmi Note 4X', 'imei': '99000920749832', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi'}
+[文件大小]:159.78 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk完成！ 用时17.20秒
+---------------------------设备:54a4c6159804____xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk----节点1-----------------------------------下载校验结果：True
+1591011622
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 19:40:22 2020--6756--54a4c6159804:File_directory下包有['xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk']
+2020-06-01 19:40:22--54a4c6159804开始安装xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk==com.biguo.xxsy.vivo
+54a4c6159804手机未安装com.biguo.xxsy.vivo包....
+False
+2020-06-01 19:40:31_开始在54a4c6159804设备安装_xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk
+54a4c6159804手机已安装com.biguo.xxsy.vivo包....
+True
+------------------------------54a4c6159804__xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk----节点2-------------------------------------安装返回结果：True
+1591011669
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk==com.biguo.xxsy.vivo
+{'data': {'asset': [{'splash': 'assets/splash_image_0.png', 'load': 'assets/AgentAssets/loading_bg.png', 'logo': 'assets/AgentAssets/logo.png', 'login': 'assets/AgentAssets/login_bg.png', 'decompression': '', 'mp3_file': ''}], 'file': [{'logo': '8d2dd4d105003ef4240dbe93efda2c35', 'splash': '49c81ed464d99245b3105e94aacfbf10', 'load': '98a23e6bc0f5694fb4f0957b2a84b7cd', 'login': '5da88017da1cc0e5abda9d6c93e1e930'}], 'game_original_name': '仙侠神域（天蝎接入）', 'channel_pinyin': 'vivo', 'game_app_name': '仙侠神域'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.zip
+6756--54a4c6159804--实际图片对应路径{'splash': 'assets/splash_image_0.png', 'load': 'assets/AgentAssets/loading_bg.png', 'logo': 'assets/AgentAssets/logo.png', 'login': 'assets/AgentAssets/login_bg.png', 'decompression': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805/，对应pkg_id=2853
+Mon Jun  1 19:41:34 2020--6756--54a4c6159804服务端素材图片['8d2dd4d105003ef4240dbe93efda2c35.jpg', '49c81ed464d99245b3105e94aacfbf10.jpg', '98a23e6bc0f5694fb4f0957b2a84b7cd.jpg', '5da88017da1cc0e5abda9d6c93e1e930.jpg']
+54a4c6159804--apk的应用名称=仙侠神域
+54a4c6159804--素材及应用名验证成功,期望匹配数4，实际匹配数4
+--------------------------6756--54a4c6159804---xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk----节点3------------------------------------拆包校验结果：True
+1591011697
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+Mon Jun  1 19:41:40 2020--6756--54a4c6159804--http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_193805.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1591011700
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:6756--设备id:54a4c6159804--Mon Jun  1 19:41:43 2020
+
+start主线程 at: Mon Jun  1 19:40:00 2020
+主进程 end at: Mon Jun  1 19:41:43 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:45:01===========================================
+Mon Jun  1 19:45:01 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:45:45===========================================
+Mon Jun  1 19:45:45 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+当前进程:11056--时间19:45:46的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+Mon Jun  1 19:45:48 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'system_version': '7.0', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'network': '当前网络为-wifi', 'size': '1080x1920'}
+[文件大小]:129.96 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk完成！ 用时7.34秒
+---------------------------设备:54a4c6159804____chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点1-----------------------------------下载校验结果：True
+1591011956
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 19:45:56 2020--11056--54a4c6159804:File_directory下包有['chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+2020-06-01 19:45:56--54a4c6159804开始安装chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk==com.tencent.tmgp.ttqymxw
+54a4c6159804手机未安装com.tencent.tmgp.ttqymxw包....
+False
+2020-06-01 19:46:01_开始在54a4c6159804设备安装_chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+54a4c6159804手机已安装com.tencent.tmgp.ttqymxw包....
+True
+------------------------------54a4c6159804__chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点2-------------------------------------安装返回结果：True
+1591011980
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk==com.tencent.tmgp.ttqymxw
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'xy_dsdk', 'game_app_name': '枫之大陆', 'asset': [{'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': '', 'login': 'assets/loginBg.jpg'}], 'file': [{'load': 'a76b178c72948b57cea6991ad8e8ba9a', 'logo': '', 'splash': '', 'login': 'ff9a0110904b578eb3126a28afc44a5d'}], 'game_original_name': '彩虹物语'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.zip
+11056--54a4c6159804--实际图片对应路径{'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': '', 'login': 'assets/loginBg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632/，对应pkg_id=2844
+Mon Jun  1 19:46:28 2020--11056--54a4c6159804服务端素材图片['a76b178c72948b57cea6991ad8e8ba9a.jpg', 'ff9a0110904b578eb3126a28afc44a5d.jpg']
+54a4c6159804--apk的应用名称=枫之大陆
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------11056--54a4c6159804---chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点3------------------------------------拆包校验结果：True
+1591011991
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+[aircv][sift] threshold=0.7, result={'result': (783, 977), 'confidence': 0.512099739164114, 'rectangle': [(695, 955), (695, 1000), (872, 1000), (872, 955)]}
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+MiniCap截图失败，换ADB截图
+54a4c6159804已走异常流程_截图异常页面(原因：主要是因为没有进入指定页面_)
+MiniCap截图失败，换ADB截图
+
+start主线程 at: Mon Jun  1 19:45:45 2020
+主进程 end at: Mon Jun  1 19:48:04 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:50:00===========================================
+Mon Jun  1 19:50:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:55:00===========================================
+Mon Jun  1 19:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:55:06===========================================
+Mon Jun  1 19:55:06 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk']
+当前进程:10496--时间19:55:07的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2844&f=chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk
+Mon Jun  1 19:55:08 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'system_version': '7.0', 'size': '1080x1920'}
+---------------------------设备:54a4c6159804____chwyfzdlmxwgdt_dalan_xy_dsdk_74_1.0.0_20200601_141632.apk----节点1-----------------------------------下载校验结果：False
+1591012514
+production
+{'status': True, 'msg': '成功'}
+包url异常下载失败 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Mon Jun  1 19:55:06 2020
+主进程 end at: Mon Jun  1 19:55:14 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 19:56:51===========================================
+Mon Jun  1 19:56:51 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:00:00===========================================
+Mon Jun  1 20:00:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:10708--时间19:56:51的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 19:56:53 2020--设备54a4c6159804:{'imei': '99000920749832', 'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'size': '1080x1920', 'model': 'Redmi Note 4X', 'system_version': '7.0'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时10.76秒
+---------------------------设备:54a4c6159804____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1591012624
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 19:57:04 2020--10708--54a4c6159804:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 19:57:04--54a4c6159804开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+True
+Mon Jun  1 19:57:09 2020--54a4c6159804--install_前检查手机已安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804--开始卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包
+Mon Jun  1 19:57:10 2020--54a4c6159804--卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包完成_____进行再次安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+------------------------------54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1591012648
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'data': {'game_original_name': '彩虹物语', 'asset': [{'splash': 'res/drawable/unity_static_splash.png', 'decompression': '', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'load': 'assets/loadingBg.jpg'}], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '小小勇者：红包版', 'file': [{'splash': '', 'login': '98b75abc747451a09d6ba895330d053e', 'logo': '', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e'}]}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+10708--54a4c6159804--实际图片对应路径{'splash': 'res/drawable/unity_static_splash.png', 'decompression': '', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'load': 'assets/loadingBg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 19:57:34 2020--10708--54a4c6159804服务端素材图片['98b75abc747451a09d6ba895330d053e.jpg', '8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg']
+54a4c6159804--apk的应用名称=小小勇者：红包版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10708--54a4c6159804---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1591012656
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500
+1591012738
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  1 19:58:58 2020--10708--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面
+已在登录_在输入账号密码页面_54a4c6159804设备对应账号18612260669
+54a4c6159804游戏前_选择角色
+54a4c6159804进入游戏_成功
+<img src='http://file.superdalan.com//ec9c9710583ca057b2ff9d3da38a4d67~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//ec9c9710583ca057b2ff9d3da38a4d67~500
+1591012793
+production
+{'msg': '成功', 'status': True}
+--------------------10708--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+10708--54a4c6159804找到商城入口按钮
+54a4c6159804__子线程 eve__start 
+10708--54a4c6159804进入充值档位页面
+10708--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060160296855656
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//d623fc615bf615cb983a18c279df606b~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d623fc615bf615cb983a18c279df606b~500
+(True, '2020060160296855656', 'd623fc615bf615cb983a18c279df606b')
+production
+{'content': {'status_desc': '已下单', 'status': 1}, 'msg': 'success', 'ret': 1}
+1591012831
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  1 20:00:31 2020--10708--54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点6----------------------------下单调起微信结果:True
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:10708--设备id:54a4c6159804--Mon Jun  1 20:00:34 2020
+
+start主线程 at: Mon Jun  1 19:56:51 2020
+主进程 end at: Mon Jun  1 20:00:34 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:05:00===========================================
+Mon Jun  1 20:05:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:8240--时间20:05:06的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 20:05:08 2020--设备54a4c6159804:{'size': '1080x1920', 'device_id': '54a4c6159804', 'system_version': '7.0', 'model': 'Redmi Note 4X', 'imei': '99000920749832', 'network': '当前网络为-wifi'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时58.33秒
+---------------------------设备:54a4c6159804____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1591013167
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 20:06:07 2020--8240--54a4c6159804:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 20:06:07--54a4c6159804开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+54a4c6159804手机未安装com.ywhc.xxyzhbb包....
+False
+2020-06-01 20:06:13_开始在54a4c6159804设备安装_chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+True
+------------------------------54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1591013192
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'msg': '成功', 'data': {'file': [{'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e', 'logo': '', 'login': '98b75abc747451a09d6ba895330d053e', 'splash': ''}], 'game_original_name': '彩虹物语', 'game_app_name': '小小勇者：红包版', 'asset': [{'load': 'assets/loadingBg.jpg', 'decompression': '', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'splash': 'res/drawable/unity_static_splash.png'}], 'channel_pinyin': 'xy_dsdk'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+8240--54a4c6159804--实际图片对应路径{'load': 'assets/loadingBg.jpg', 'decompression': '', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'splash': 'res/drawable/unity_static_splash.png'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 20:06:39 2020--8240--54a4c6159804服务端素材图片['8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg', '98b75abc747451a09d6ba895330d053e.jpg']
+54a4c6159804--apk的应用名称=小小勇者：红包版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------8240--54a4c6159804---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1591013200
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500
+1591013278
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  1 20:07:58 2020--8240--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面
+已在登录_在输入账号密码页面_54a4c6159804设备对应账号18520103625
+54a4c6159804游戏前_选择角色
+[aircv][sift] threshold=0.7, result={'rectangle': [(645, 833), (645, 897), (799, 897), (799, 833)], 'result': (722, 865), 'confidence': 0.7419810742139816}
+54a4c6159804进入游戏_成功
+<img src='http://file.superdalan.com//58919d38a1b9085fcc1a903b550aa666~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//58919d38a1b9085fcc1a903b550aa666~500
+1591013327
+production
+{'msg': '成功', 'status': True}
+--------------------8240--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+8240--54a4c6159804找到商城入口按钮
+<img src='http://file.superdalan.com//6496db63287691457c5653cf4c007665~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//6496db63287691457c5653cf4c007665~500
+8240--54a4c6159804--已走异常流程_截图异常页面(原因：主要是因为没有进入指定页面_)
+(False, '54a4c6159804由于网络原因，或手机反应慢到导致元素无法找到_超时', '6496db63287691457c5653cf4c007665')
+1591013363
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  1 20:09:23 2020--8240--54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点6----------------------------下单调起微信结果:False
+
+start主线程 at: Mon Jun  1 20:05:00 2020
+主进程 end at: Mon Jun  1 20:09:23 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:10:00===========================================
+Mon Jun  1 20:10:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:10808--时间20:10:09的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 20:10:10 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'network': '当前网络为-wifi', 'size': '1080x1920', 'system_version': '7.0', 'imei': '99000920749832', 'device_id': '54a4c6159804'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时8.89秒
+---------------------------设备:54a4c6159804____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1591013420
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 20:10:20 2020--10808--54a4c6159804:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 20:10:20--54a4c6159804开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+True
+Mon Jun  1 20:10:25 2020--54a4c6159804--install_前检查手机已安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804--开始卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包
+Mon Jun  1 20:10:26 2020--54a4c6159804--卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包完成_____进行再次安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+------------------------------54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1591013443
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'data': {'game_original_name': '彩虹物语', 'game_app_name': '小小勇者：红包版', 'asset': [{'decompression': '', 'mp3_file': '', 'logo': 'assets/logo.png', 'splash': 'res/drawable/unity_static_splash.png', 'load': 'assets/loadingBg.jpg', 'login': 'assets/loginBg.jpg'}], 'file': [{'logo': '', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e', 'login': '98b75abc747451a09d6ba895330d053e', 'splash': ''}], 'channel_pinyin': 'xy_dsdk'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+10808--54a4c6159804--实际图片对应路径{'mp3_file': '', 'login': 'assets/loginBg.jpg', 'logo': 'assets/logo.png', 'decompression': '', 'load': 'assets/loadingBg.jpg', 'splash': 'res/drawable/unity_static_splash.png'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 20:10:49 2020--10808--54a4c6159804服务端素材图片['8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg', '98b75abc747451a09d6ba895330d053e.jpg']
+54a4c6159804--apk的应用名称=小小勇者：红包版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10808--54a4c6159804---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1591013450
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500
+1591013528
+production
+{'msg': '成功', 'status': True}
+----------Mon Jun  1 20:12:08 2020--10808--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面
+已在登录_在输入账号密码页面_54a4c6159804设备对应账号18520103625
+54a4c6159804游戏前_选择角色
+54a4c6159804进入游戏_成功
+<img src='http://file.superdalan.com//d52a04a7698e187ee08ec793af683788~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d52a04a7698e187ee08ec793af683788~500
+1591013582
+production
+{'msg': '成功', 'status': True}
+--------------------10808--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+10808--54a4c6159804找到商城入口按钮
+<img src='http://file.superdalan.com//4860e134b4205c74c1e0198ef44599cc~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//4860e134b4205c74c1e0198ef44599cc~500
+10808--54a4c6159804--已走异常流程_截图异常页面(原因：主要是因为没有进入指定页面_)
+(False, '54a4c6159804由于网络原因，或手机反应慢到导致元素无法找到_超时', '4860e134b4205c74c1e0198ef44599cc')
+1591013618
+production
+{'msg': '成功', 'status': True}
+-------------------Mon Jun  1 20:13:38 2020--10808--54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点6----------------------------下单调起微信结果:False
+54a4c6159804执行2次了还是失败，需要删除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Mon Jun  1 20:10:00 2020
+主进程 end at: Mon Jun  1 20:13:38 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:15:00===========================================
+Mon Jun  1 20:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:15:43===========================================
+Mon Jun  1 20:15:43 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:10596--时间20:15:44的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 20:15:47 2020--设备54a4c6159804:{'size': '1080x1920', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'system_version': '7.0'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时6.34秒
+---------------------------设备:54a4c6159804____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1591013753
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 20:15:53 2020--10596--54a4c6159804:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 20:15:53--54a4c6159804开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+True
+Mon Jun  1 20:15:59 2020--54a4c6159804--install_前检查手机已安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804--开始卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包
+Mon Jun  1 20:16:00 2020--54a4c6159804--卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包完成_____进行再次安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+54a4c6159804手机已安装com.ywhc.xxyzhbb包....
+------------------------------54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1591013777
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'status': True, 'msg': '成功', 'data': {'asset': [{'decompression': '', 'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': ''}], 'file': [{'splash': '', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e', 'logo': '', 'login': '98b75abc747451a09d6ba895330d053e'}], 'game_app_name': '小小勇者：红包版', 'channel_pinyin': 'xy_dsdk', 'game_original_name': '彩虹物语'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+10596--54a4c6159804--实际图片对应路径{'decompression': '', 'load': 'assets/loadingBg.jpg', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'splash': 'res/drawable/unity_static_splash.png', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 20:16:24 2020--10596--54a4c6159804服务端素材图片['8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg', '98b75abc747451a09d6ba895330d053e.jpg']
+54a4c6159804--apk的应用名称=小小勇者：红包版
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10596--54a4c6159804---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1591013785
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804_无热更按钮，不需要热更
+[aircv][sift] threshold=0.7, result={'result': (806, 980), 'confidence': 0.6095095425844193, 'rectangle': [(723, 958), (723, 1002), (889, 1002), (889, 958)]}
+54a4c6159804异常后已授权_或无需授权
+54a4c6159804-打开app成功==在选择登录方式页面
+<img src='http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d9403dcd436c9eaf8da302a00d99fbb5~500
+1591013865
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 20:17:45 2020--10596--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面
+已在登录_在输入账号密码页面_54a4c6159804设备对应账号18520103625
+54a4c6159804游戏前_选择角色
+[aircv][sift] threshold=0.7, result={'result': [939, 982], 'confidence': 0.5329531617462635, 'rectangle': [(585, 969), (585, 994), (1292, 994), (1292, 969)]}
+54a4c6159804进入游戏_成功
+<img src='http://file.superdalan.com//64738781d517ac2f182906037ead0179~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//64738781d517ac2f182906037ead0179~500
+1591013920
+production
+{'status': True, 'msg': '成功'}
+--------------------10596--54a4c6159804--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+10596--54a4c6159804找到商城入口按钮
+54a4c6159804__子线程 eve__start 
+10596--54a4c6159804进入充值档位页面
+10596--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060160302974717
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//ccbcb87e579f7631850a48a18242965e~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//ccbcb87e579f7631850a48a18242965e~500
+(True, '2020060160302974717', 'ccbcb87e579f7631850a48a18242965e')
+production
+{'msg': 'success', 'content': {'status': 1, 'status_desc': '已下单'}, 'ret': 1}
+1591013958
+production
+{'status': True, 'msg': '成功'}
+-------------------Mon Jun  1 20:19:18 2020--10596--54a4c6159804__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk---节点6----------------------------下单调起微信结果:True
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:10596--设备id:54a4c6159804--Mon Jun  1 20:19:21 2020
+
+start主线程 at: Mon Jun  1 20:15:43 2020
+主进程 end at: Mon Jun  1 20:19:21 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:20:00===========================================
+Mon Jun  1 20:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:23:50===========================================
+Mon Jun  1 20:23:50 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:25:00===========================================
+Mon Jun  1 20:25:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+当前进程:10244--时间20:23:52的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 20:23:52 2020--设备b5940085:{'model': 'MI 9', 'system_version': '10', 'network': '当前网络为-移动网络', 'imei': '867436046322127', 'size': '1080x2340', 'device_id': 'b5940085'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时7.12秒
+---------------------------设备:b5940085____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1591014240
+production
+{'status': True, 'msg': '成功'}
+Mon Jun  1 20:24:00 2020--10244--b5940085:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 20:24:00--b5940085开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+b5940085手机未安装com.ywhc.xxyzhbb包....
+False
+2020-06-01 20:24:04_开始在b5940085设备安装_chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+b5940085手机已安装com.ywhc.xxyzhbb包....
+True
+------------------------------b5940085__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1591014255
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '小小勇者：红包版', 'game_original_name': '彩虹物语', 'channel_pinyin': 'xy_dsdk', 'file': [{'splash': '', 'logo': '', 'login': '98b75abc747451a09d6ba895330d053e', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e'}], 'asset': [{'splash': 'res/drawable/unity_static_splash.png', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingBg.jpg'}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+10244--b5940085--实际图片对应路径{'splash': 'res/drawable/unity_static_splash.png', 'logo': 'assets/logo.png', 'login': 'assets/loginBg.jpg', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingBg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 20:24:21 2020--10244--b5940085服务端素材图片['98b75abc747451a09d6ba895330d053e.jpg', '8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg']
+b5940085--apk的应用名称=小小勇者：红包版
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10244--b5940085---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1591014262
+production
+{'status': True, 'msg': '成功'}
+b5940085--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+b5940085_无热更按钮，不需要热更
+b5940085找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+b5940085--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591014356
+production
+{'status': True, 'msg': '成功'}
+----------Mon Jun  1 20:25:56 2020--10244--b5940085--chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点4------------------------------打开游戏结果:False
+当前进程:11112--时间20:25:08的设备:b5940085_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+Mon Jun  1 20:25:08 2020--设备b5940085:{'network': '当前网络为-移动网络', 'size': '1080x2340', 'device_id': 'b5940085', 'model': 'MI 9', 'imei': '867436046322127', 'system_version': '10'}
+[文件大小]:130.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk完成！ 用时8.24秒
+---------------------------设备:b5940085____chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点1-----------------------------------下载校验结果：True
+1591014317
+production
+{'msg': '成功', 'status': True}
+Mon Jun  1 20:25:17 2020--11112--b5940085:File_directory下包有['chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+2020-06-01 20:25:17--b5940085开始安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+b5940085手机已安装com.ywhc.xxyzhbb包....
+True
+Mon Jun  1 20:25:22 2020--b5940085--install_前检查手机已安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+b5940085--开始卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包
+Mon Jun  1 20:25:22 2020--b5940085--卸载chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk包完成_____进行再次安装chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk
+b5940085手机已安装com.ywhc.xxyzhbb包....
+------------------------------b5940085__chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点2-------------------------------------安装返回结果：True
+1591014335
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk==com.ywhc.xxyzhbb
+{'data': {'file': [{'splash': '', 'load': '8c8b1cf9f9f23eecbfaddcb66fe4933e', 'logo': '', 'login': '98b75abc747451a09d6ba895330d053e'}], 'channel_pinyin': 'xy_dsdk', 'game_app_name': '小小勇者：红包版', 'asset': [{'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'logo': 'assets/logo.png', 'mp3_file': '', 'load': 'assets/loadingBg.jpg', 'login': 'assets/loginBg.jpg'}], 'game_original_name': '彩虹物语'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.zip
+11112--b5940085--实际图片对应路径{'decompression': '', 'splash': 'res/drawable/unity_static_splash.png', 'logo': 'assets/logo.png', 'mp3_file': '', 'load': 'assets/loadingBg.jpg', 'login': 'assets/loginBg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544/，对应pkg_id=2841
+Mon Jun  1 20:25:41 2020--11112--b5940085服务端素材图片['8c8b1cf9f9f23eecbfaddcb66fe4933e.jpg', '98b75abc747451a09d6ba895330d053e.jpg']
+b5940085--apk的应用名称=小小勇者：红包版
+b5940085--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------11112--b5940085---chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk----节点3------------------------------------拆包校验结果：True
+1591014342
+production
+{'msg': '成功', 'status': True}
+b5940085--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+
+start主线程 at: Mon Jun  1 20:23:50 2020
+主进程 end at: Mon Jun  1 20:25:56 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+start主线程 at: Mon Jun  1 20:25:00 2020
+主进程 end at: Mon Jun  1 20:25:57 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:30:00===========================================
+Mon Jun  1 20:30:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:35:00===========================================
+Mon Jun  1 20:35:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:40:00===========================================
+Mon Jun  1 20:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:45:00===========================================
+Mon Jun  1 20:45:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:50:00===========================================
+Mon Jun  1 20:50:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 20:55:00===========================================
+Mon Jun  1 20:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:00:00===========================================
+Mon Jun  1 21:00:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:05:00===========================================
+Mon Jun  1 21:05:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:10:00===========================================
+Mon Jun  1 21:10:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:15:00===========================================
+Mon Jun  1 21:15:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:20:00===========================================
+Mon Jun  1 21:20:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:25:00===========================================
+Mon Jun  1 21:25:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:30:00===========================================
+Mon Jun  1 21:30:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:35:00===========================================
+Mon Jun  1 21:35:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:40:00===========================================
+Mon Jun  1 21:40:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:45:00===========================================
+Mon Jun  1 21:45:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:50:00===========================================
+Mon Jun  1 21:50:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 21:55:00===========================================
+Mon Jun  1 21:55:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:00:00===========================================
+Mon Jun  1 22:00:00 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2841&f=chwyxxyzhbtt_dalan_xy_dsdk_74_1.0.0_20200529_181544.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2853&f=xxsyvivo_biguo_vivo_66_1.0.0_20200601_205457.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:05:00===========================================
+Mon Jun  1 22:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:10:00===========================================
+Mon Jun  1 22:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:15:00===========================================
+Mon Jun  1 22:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:20:00===========================================
+Mon Jun  1 22:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:25:00===========================================
+Mon Jun  1 22:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:30:00===========================================
+Mon Jun  1 22:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:35:00===========================================
+Mon Jun  1 22:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:40:00===========================================
+Mon Jun  1 22:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:45:00===========================================
+Mon Jun  1 22:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:50:00===========================================
+Mon Jun  1 22:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 22:55:00===========================================
+Mon Jun  1 22:55:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:00:00===========================================
+Mon Jun  1 23:00:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:05:00===========================================
+Mon Jun  1 23:05:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:10:00===========================================
+Mon Jun  1 23:10:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:15:00===========================================
+Mon Jun  1 23:15:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:20:00===========================================
+Mon Jun  1 23:20:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:25:00===========================================
+Mon Jun  1 23:25:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:30:00===========================================
+Mon Jun  1 23:30:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:35:00===========================================
+Mon Jun  1 23:35:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:40:00===========================================
+Mon Jun  1 23:40:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:45:00===========================================
+Mon Jun  1 23:45:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:50:00===========================================
+Mon Jun  1 23:50:00 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-01 23:55:00===========================================
+Mon Jun  1 23:55:00 2020获取数据库中apk链接=[]

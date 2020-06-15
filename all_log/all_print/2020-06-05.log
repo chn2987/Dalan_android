@@ -1,0 +1,2515 @@
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 09:44:12===========================================
+Fri Jun  5 09:44:12 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2867&f=shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2868&f=shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2872&f=shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2873&f=shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2874&f=shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2875&f=shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2878&f=zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2879&f=mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2881&f=shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2882&f=shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2883&f=shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2884&f=shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2885&f=shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+当前进程:30676--时间09:44:15的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2867&f=shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk
+Fri Jun  5 09:44:18 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'size': '1080x1920', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'system_version': '7.0', 'model': 'Redmi Note 4X'}
+[文件大小]:257.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2867&f=shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk完成！ 用时23.37秒
+---------------------------设备:54a4c6159804____shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk----节点1-----------------------------------下载校验结果：True
+1591321482
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:44:42 2020--30676--54a4c6159804:File_directory下包有['shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk']
+2020-06-05 09:44:42--54a4c6159804开始安装shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk==com.dalan.shjsscs1
+54a4c6159804手机未安装com.dalan.shjsscs1包....
+False
+2020-06-05 09:44:47_开始在54a4c6159804设备安装_shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk
+54a4c6159804手机已安装com.dalan.shjsscs1包....
+True
+------------------------------54a4c6159804__shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk----节点2-------------------------------------安装返回结果：True
+1591321533
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk==com.dalan.shjsscs1
+{'status': True, 'data': {'file': [{'load': '472c54bed83c2d3356c6942b6774e165', 'login': 'c2824af34d3b9b5435bbdf9a36d63620'}], 'channel_pinyin': 'dsdk', 'game_app_name': '山海经神兽传说', 'asset': [{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'logo': '', 'decompression': '', 'mp3_file': ''}], 'game_original_name': '我在江湖'}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.zip
+30676--54a4c6159804--实际图片对应路径{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'logo': '', 'decompression': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559/，对应pkg_id=2867
+Fri Jun  5 09:45:38 2020--30676--54a4c6159804服务端素材图片['472c54bed83c2d3356c6942b6774e165.jpg', 'c2824af34d3b9b5435bbdf9a36d63620.jpg']
+54a4c6159804--apk的应用名称=山海经神兽传说
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------30676--54a4c6159804---shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk----节点3------------------------------------拆包校验结果：True
+1591321539
+production
+{'msg': '成功', 'status': True}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjsscs1
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=1
+30676--54a4c6159804找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500
+1591321668
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:47:48 2020--30676--54a4c6159804--shjsscswzjh2_dalan_dsdk_48_1.0.0_20200604_205559.apk----节点4------------------------------打开游戏结果:False
+当前进程:10412--时间09:44:15的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2872&f=shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk
+Fri Jun  5 09:44:17 2020--设备QDY4C17818002168:{'model': 'TRT-AL00', 'device_id': 'QDY4C17818002168', 'imei': '865767038708929', 'system_version': '7.0', 'network': '当前网络为-wifi', 'size': '720x1280'}
+[文件大小]:256.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2872&f=shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk完成！ 用时23.03秒
+---------------------------设备:QDY4C17818002168____shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk----节点1-----------------------------------下载校验结果：True
+1591321481
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 09:44:41 2020--10412--QDY4C17818002168:File_directory下包有['shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk']
+2020-06-05 09:44:41--QDY4C17818002168开始安装shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk==com.dalan.shjcyzs1
+QDY4C17818002168手机未安装com.dalan.shjcyzs1包....
+False
+2020-06-05 09:44:47_开始在QDY4C17818002168设备安装_shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk
+QDY4C17818002168手机已安装com.dalan.shjcyzs1包....
+True
+------------------------------QDY4C17818002168__shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk----节点2-------------------------------------安装返回结果：True
+1591321518
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk==com.dalan.shjcyzs1
+{'status': True, 'data': {'file': [{'load': 'aa1fee8116606143edab59b0cba50edd', 'login': 'f3cf2e592ffa09105239e52e5f93c7a4'}], 'game_app_name': '山海经蚩尤战神', 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'asset': [{'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'splash': '', 'decompression': ''}]}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.zip
+10412--QDY4C17818002168--实际图片对应路径{'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'splash': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715/，对应pkg_id=2872
+Fri Jun  5 09:45:23 2020--10412--QDY4C17818002168服务端素材图片['aa1fee8116606143edab59b0cba50edd.jpg', 'f3cf2e592ffa09105239e52e5f93c7a4.jpg']
+QDY4C17818002168--apk的应用名称=山海经蚩尤战神
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10412--QDY4C17818002168---shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk----节点3------------------------------------拆包校验结果：True
+1591321527
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.shjcyzs1
+QDY4C17818002168启动游戏时_有权限弹框
+10412--QDY4C17818002168已授权_或无需授权=2
+10412--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d8ba4cd7d5bb4e3ee9de618d778b9026~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//d8ba4cd7d5bb4e3ee9de618d778b9026~500
+1591321662
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 09:47:42 2020--10412--QDY4C17818002168--shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168-已走异常流程_截图异常页面___(原因：主要是因为没有进入指定页面_)
+<img src='http://file.superdalan.com//6813fd443db1470f6fa1f61182e2fa81~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//6813fd443db1470f6fa1f61182e2fa81~500
+1591321689
+production
+{'status': True, 'msg': '成功'}
+--------------------10412--QDY4C17818002168--shjcyzswzjh2_dalan_dsdk_48_1.0.0_20200604_205715.apk---节点5----------------------------登录游戏结果:False
+当前进程:14812--时间09:44:15的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2868&f=shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk
+Fri Jun  5 09:44:17 2020--设备R8AYIJWO99999999:{'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'device_id': 'R8AYIJWO99999999', 'model': 'Redmi Note 3', 'size': '1080x1920', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:257.12 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2868&f=shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk完成！ 用时25.58秒
+---------------------------设备:R8AYIJWO99999999____shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk----节点1-----------------------------------下载校验结果：True
+1591321483
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:44:43 2020--14812--R8AYIJWO99999999:File_directory下包有['shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk']
+2020-06-05 09:44:43--R8AYIJWO99999999开始安装shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk==com.dalan.shjsscs.toutiao
+R8AYIJWO99999999手机未安装com.dalan.shjsscs.toutiao包....
+False
+2020-06-05 09:44:48_开始在R8AYIJWO99999999设备安装_shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk
+R8AYIJWO99999999手机已安装com.dalan.shjsscs.toutiao包....
+True
+------------------------------R8AYIJWO99999999__shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk----节点2-------------------------------------安装返回结果：True
+1591321576
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk==com.dalan.shjsscs.toutiao
+{'msg': '成功', 'data': {'asset': [{'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'logo': ''}], 'channel_pinyin': 'dsdk', 'game_app_name': '山海经神兽传说', 'game_original_name': '我在江湖', 'file': [{'login': 'c2824af34d3b9b5435bbdf9a36d63620', 'load': '472c54bed83c2d3356c6942b6774e165'}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.zip
+14812--R8AYIJWO99999999--实际图片对应路径{'decompression': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354/，对应pkg_id=2868
+Fri Jun  5 09:46:20 2020--14812--R8AYIJWO99999999服务端素材图片['c2824af34d3b9b5435bbdf9a36d63620.jpg', '472c54bed83c2d3356c6942b6774e165.jpg']
+R8AYIJWO99999999--apk的应用名称=山海经神兽传说
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------14812--R8AYIJWO99999999---shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk----节点3------------------------------------拆包校验结果：True
+1591321581
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999手机已灭屏_将执行解锁命令
+R8AYIJWO99999999--手机亮屏状态_二次点亮
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.shjsscs.toutiao
+14812--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//bf3efe8b68fd0f8f698f37b835027067~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//bf3efe8b68fd0f8f698f37b835027067~500
+1591321639
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:47:19 2020--14812--R8AYIJWO99999999--shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+R8AYIJWO99999999进入创角界面
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999登录游戏成功
+<img src='http://file.superdalan.com//2a001665c35de4ff92d79082f9ff70ad~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//2a001665c35de4ff92d79082f9ff70ad~500
+1591321686
+production
+{'msg': '成功', 'status': True}
+--------------------14812--R8AYIJWO99999999--shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+14812--R8AYIJWO99999999找到首充按钮
+14812--R8AYIJWO99999999有立即领取按钮
+R8AYIJWO99999999__子线程 eve__start 
+R8AYIJWO99999999--已在充值档位页面
+14812--R8AYIJWO99999999拉起支付方式弹窗成功
+R8AYIJWO99999999__子线程eve__stop
+R8AYIJWO99999999___主线程结束___
+R8AYIJWO99999999登录order_id=2020060562188328289
+R8AYIJWO99999999当前未登录微信
+<img src='http://file.superdalan.com//dd1028801a91973c4edefebd9dfdd4bb~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//dd1028801a91973c4edefebd9dfdd4bb~500
+(True, '2020060562188328289', 'dd1028801a91973c4edefebd9dfdd4bb')
+production
+{'msg': 'success', 'ret': 1, 'content': {'status_desc': '已下单', 'status': 1}}
+1591321732
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 09:48:53 2020--14812--R8AYIJWO99999999__shjsscswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230354.apk---节点6----------------------------下单调起微信结果:True
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:14812--设备id:R8AYIJWO99999999--Fri Jun  5 09:48:56 2020
+当前进程:34436--时间09:48:59的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2873&f=shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk
+Fri Jun  5 09:49:01 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'device_id': '54a4c6159804', 'size': '1080x1920', 'system_version': '7.0'}
+[文件大小]:259.27 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2873&f=shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk完成！ 用时27.62秒
+---------------------------设备:54a4c6159804____shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk----节点1-----------------------------------下载校验结果：True
+1591321769
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:49:29 2020--34436--54a4c6159804:File_directory下包有['shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk']
+2020-06-05 09:49:29--54a4c6159804开始安装shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk==com.dalan.shjyssr1
+54a4c6159804手机未安装com.dalan.shjyssr1包....
+False
+2020-06-05 09:49:34_开始在54a4c6159804设备安装_shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk
+54a4c6159804手机已安装com.dalan.shjyssr1包....
+True
+------------------------------54a4c6159804__shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk----节点2-------------------------------------安装返回结果：True
+1591321808
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk==com.dalan.shjyssr1
+{'msg': '成功', 'data': {'game_app_name': '山海经异兽食人', 'asset': [{'logo': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': '11c48624d842b0c01ffa107977c01b23', 'load': '8ad900d397856e46fab55b85a1a518f7'}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.zip
+34436--54a4c6159804--实际图片对应路径{'logo': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825/，对应pkg_id=2873
+Fri Jun  5 09:50:21 2020--34436--54a4c6159804服务端素材图片['11c48624d842b0c01ffa107977c01b23.jpg', '8ad900d397856e46fab55b85a1a518f7.jpg']
+54a4c6159804--apk的应用名称=山海经异兽食人
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------34436--54a4c6159804---shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk----节点3------------------------------------拆包校验结果：True
+1591321822
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjyssr1
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+34436--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//ff1181169fdcce19d998d236ae8ed067~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//ff1181169fdcce19d998d236ae8ed067~500
+1591321880
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:51:20 2020--34436--54a4c6159804--shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804进入创角界面
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//d1f19dd467aaf14bcc000d7ea46772cb~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d1f19dd467aaf14bcc000d7ea46772cb~500
+1591321928
+production
+{'msg': '成功', 'status': True}
+--------------------34436--54a4c6159804--shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+34436--54a4c6159804找到首充按钮
+34436--54a4c6159804有立即领取按钮
+54a4c6159804__子线程 eve__start 
+54a4c6159804--已在充值档位页面
+34436--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060562189735389
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//e8c2c36d508a7e665fd5b800cc612b3d~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//e8c2c36d508a7e665fd5b800cc612b3d~500
+(True, '2020060562189735389', 'e8c2c36d508a7e665fd5b800cc612b3d')
+production
+{'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1}
+1591321975
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 09:52:55 2020--34436--54a4c6159804__shjyssrwzjh2_dalan_dsdk_48_1.0.0_20200604_205825.apk---节点6----------------------------下单调起微信结果:True
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:34436--设备id:54a4c6159804--Fri Jun  5 09:52:57 2020
+当前进程:15244--时间09:48:59的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2875&f=shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk
+Fri Jun  5 09:49:01 2020--设备QDY4C17818002168:{'model': 'TRT-AL00', 'system_version': '7.0', 'imei': '865767038708929', 'device_id': 'QDY4C17818002168', 'network': '当前网络为-wifi', 'size': '720x1280'}
+[文件大小]:257.78 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2875&f=shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk完成！ 用时25.55秒
+---------------------------设备:QDY4C17818002168____shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk----节点1-----------------------------------下载校验结果：True
+1591321767
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:49:27 2020--15244--QDY4C17818002168:File_directory下包有['shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk']
+2020-06-05 09:49:27--QDY4C17818002168开始安装shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk==com.dalan.shj2
+QDY4C17818002168手机未安装com.dalan.shj2包....
+False
+2020-06-05 09:49:33_开始在QDY4C17818002168设备安装_shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk
+QDY4C17818002168手机已安装com.dalan.shj2包....
+True
+------------------------------QDY4C17818002168__shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk----节点2-------------------------------------安装返回结果：True
+1591321806
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk==com.dalan.shj2
+{'data': {'asset': [{'logo': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'game_app_name': '山海经', 'file': [{'load': '1d5fde3028e1175e3a0ce920219d708d', 'login': 'ef0334525653ef158f4212bb53a1d41f'}]}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.zip
+15244--QDY4C17818002168--实际图片对应路径{'logo': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124/，对应pkg_id=2875
+Fri Jun  5 09:50:14 2020--15244--QDY4C17818002168服务端素材图片['1d5fde3028e1175e3a0ce920219d708d.jpg', 'ef0334525653ef158f4212bb53a1d41f.jpg']
+QDY4C17818002168--apk的应用名称=山海经
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------15244--QDY4C17818002168---shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk----节点3------------------------------------拆包校验结果：True
+1591321815
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.shj2
+QDY4C17818002168启动游戏时_有权限弹框
+15244--QDY4C17818002168已授权_或无需授权=2
+15244--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//583fd9b286d48ec71d5da3c7e75f76e6~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//583fd9b286d48ec71d5da3c7e75f76e6~500
+1591321888
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:51:29 2020--15244--QDY4C17818002168--shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168进入创角界面
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168登录游戏成功
+<img src='http://file.superdalan.com//e9a897b8dfbefe5d0c6c196ca1981c17~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//e9a897b8dfbefe5d0c6c196ca1981c17~500
+1591321967
+production
+{'msg': '成功', 'status': True}
+--------------------15244--QDY4C17818002168--shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+15244--QDY4C17818002168找到首充按钮
+<img src='http://file.superdalan.com//32da508b5d9397e3899cddea88555a56~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//32da508b5d9397e3899cddea88555a56~500
+15244--QDY4C17818002168--已走异常流程_截图异常页面(原因：主要是因为没有进入指定页面_)
+(False, 'QDY4C17818002168由于网络原因，或手机反应慢到导致元素无法找到_超时', '32da508b5d9397e3899cddea88555a56')
+1591321986
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 09:53:06 2020--15244--QDY4C17818002168__shjwzjh2_dalan_dsdk_48_1.0.0_20200604_210124.apk---节点6----------------------------下单调起微信结果:False
+当前进程:10744--时间09:48:59的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2874&f=shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk
+Fri Jun  5 09:49:01 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'model': 'Redmi Note 3', 'system_version': '5.0.2', 'device_id': 'R8AYIJWO99999999', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络'}
+[文件大小]:257.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2874&f=shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk完成！ 用时22.03秒
+---------------------------设备:R8AYIJWO99999999____shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk----节点1-----------------------------------下载校验结果：True
+1591321763
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:49:23 2020--10744--R8AYIJWO99999999:File_directory下包有['shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk']
+2020-06-05 09:49:23--R8AYIJWO99999999开始安装shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk==com.dalan.shjpgkt1
+R8AYIJWO99999999手机未安装com.dalan.shjpgkt1包....
+False
+2020-06-05 09:49:29_开始在R8AYIJWO99999999设备安装_shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk
+R8AYIJWO99999999手机已安装com.dalan.shjpgkt1包....
+True
+------------------------------R8AYIJWO99999999__shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk----节点2-------------------------------------安装返回结果：True
+1591321843
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk==com.dalan.shjpgkt1
+{'data': {'file': [{'login': '237a731a768ad0b3fd8cd26378b775ca', 'load': '79b9918cd2d3cc52b128a5f46deb1fe2'}], 'channel_pinyin': 'dsdk', 'asset': [{'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'game_app_name': '山海经盘古开天'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.zip
+10744--R8AYIJWO99999999--实际图片对应路径{'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953/，对应pkg_id=2874
+Fri Jun  5 09:50:49 2020--10744--R8AYIJWO99999999服务端素材图片['79b9918cd2d3cc52b128a5f46deb1fe2.jpg', '237a731a768ad0b3fd8cd26378b775ca.jpg']
+R8AYIJWO99999999--apk的应用名称=山海经盘古开天
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10744--R8AYIJWO99999999---shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk----节点3------------------------------------拆包校验结果：True
+1591321850
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.shjpgkt1
+10744--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//cfa00c43785df62af06bcb557f504bdc~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//cfa00c43785df62af06bcb557f504bdc~500
+1591321902
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:51:42 2020--10744--R8AYIJWO99999999--shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+[aircv][sift] threshold=0.7, result={'rectangle': [(71, 153), (71, 174), (152, 174), (152, 153)], 'result': [112, 164], 'confidence': 0.3035863935947418}
+[aircv][sift] threshold=0.7, result={'rectangle': [(71, 153), (71, 174), (152, 174), (152, 153)], 'result': [112, 164], 'confidence': 0.3035863935947418}
+[aircv][sift] threshold=0.7, result={'rectangle': [(71, 153), (71, 174), (152, 174), (152, 153)], 'result': [112, 164], 'confidence': 0.3035863935947418}
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999登录游戏成功
+<img src='http://file.superdalan.com//6f610cbc9f065502fb14d13a733ea332~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//6f610cbc9f065502fb14d13a733ea332~500
+1591321951
+production
+{'msg': '成功', 'status': True}
+--------------------10744--R8AYIJWO99999999--shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+10744--R8AYIJWO99999999找到首充按钮
+10744--R8AYIJWO99999999有立即领取按钮
+R8AYIJWO99999999__子线程 eve__start 
+R8AYIJWO99999999--已在充值档位页面
+10744--R8AYIJWO99999999拉起支付方式弹窗成功
+R8AYIJWO99999999__子线程eve__stop
+R8AYIJWO99999999___主线程结束___
+R8AYIJWO99999999登录order_id=2020060562189861619
+R8AYIJWO99999999当前未登录微信
+<img src='http://file.superdalan.com//eea5c88781f06def496bcf26ffd52375~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//eea5c88781f06def496bcf26ffd52375~500
+(True, '2020060562189861619', 'eea5c88781f06def496bcf26ffd52375')
+production
+{'ret': 1, 'content': {'status_desc': '已下单', 'status': 1}, 'msg': 'success'}
+1591321996
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 09:53:16 2020--10744--R8AYIJWO99999999__shjpgktwzjh2_dalan_dsdk_48_1.0.0_20200604_205953.apk---节点6----------------------------下单调起微信结果:True
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:10744--设备id:R8AYIJWO99999999--Fri Jun  5 09:53:19 2020
+当前进程:24788--时间09:53:28的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2878&f=zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk
+Fri Jun  5 09:53:30 2020--设备54a4c6159804:{'device_id': '54a4c6159804', 'model': 'Redmi Note 4X', 'system_version': '7.0', 'size': '1080x1920', 'imei': '99000920749832', 'network': '当前网络为-wifi'}
+[文件大小]:258.12 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2878&f=zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk完成！ 用时47.17秒
+---------------------------设备:54a4c6159804____zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk----节点1-----------------------------------下载校验结果：True
+1591322057
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:54:18 2020--24788--54a4c6159804:File_directory下包有['zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk']
+2020-06-05 09:54:18--54a4c6159804开始安装zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk==com.dalan.zyrg2
+54a4c6159804手机未安装com.dalan.zyrg2包....
+False
+2020-06-05 09:54:23_开始在54a4c6159804设备安装_zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk
+54a4c6159804手机已安装com.dalan.zyrg2包....
+True
+------------------------------54a4c6159804__zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk----节点2-------------------------------------安装返回结果：True
+1591322096
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk==com.dalan.zyrg2
+{'data': {'game_original_name': '我在江湖', 'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'channel_pinyin': 'dsdk', 'game_app_name': '招摇如歌', 'asset': [{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}]}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.zip
+24788--54a4c6159804--实际图片对应路径{'splash': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'decompression': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331/，对应pkg_id=2878
+Fri Jun  5 09:55:04 2020--24788--54a4c6159804服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+54a4c6159804--apk的应用名称=招摇如歌
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------24788--54a4c6159804---zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk----节点3------------------------------------拆包校验结果：True
+1591322106
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.zyrg2
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+24788--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//7917b036b3e2528e7425c308d26fa28c~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//7917b036b3e2528e7425c308d26fa28c~500
+1591322163
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:56:03 2020--24788--54a4c6159804--zyrgwzjh2_dalan_dsdk_48_1.0.0_20200604_210331.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+[aircv][sift] threshold=0.7, result={'confidence': 0.5160666797310114, 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'result': [306, 53]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.5160666797310114, 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'result': [306, 53]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.5160666797310114, 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'result': [306, 53]}
+当前进程:26688--时间09:53:28的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2879&f=mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk
+Fri Jun  5 09:53:30 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'model': 'Redmi Note 3', 'device_id': 'R8AYIJWO99999999', 'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:258.18 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2879&f=mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk完成！ 用时47.40秒
+---------------------------设备:R8AYIJWO99999999____mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk----节点1-----------------------------------下载校验结果：True
+1591322057
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:54:17 2020--26688--R8AYIJWO99999999:File_directory下包有['mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk']
+2020-06-05 09:54:17--R8AYIJWO99999999开始安装mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk==com.dalan.mszy1
+R8AYIJWO99999999手机未安装com.dalan.mszy1包....
+False
+2020-06-05 09:54:23_开始在R8AYIJWO99999999设备安装_mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk
+R8AYIJWO99999999手机已安装com.dalan.mszy1包....
+True
+------------------------------R8AYIJWO99999999__mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk----节点2-------------------------------------安装返回结果：True
+1591322130
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk==com.dalan.mszy1
+{'status': True, 'msg': '成功', 'data': {'asset': [{'splash': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'game_app_name': '茅山志异', 'channel_pinyin': 'dsdk', 'file': [{'load': '874f34768a3132bb26be7a3abb7677c7', 'login': '5b6abeb701e38265f3e0bf0d61ca295b'}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.zip
+26688--R8AYIJWO99999999--实际图片对应路径{'splash': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456/，对应pkg_id=2879
+Fri Jun  5 09:55:36 2020--26688--R8AYIJWO99999999服务端素材图片['874f34768a3132bb26be7a3abb7677c7.jpg', '5b6abeb701e38265f3e0bf0d61ca295b.jpg']
+R8AYIJWO99999999--apk的应用名称=茅山志异
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------26688--R8AYIJWO99999999---mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk----节点3------------------------------------拆包校验结果：True
+1591322137
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.mszy1
+26688--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591322189
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 09:56:29 2020--26688--R8AYIJWO99999999--mszywzjh2_dalan_dsdk_48_1.0.0_20200604_210456.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+[aircv][sift] threshold=0.7, result={'result': [306, 53], 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'confidence': 0.516362065449357}
+[aircv][sift] threshold=0.7, result={'result': [306, 53], 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'confidence': 0.516362065449357}
+[aircv][sift] threshold=0.7, result={'result': [306, 53], 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'confidence': 0.516362065449357}
+当前进程:14772--时间09:53:28的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+Fri Jun  5 09:53:30 2020--设备QDY4C17818002168:{'model': 'TRT-AL00', 'device_id': 'QDY4C17818002168', 'system_version': '7.0', 'imei': '865767038708929', 'network': '当前网络为-wifi', 'size': '720x1280'}
+[文件大小]:257.56 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk完成！ 用时47.76秒
+---------------------------设备:QDY4C17818002168____dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点1-----------------------------------下载校验结果：True
+1591322059
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 09:54:19 2020--14772--QDY4C17818002168:File_directory下包有['dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk']
+2020-06-05 09:54:19--QDY4C17818002168开始安装dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk==com.dalan.dxcyz
+QDY4C17818002168手机未安装com.dalan.dxcyz包....
+False
+2020-06-05 09:54:25_开始在QDY4C17818002168设备安装_dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+QDY4C17818002168手机已安装com.dalan.dxcyz包....
+True
+------------------------------QDY4C17818002168__dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点2-------------------------------------安装返回结果：True
+1591322103
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk==com.dalan.dxcyz
+{'status': True, 'data': {'asset': [{'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'logo': ''}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'game_app_name': '地下城勇者', 'file': [{'load': 'ee3626ffc2400e6e32032f7307c6abcd', 'login': 'dc69aae724ca5a7b8d5715f88e471c95'}]}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.zip
+14772--QDY4C17818002168--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638/，对应pkg_id=2880
+Fri Jun  5 09:55:09 2020--14772--QDY4C17818002168服务端素材图片['ee3626ffc2400e6e32032f7307c6abcd.jpg', 'dc69aae724ca5a7b8d5715f88e471c95.jpg']
+QDY4C17818002168--apk的应用名称=地下城勇者
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------14772--QDY4C17818002168---dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点3------------------------------------拆包校验结果：True
+1591322110
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.dxcyz
+QDY4C17818002168启动游戏时_有权限弹框
+14772--QDY4C17818002168已授权_或无需授权=2
+14772--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591322226
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 09:57:06 2020--14772--QDY4C17818002168--dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168-已走异常流程_截图异常页面___(原因：主要是因为没有进入指定页面_)
+<img src='http://file.superdalan.com//d7bae64e1bd5ec052d4aebf0a70910a9~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//d7bae64e1bd5ec052d4aebf0a70910a9~500
+1591322288
+production
+{'status': True, 'msg': '成功'}
+--------------------14772--QDY4C17818002168--dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk---节点5----------------------------登录游戏结果:False
+当前进程:34468--时间09:58:12的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2881&f=shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk
+Fri Jun  5 09:58:13 2020--设备54a4c6159804:{'imei': '99000920749832', 'size': '1080x1920', 'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'system_version': '7.0', 'model': 'Redmi Note 4X'}
+[文件大小]:258.75 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2881&f=shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk完成！ 用时33.74秒
+---------------------------设备:54a4c6159804____shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk----节点1-----------------------------------下载校验结果：True
+1591322328
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:58:48 2020--34468--54a4c6159804:File_directory下包有['shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk']
+2020-06-05 09:58:48--54a4c6159804开始安装shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk==com.dalan.shjjdys
+54a4c6159804手机未安装com.dalan.shjjdys包....
+False
+2020-06-05 09:58:53_开始在54a4c6159804设备安装_shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk
+54a4c6159804手机已安装com.dalan.shjjdys包....
+True
+------------------------------54a4c6159804__shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk----节点2-------------------------------------安装返回结果：True
+1591322367
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk==com.dalan.shjjdys
+{'data': {'asset': [{'decompression': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': ''}], 'game_app_name': '山海经：剧毒异兽', 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}]}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.zip
+34468--54a4c6159804--实际图片对应路径{'decompression': '', 'logo': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917/，对应pkg_id=2881
+Fri Jun  5 09:59:38 2020--34468--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经：剧毒异兽
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------34468--54a4c6159804---shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk----节点3------------------------------------拆包校验结果：True
+1591322379
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjjdys
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+34468--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//13318d7c73f47b06294fb39e66fcea5b~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//13318d7c73f47b06294fb39e66fcea5b~500
+1591322439
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:00:39 2020--34468--54a4c6159804--shjjdyswzjh_dalan_dsdk_48_1.0.0_20200604_210917.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+[aircv][sift] threshold=0.7, result={'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'result': [306, 53], 'confidence': 0.5160666797310114}
+[aircv][sift] threshold=0.7, result={'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'result': [306, 53], 'confidence': 0.5160666797310114}
+[aircv][sift] threshold=0.7, result={'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'result': [306, 53], 'confidence': 0.5160666797310114}
+当前进程:27952--时间09:58:12的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2882&f=shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk
+Fri Jun  5 09:58:13 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'device_id': 'R8AYIJWO99999999', 'network': '当前网络为-移动网络', 'imei': '/system/bin/sh: tail: not found\n\n', 'system_version': '5.0.2', 'model': 'Redmi Note 3'}
+[文件大小]:256.91 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2882&f=shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk完成！ 用时33.76秒
+---------------------------设备:R8AYIJWO99999999____shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk----节点1-----------------------------------下载校验结果：True
+1591322327
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 09:58:47 2020--27952--R8AYIJWO99999999:File_directory下包有['shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk']
+2020-06-05 09:58:47--R8AYIJWO99999999开始安装shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk==com.dalan.shjcyzs.toutiao
+R8AYIJWO99999999手机未安装com.dalan.shjcyzs.toutiao包....
+False
+2020-06-05 09:58:53_开始在R8AYIJWO99999999设备安装_shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk
+R8AYIJWO99999999手机已安装com.dalan.shjcyzs.toutiao包....
+True
+------------------------------R8AYIJWO99999999__shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk----节点2-------------------------------------安装返回结果：True
+1591322400
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk==com.dalan.shjcyzs.toutiao
+{'data': {'file': [{'load': 'aa1fee8116606143edab59b0cba50edd', 'login': 'f3cf2e592ffa09105239e52e5f93c7a4'}], 'game_app_name': '山海经蚩尤战神', 'channel_pinyin': 'dsdk', 'asset': [{'splash': '', 'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': ''}], 'game_original_name': '我在江湖'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.zip
+27952--R8AYIJWO99999999--实际图片对应路径{'splash': '', 'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507/，对应pkg_id=2882
+Fri Jun  5 10:00:05 2020--27952--R8AYIJWO99999999服务端素材图片['aa1fee8116606143edab59b0cba50edd.jpg', 'f3cf2e592ffa09105239e52e5f93c7a4.jpg']
+R8AYIJWO99999999--apk的应用名称=山海经蚩尤战神
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------27952--R8AYIJWO99999999---shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk----节点3------------------------------------拆包校验结果：True
+1591322405
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.shjcyzs.toutiao
+27952--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591322461
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:01:01 2020--27952--R8AYIJWO99999999--shjcyzswzjhtt2_dalan_dsdk_48_1.0.0_20200604_230507.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+[aircv][sift] threshold=0.7, result={'result': [306, 53], 'confidence': 0.516362065449357, 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)]}
+[aircv][sift] threshold=0.7, result={'result': [306, 53], 'confidence': 0.516362065449357, 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)]}
+当前进程:26824--时间09:58:12的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2883&f=shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk
+Fri Jun  5 09:58:17 2020--设备QDY4C17818002168:{'model': 'TRT-AL00', 'device_id': 'QDY4C17818002168', 'system_version': '7.0', 'network': '当前网络为-wifi', 'imei': '865767038708929', 'size': '720x1280'}
+[文件大小]:258.01 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2883&f=shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk完成！ 用时31.37秒
+---------------------------设备:QDY4C17818002168____shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk----节点1-----------------------------------下载校验结果：True
+1591322329
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 09:58:49 2020--26824--QDY4C17818002168:File_directory下包有['shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk']
+2020-06-05 09:58:49--QDY4C17818002168开始安装shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk==com.dalan.shj.toutiao2
+QDY4C17818002168手机未安装com.dalan.shj.toutiao2包....
+False
+2020-06-05 09:58:59_开始在QDY4C17818002168设备安装_shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk
+QDY4C17818002168手机已安装com.dalan.shj.toutiao2包....
+True
+------------------------------QDY4C17818002168__shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk----节点2-------------------------------------安装返回结果：True
+1591322389
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk==com.dalan.shj.toutiao2
+{'data': {'asset': [{'decompression': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': '', 'splash': ''}], 'game_app_name': '山海经', 'channel_pinyin': 'dsdk', 'file': [{'login': 'ef0334525653ef158f4212bb53a1d41f', 'load': '1d5fde3028e1175e3a0ce920219d708d'}], 'game_original_name': '我在江湖'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.zip
+26824--QDY4C17818002168--实际图片对应路径{'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'splash': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619/，对应pkg_id=2883
+Fri Jun  5 09:59:55 2020--26824--QDY4C17818002168服务端素材图片['ef0334525653ef158f4212bb53a1d41f.jpg', '1d5fde3028e1175e3a0ce920219d708d.jpg']
+QDY4C17818002168--apk的应用名称=山海经
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------26824--QDY4C17818002168---shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk----节点3------------------------------------拆包校验结果：True
+1591322396
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+still waiting for uiautomation ready.
+QDY4C17818002168 com.dalan.shj.toutiao2
+26824--QDY4C17818002168找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//4b1576fd794e7f9aab8ff6f69b0bad78~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//4b1576fd794e7f9aab8ff6f69b0bad78~500
+1591322647
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 10:04:07 2020--26824--QDY4C17818002168--shjwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230619.apk----节点4------------------------------打开游戏结果:False
+当前进程:15496--时间10:04:09的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2884&f=shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk
+Fri Jun  5 10:04:11 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'size': '1080x1920', 'system_version': '7.0', 'imei': '99000920749832', 'model': 'Redmi Note 4X'}
+[文件大小]:259.32 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2884&f=shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk完成！ 用时24.16秒
+---------------------------设备:54a4c6159804____shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk----节点1-----------------------------------下载校验结果：True
+1591322676
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 10:04:36 2020--15496--54a4c6159804:File_directory下包有['shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk']
+2020-06-05 10:04:36--54a4c6159804开始安装shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk==com.dalan.shjyssr.toutiao
+54a4c6159804手机未安装com.dalan.shjyssr.toutiao包....
+False
+2020-06-05 10:04:43_开始在54a4c6159804设备安装_shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk
+54a4c6159804手机已安装com.dalan.shjyssr.toutiao包....
+True
+------------------------------54a4c6159804__shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk----节点2-------------------------------------安装返回结果：True
+1591322718
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk==com.dalan.shjyssr.toutiao
+{'msg': '成功', 'data': {'game_app_name': '山海经异兽食人', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'login': '11c48624d842b0c01ffa107977c01b23', 'load': '8ad900d397856e46fab55b85a1a518f7'}], 'asset': [{'decompression': '', 'splash': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg'}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.zip
+15496--54a4c6159804--实际图片对应路径{'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744/，对应pkg_id=2884
+Fri Jun  5 10:05:29 2020--15496--54a4c6159804服务端素材图片['11c48624d842b0c01ffa107977c01b23.jpg', '8ad900d397856e46fab55b85a1a518f7.jpg']
+54a4c6159804--apk的应用名称=山海经异兽食人
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------15496--54a4c6159804---shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk----节点3------------------------------------拆包校验结果：True
+1591322732
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjyssr.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+15496--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//ec45b7aa61ca14ce539e4d5749a6928c~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//ec45b7aa61ca14ce539e4d5749a6928c~500
+1591322797
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:06:37 2020--15496--54a4c6159804--shjyssrwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230744.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+当前进程:33436--时间10:04:09的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk
+Fri Jun  5 10:04:39 2020--设备QDY4C17818002168:{'size': '720x1280', 'network': '当前网络为-wifi', 'model': 'TRT-AL00', 'system_version': '7.0', 'device_id': 'QDY4C17818002168', 'imei': '865767038708929'}
+[文件大小]:258.17 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2887&f=zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk完成！ 用时20.80秒
+---------------------------设备:QDY4C17818002168____zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk----节点1-----------------------------------下载校验结果：True
+1591322700
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 10:05:00 2020--33436--QDY4C17818002168:File_directory下包有['zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk']
+2020-06-05 10:05:00--QDY4C17818002168开始安装zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk==com.dalan.zyrg.toutiao2
+QDY4C17818002168手机未安装com.dalan.zyrg.toutiao2包....
+False
+2020-06-05 10:05:10_开始在QDY4C17818002168设备安装_zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk
+QDY4C17818002168手机已安装com.dalan.zyrg.toutiao2包....
+True
+------------------------------QDY4C17818002168__zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk----节点2-------------------------------------安装返回结果：True
+1591322750
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk==com.dalan.zyrg.toutiao2
+{'msg': '成功', 'data': {'file': [{'login': 'b7106ab8b3620cbc509ef6175a822fe2', 'load': '1e32ad2c77982fed8732b25d7e482a1d'}], 'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_app_name': '招摇如歌', 'game_original_name': '我在江湖'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.zip
+33436--QDY4C17818002168--实际图片对应路径{'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050/，对应pkg_id=2887
+Fri Jun  5 10:06:02 2020--33436--QDY4C17818002168服务端素材图片['b7106ab8b3620cbc509ef6175a822fe2.jpg', '1e32ad2c77982fed8732b25d7e482a1d.jpg']
+QDY4C17818002168--apk的应用名称=招摇如歌
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------33436--QDY4C17818002168---zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk----节点3------------------------------------拆包校验结果：True
+1591322763
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.zyrg.toutiao2
+QDY4C17818002168启动游戏时_有权限弹框
+33436--QDY4C17818002168找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//7c6765474362f18b48eeee338d864d91~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//7c6765474362f18b48eeee338d864d91~500
+1591322924
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:08:44 2020--33436--QDY4C17818002168--zyrgwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231050.apk----节点4------------------------------打开游戏结果:False
+当前进程:15400--时间10:04:09的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2885&f=shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk
+Fri Jun  5 10:04:10 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'model': 'Redmi Note 3', 'size': '1080x1920', 'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:257.30 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2885&f=shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk完成！ 用时26.01秒
+---------------------------设备:R8AYIJWO99999999____shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk----节点1-----------------------------------下载校验结果：True
+1591322677
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 10:04:37 2020--15400--R8AYIJWO99999999:File_directory下包有['shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk']
+2020-06-05 10:04:37--R8AYIJWO99999999开始安装shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk==com.dalan.shjpgkt.toutiao
+R8AYIJWO99999999手机未安装com.dalan.shjpgkt.toutiao包....
+False
+2020-06-05 10:04:42_开始在R8AYIJWO99999999设备安装_shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk
+R8AYIJWO99999999手机已安装com.dalan.shjpgkt.toutiao包....
+True
+------------------------------R8AYIJWO99999999__shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk----节点2-------------------------------------安装返回结果：True
+1591322752
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk==com.dalan.shjpgkt.toutiao
+{'msg': '成功', 'data': {'asset': [{'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'decompression': '', 'logo': ''}], 'file': [{'load': '79b9918cd2d3cc52b128a5f46deb1fe2', 'login': '237a731a768ad0b3fd8cd26378b775ca'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'game_app_name': '山海经盘古开天'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.zip
+15400--R8AYIJWO99999999--实际图片对应路径{'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'decompression': '', 'logo': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921/，对应pkg_id=2885
+Fri Jun  5 10:05:57 2020--15400--R8AYIJWO99999999服务端素材图片['79b9918cd2d3cc52b128a5f46deb1fe2.jpg', '237a731a768ad0b3fd8cd26378b775ca.jpg']
+R8AYIJWO99999999--apk的应用名称=山海经盘古开天
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------15400--R8AYIJWO99999999---shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk----节点3------------------------------------拆包校验结果：True
+1591322759
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.shjpgkt.toutiao
+15400--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//ef7c7562e8f185d5a741c7ad9bd84792~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//ef7c7562e8f185d5a741c7ad9bd84792~500
+1591322826
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:07:06 2020--15400--R8AYIJWO99999999--shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+[aircv][sift] threshold=0.7, result={'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'confidence': 0.516362065449357, 'result': [306, 53]}
+[aircv][sift] threshold=0.7, result={'rectangle': [(528, 865), (528, 920), (725, 920), (725, 865)], 'confidence': 0.7855241000652313, 'result': (626, 892)}
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+[aircv][sift] threshold=0.7, result={'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)], 'confidence': 0.516362065449357, 'result': [306, 53]}
+[aircv][sift] threshold=0.7, result={'rectangle': [(528, 865), (528, 920), (725, 920), (725, 865)], 'confidence': 0.7855241000652313, 'result': (626, 892)}
+[aircv][sift] threshold=0.7, result={'rectangle': [(690, 471), (690, 512), (906, 512), (906, 471)], 'confidence': 0.589355118572712, 'result': [798, 492]}
+[aircv][sift] threshold=0.7, result={'rectangle': [(690, 471), (690, 512), (906, 512), (906, 471)], 'confidence': 0.589355118572712, 'result': [798, 492]}
+[aircv][sift] threshold=0.7, result={'rectangle': [(690, 471), (690, 512), (906, 512), (906, 471)], 'confidence': 0.5913602188229561, 'result': [798, 492]}
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999进入游戏异常_找不到元素
+<img src='http://file.superdalan.com//b29c4382b6c658914c4ca1765922da63~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//b29c4382b6c658914c4ca1765922da63~500
+1591323089
+production
+{'msg': '成功', 'status': True}
+--------------------15400--R8AYIJWO99999999--shjpgktwzjhtt2_dalan_dsdk_48_1.0.0_20200604_230921.apk---节点5----------------------------登录游戏结果:False
+当前进程:30140--时间10:11:33的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+Fri Jun  5 10:11:35 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'system_version': '7.0', 'model': 'Redmi Note 4X', 'imei': '99000920749832', 'size': '1080x1920'}
+[文件大小]:258.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk完成！ 用时29.75秒
+---------------------------设备:54a4c6159804____mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点1-----------------------------------下载校验结果：True
+1591323125
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 10:12:05 2020--30140--54a4c6159804:File_directory下包有['mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk']
+2020-06-05 10:12:05--54a4c6159804开始安装mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk==com.dalan.mszy.toutiao
+54a4c6159804手机未安装com.dalan.mszy.toutiao包....
+False
+2020-06-05 10:12:10_开始在54a4c6159804设备安装_mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+54a4c6159804手机已安装com.dalan.mszy.toutiao包....
+True
+------------------------------54a4c6159804__mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点2-------------------------------------安装返回结果：True
+1591323163
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk==com.dalan.mszy.toutiao
+{'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'asset': [{'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': ''}], 'file': [{'load': '874f34768a3132bb26be7a3abb7677c7', 'login': '5b6abeb701e38265f3e0bf0d61ca295b'}], 'game_app_name': '茅山志异'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.zip
+30140--54a4c6159804--实际图片对应路径{'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223/，对应pkg_id=2888
+Fri Jun  5 10:12:50 2020--30140--54a4c6159804服务端素材图片['874f34768a3132bb26be7a3abb7677c7.jpg', '5b6abeb701e38265f3e0bf0d61ca295b.jpg']
+54a4c6159804--apk的应用名称=茅山志异
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------30140--54a4c6159804---mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点3------------------------------------拆包校验结果：True
+1591323171
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.mszy.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+30140--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//7763654c8f6d9c54eb1cc1fd2a483401~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//7763654c8f6d9c54eb1cc1fd2a483401~500
+1591323228
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:13:48 2020--30140--54a4c6159804--mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+[aircv][sift] threshold=0.7, result={'confidence': 0.5160666797310114, 'result': [306, 53], 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.5160666797310114, 'result': [306, 53], 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.5160666797310114, 'result': [306, 53], 'rectangle': [(265, 11), (265, 94), (346, 94), (346, 11)]}
+当前进程:27664--时间10:11:33的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+Fri Jun  5 10:11:35 2020--设备QDY4C17818002168:{'network': '当前网络为-wifi', 'device_id': 'QDY4C17818002168', 'imei': '865767038708929', 'system_version': '7.0', 'model': 'TRT-AL00', 'size': '720x1280'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk完成！ 用时29.21秒
+---------------------------设备:QDY4C17818002168____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点1-----------------------------------下载校验结果：True
+1591323124
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 10:12:04 2020--27664--QDY4C17818002168:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+2020-06-05 10:12:04--QDY4C17818002168开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk==com.dalan.shjjdys.toutiao
+QDY4C17818002168手机未安装com.dalan.shjjdys.toutiao包....
+False
+2020-06-05 10:12:10_开始在QDY4C17818002168设备安装_shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+QDY4C17818002168手机已安装com.dalan.shjjdys.toutiao包....
+True
+------------------------------QDY4C17818002168__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点2-------------------------------------安装返回结果：True
+1591323160
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk==com.dalan.shjjdys.toutiao
+{'data': {'game_original_name': '我在江湖', 'asset': [{'decompression': '', 'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'game_app_name': '山海经：剧毒异兽', 'channel_pinyin': 'dsdk'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.zip
+27664--QDY4C17818002168--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527/，对应pkg_id=2890
+Fri Jun  5 10:13:00 2020--27664--QDY4C17818002168服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+QDY4C17818002168--apk的应用名称=山海经：剧毒异兽
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------27664--QDY4C17818002168---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点3------------------------------------拆包校验结果：True
+1591323181
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.shjjdys.toutiao
+QDY4C17818002168启动游戏时_有权限弹框
+27664--QDY4C17818002168已授权_或无需授权=2
+27664--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//c3df00859aa73f05d6889146e56ce93c~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//c3df00859aa73f05d6889146e56ce93c~500
+1591323251
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 10:14:11 2020--27664--QDY4C17818002168--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+[aircv][sift] threshold=0.7, result={'result': [195, 235], 'rectangle': [(115, 0), (115, 235), (274, 235), (274, 0)], 'confidence': 0.37744754552841187}
+[aircv][sift] threshold=0.7, result={'result': [195, 235], 'rectangle': [(115, 0), (115, 235), (274, 235), (274, 0)], 'confidence': 0.37744754552841187}
+[aircv][sift] threshold=0.7, result={'result': [195, 235], 'rectangle': [(115, 0), (115, 235), (274, 235), (274, 0)], 'confidence': 0.37744754552841187}
+[aircv][sift] threshold=0.7, result={'result': [195, 235], 'rectangle': [(115, 0), (115, 235), (274, 235), (274, 0)], 'confidence': 0.37744754552841187}
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 12:39:30===========================================
+Fri Jun  5 12:39:30 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk ', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk ', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 12:40:16===========================================
+Fri Jun  5 12:40:16 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk ', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk ', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+当前进程:22240--时间12:40:20的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk 
+Fri Jun  5 12:40:21 2020--设备R8AYIJWO99999999:{'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'size': '1080x1920', 'model': 'Redmi Note 3', 'imei': '/system/bin/sh: tail: not found\n\n', 'system_version': '5.0.2'}
+[文件大小]:258.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk 完成！ 用时27.05秒
+---------------------------设备:R8AYIJWO99999999____mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk ----节点1-----------------------------------下载校验结果：True
+1591332049
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 12:40:49 2020--22240--R8AYIJWO99999999:File_directory下包有[]
+当前进程:16048--时间12:40:20的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk 
+Fri Jun  5 12:40:22 2020--设备54a4c6159804:{'size': '1080x1920', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'network': '当前网络为-wifi', 'system_version': '7.0'}
+[文件大小]:257.56 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk 完成！ 用时28.62秒
+---------------------------设备:54a4c6159804____dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk ----节点1-----------------------------------下载校验结果：True
+1591332051
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 12:40:51 2020--16048--54a4c6159804:File_directory下包有[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 12:41:46===========================================
+Fri Jun  5 12:41:46 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk ', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk ', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+当前进程:27168--时间12:41:47的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk 
+Fri Jun  5 12:41:48 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'size': '1080x1920', 'model': 'Redmi Note 3', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络', 'system_version': '5.0.2'}
+[文件大小]:258.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk 完成！ 用时26.31秒
+---------------------------设备:R8AYIJWO99999999____mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk ----节点1-----------------------------------下载校验结果：True
+1591332135
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 12:42:15 2020--27168--R8AYIJWO99999999:File_directory下包有[]
+当前进程:24364--时间12:41:47的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk 
+Fri Jun  5 12:41:49 2020--设备54a4c6159804:{'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'size': '1080x1920', 'model': 'Redmi Note 4X', 'system_version': '7.0'}
+[文件大小]:257.56 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk 完成！ 用时27.74秒
+---------------------------设备:54a4c6159804____dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk ----节点1-----------------------------------下载校验结果：True
+1591332137
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 12:42:17 2020--24364--54a4c6159804:File_directory下包有[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 13:32:32===========================================
+Fri Jun  5 13:32:32 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+当前进程:19976--时间13:32:33的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+Fri Jun  5 13:32:34 2020--设备54a4c6159804:{'device_id': '54a4c6159804', 'system_version': '7.0', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'network': '当前网络为-wifi', 'size': '1080x1920'}
+[文件大小]:257.56 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk完成！ 用时28.88秒
+---------------------------设备:54a4c6159804____dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点1-----------------------------------下载校验结果：True
+1591335184
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 13:33:04 2020--19976--54a4c6159804:File_directory下包有['dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk']
+2020-06-05 13:33:04--54a4c6159804开始安装dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk==com.dalan.dxcyz
+54a4c6159804手机未安装com.dalan.dxcyz包....
+False
+2020-06-05 13:33:09_开始在54a4c6159804设备安装_dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+54a4c6159804手机已安装com.dalan.dxcyz包....
+True
+------------------------------54a4c6159804__dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点2-------------------------------------安装返回结果：True
+1591335234
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk==com.dalan.dxcyz
+{'msg': '成功', 'data': {'asset': [{'splash': '', 'decompression': '', 'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg'}], 'file': [{'load': 'ee3626ffc2400e6e32032f7307c6abcd', 'login': 'dc69aae724ca5a7b8d5715f88e471c95'}], 'game_app_name': '地下城勇者', 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.zip
+19976--54a4c6159804--实际图片对应路径{'splash': '', 'decompression': '', 'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638/，对应pkg_id=2880
+Fri Jun  5 13:33:59 2020--19976--54a4c6159804服务端素材图片['ee3626ffc2400e6e32032f7307c6abcd.jpg', 'dc69aae724ca5a7b8d5715f88e471c95.jpg']
+54a4c6159804--apk的应用名称=地下城勇者
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------19976--54a4c6159804---dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点3------------------------------------拆包校验结果：True
+1591335240
+production
+{'msg': '成功', 'status': True}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.dxcyz
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+19976--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//30770466fbacba2578d64ee2721bfc02~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//30770466fbacba2578d64ee2721bfc02~500
+1591335303
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 13:35:03 2020--19976--54a4c6159804--dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+[aircv][sift] threshold=0.7, result={'confidence': 0.32102440297603607, 'result': [112, 165], 'rectangle': [(70, 153), (70, 176), (153, 176), (153, 153)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.32102440297603607, 'result': [112, 165], 'rectangle': [(70, 153), (70, 176), (153, 176), (153, 153)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.32102440297603607, 'result': [112, 165], 'rectangle': [(70, 153), (70, 176), (153, 176), (153, 153)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.47935526445508003, 'result': [804, 949], 'rectangle': [(706, 770), (706, 1079), (901, 1079), (901, 770)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.47935526445508003, 'result': [804, 949], 'rectangle': [(706, 770), (706, 1079), (901, 1079), (901, 770)]}
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//fee4a28975a863501b089cc04761e634~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//fee4a28975a863501b089cc04761e634~500
+1591335350
+production
+{'msg': '成功', 'status': True}
+--------------------19976--54a4c6159804--dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+19976--54a4c6159804找到首充按钮
+[aircv][sift] threshold=0.6, result={'confidence': 0.6028155609965324, 'result': (117, 128), 'rectangle': [(0, 100), (0, 157), (236, 157), (236, 100)]}
+19976--54a4c6159804有立即领取按钮
+[aircv][sift] threshold=0.6, result={'confidence': 0.649063304066658, 'result': (120, 129), 'rectangle': [(1, 103), (1, 156), (239, 156), (239, 103)]}
+54a4c6159804__子线程 eve__start 
+54a4c6159804--已在充值档位页面
+19976--54a4c6159804拉起支付方式失败
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+<img src='http://file.superdalan.com//e0807730325676342de6416163f93551~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//e0807730325676342de6416163f93551~500
+(False, '54a4c6159804微信无法调起!,手机反应太慢_超时', 'e0807730325676342de6416163f93551')
+1591335395
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 13:36:35 2020--19976--54a4c6159804__dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk---节点6----------------------------下单调起微信结果:False
+当前进程:17904--时间13:32:33的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk
+Fri Jun  5 13:32:35 2020--设备QDY4C17818002168:{'device_id': 'QDY4C17818002168', 'imei': '865767038708929', 'network': '当前网络为-移动网络', 'system_version': '7.0', 'model': 'TRT-AL00', 'size': '720x1280'}
+[文件大小]:257.61 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2889&f=dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk完成！ 用时27.19秒
+---------------------------设备:QDY4C17818002168____dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk----节点1-----------------------------------下载校验结果：True
+1591335182
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 13:33:02 2020--17904--QDY4C17818002168:File_directory下包有['dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk']
+2020-06-05 13:33:02--QDY4C17818002168开始安装dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk==com.dalan.dxcyz.toutiao
+QDY4C17818002168手机已安装com.dalan.dxcyz.toutiao包....
+True
+Fri Jun  5 13:33:08 2020--QDY4C17818002168--install_前检查手机已安装dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk
+QDY4C17818002168--开始卸载dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk包
+Fri Jun  5 13:33:09 2020--QDY4C17818002168--卸载dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk包完成_____进行再次安装dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk
+QDY4C17818002168手机已安装com.dalan.dxcyz.toutiao包....
+------------------------------QDY4C17818002168__dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk----节点2-------------------------------------安装返回结果：True
+1591335219
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk==com.dalan.dxcyz.toutiao
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'file': [{'load': 'ee3626ffc2400e6e32032f7307c6abcd', 'login': 'dc69aae724ca5a7b8d5715f88e471c95'}], 'game_original_name': '我在江湖', 'game_app_name': '地下城勇者', 'asset': [{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'mp3_file': '', 'logo': '', 'splash': ''}]}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.zip
+17904--QDY4C17818002168--实际图片对应路径{'load': 'assets/loadingbg.jpg', 'decompression': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348/，对应pkg_id=2889
+Fri Jun  5 13:33:44 2020--17904--QDY4C17818002168服务端素材图片['ee3626ffc2400e6e32032f7307c6abcd.jpg', 'dc69aae724ca5a7b8d5715f88e471c95.jpg']
+QDY4C17818002168--apk的应用名称=地下城勇者
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------17904--QDY4C17818002168---dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk----节点3------------------------------------拆包校验结果：True
+1591335229
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168手机已灭屏_将执行解锁命令
+QDY4C17818002168--手机亮屏状态_二次点亮
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.dxcyz.toutiao
+QDY4C17818002168启动游戏时_有权限弹框
+17904--QDY4C17818002168已授权_或无需授权=2
+17904--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//4aa60d63c9e56ac7a59d82abe360010c~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//4aa60d63c9e56ac7a59d82abe360010c~500
+1591335299
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 13:34:59 2020--17904--QDY4C17818002168--dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168登录游戏成功
+<img src='http://file.superdalan.com//07ee6dd2605146e692a518590ac6414c~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//07ee6dd2605146e692a518590ac6414c~500
+1591335354
+production
+{'status': True, 'msg': '成功'}
+--------------------17904--QDY4C17818002168--dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+17904--QDY4C17818002168找到首充按钮
+17904--QDY4C17818002168有立即领取按钮
+QDY4C17818002168__子线程 eve__start 
+QDY4C17818002168--已在充值档位页面
+17904--QDY4C17818002168拉起支付方式弹窗成功
+QDY4C17818002168__子线程eve__stop
+QDY4C17818002168___主线程结束___
+QDY4C17818002168登录order_id=2020060562252476278
+QDY4C17818002168当前未登录微信
+<img src='http://file.superdalan.com//f748e4d981f688274ffb13379049ea7a~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//f748e4d981f688274ffb13379049ea7a~500
+(True, '2020060562252476278', 'f748e4d981f688274ffb13379049ea7a')
+production
+{'ret': 1, 'msg': 'success', 'content': {'status': 1, 'status_desc': '已下单'}}
+1591335402
+production
+{'status': True, 'msg': '成功'}
+-------------------Fri Jun  5 13:36:42 2020--17904--QDY4C17818002168__dxcyzwzjhtt2_dalan_dsdk_48_1.0.0_20200604_231348.apk---节点6----------------------------下单调起微信结果:True
+QDY4C17818002168执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+2__end 进程:17904--设备id:QDY4C17818002168--Fri Jun  5 13:36:44 2020
+当前进程:15304--时间13:32:33的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+Fri Jun  5 13:32:34 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'imei': '/system/bin/sh: tail: not found\n\n', 'model': 'Redmi Note 3', 'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'system_version': '5.0.2'}
+[文件大小]:258.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk完成！ 用时24.04秒
+---------------------------设备:R8AYIJWO99999999____mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点1-----------------------------------下载校验结果：True
+1591335179
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 13:32:59 2020--15304--R8AYIJWO99999999:File_directory下包有['mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk']
+2020-06-05 13:32:59--R8AYIJWO99999999开始安装mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk==com.dalan.mszy.toutiao
+R8AYIJWO99999999手机未安装com.dalan.mszy.toutiao包....
+False
+2020-06-05 13:33:04_开始在R8AYIJWO99999999设备安装_mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+R8AYIJWO99999999手机已安装com.dalan.mszy.toutiao包....
+True
+------------------------------R8AYIJWO99999999__mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点2-------------------------------------安装返回结果：True
+1591335253
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk==com.dalan.mszy.toutiao
+{'data': {'file': [{'login': '5b6abeb701e38265f3e0bf0d61ca295b', 'load': '874f34768a3132bb26be7a3abb7677c7'}], 'asset': [{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_app_name': '茅山志异', 'game_original_name': '我在江湖'}, 'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.zip
+15304--R8AYIJWO99999999--实际图片对应路径{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223/，对应pkg_id=2888
+Fri Jun  5 13:34:20 2020--15304--R8AYIJWO99999999服务端素材图片['5b6abeb701e38265f3e0bf0d61ca295b.jpg', '874f34768a3132bb26be7a3abb7677c7.jpg']
+R8AYIJWO99999999--apk的应用名称=茅山志异
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------15304--R8AYIJWO99999999---mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点3------------------------------------拆包校验结果：True
+1591335261
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.mszy.toutiao
+15304--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//deb53f9b6240f30a6b443f9dfd7a3cf8~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//deb53f9b6240f30a6b443f9dfd7a3cf8~500
+1591335323
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 13:35:23 2020--15304--R8AYIJWO99999999--mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999登录游戏成功
+<img src='http://file.superdalan.com//adaf0199ebaa622759435d175ace32ec~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//adaf0199ebaa622759435d175ace32ec~500
+1591335371
+production
+{'status': True, 'msg': '成功'}
+--------------------15304--R8AYIJWO99999999--mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+15304--R8AYIJWO99999999找到首充按钮
+15304--R8AYIJWO99999999有立即领取按钮
+R8AYIJWO99999999__子线程 eve__start 
+R8AYIJWO99999999--已在充值档位页面
+15304--R8AYIJWO99999999拉起支付方式失败
+R8AYIJWO99999999__子线程eve__stop
+R8AYIJWO99999999___主线程结束___
+<img src='http://file.superdalan.com//5cb3f85de53596de56a6bcf075464870~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//5cb3f85de53596de56a6bcf075464870~500
+(False, 'R8AYIJWO99999999微信无法调起!,手机反应太慢_超时', '5cb3f85de53596de56a6bcf075464870')
+1591335420
+production
+{'status': True, 'msg': '成功'}
+-------------------Fri Jun  5 13:37:00 2020--15304--R8AYIJWO99999999__mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk---节点6----------------------------下单调起微信结果:False
+当前进程:17656--时间13:37:03的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+Fri Jun  5 13:37:05 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'system_version': '7.0', 'imei': '99000920749832', 'size': '1080x1920'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk完成！ 用时16.15秒
+---------------------------设备:54a4c6159804____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点1-----------------------------------下载校验结果：True
+1591335442
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 13:37:22 2020--17656--54a4c6159804:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+2020-06-05 13:37:22--54a4c6159804开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk==com.dalan.shjjdys.toutiao
+54a4c6159804手机未安装com.dalan.shjjdys.toutiao包....
+False
+2020-06-05 13:37:27_开始在54a4c6159804设备安装_shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+True
+------------------------------54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点2-------------------------------------安装返回结果：True
+1591335480
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk==com.dalan.shjjdys.toutiao
+{'status': True, 'msg': '成功', 'data': {'asset': [{'mp3_file': '', 'splash': '', 'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_app_name': '山海经：剧毒异兽', 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'game_original_name': '我在江湖'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.zip
+17656--54a4c6159804--实际图片对应路径{'mp3_file': '', 'splash': '', 'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527/，对应pkg_id=2890
+Fri Jun  5 13:38:09 2020--17656--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经：剧毒异兽
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------17656--54a4c6159804---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点3------------------------------------拆包校验结果：True
+1591335490
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjjdys.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+17656--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//9b6e8fd11d6382aa955a9b960a78a8ed~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//9b6e8fd11d6382aa955a9b960a78a8ed~500
+1591335558
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 13:39:18 2020--17656--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+[aircv][sift] threshold=0.7, result={'result': [992, 952], 'confidence': 0.5792135968804359, 'rectangle': [(913, 938), (913, 965), (1070, 965), (1070, 938)]}
+[aircv][sift] threshold=0.7, result={'result': [992, 952], 'confidence': 0.5792135968804359, 'rectangle': [(913, 938), (913, 965), (1070, 965), (1070, 938)]}
+[aircv][sift] threshold=0.7, result={'result': [992, 952], 'confidence': 0.5792135968804359, 'rectangle': [(913, 938), (913, 965), (1070, 965), (1070, 938)]}
+
+start主线程 at: Fri Jun  5 13:32:32 2020
+剩余_1_任务需要减档执行_再次创建进程:['http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+主进程 end at: Fri Jun  5 13:39:47 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 13:41:16===========================================
+Fri Jun  5 13:41:16 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+当前进程:18976--时间13:41:21的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+Fri Jun  5 13:41:23 2020--设备54a4c6159804:{'size': '1080x1920', 'model': 'Redmi Note 4X', 'imei': '99000920749832', 'network': '当前网络为-wifi', 'system_version': '7.0', 'device_id': '54a4c6159804'}
+[文件大小]:257.56 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2880&f=dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk完成！ 用时32.15秒
+---------------------------设备:54a4c6159804____dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点1-----------------------------------下载校验结果：True
+1591335715
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 13:41:55 2020--18976--54a4c6159804:File_directory下包有['dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk']
+2020-06-05 13:41:55--54a4c6159804开始安装dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk==com.dalan.dxcyz
+54a4c6159804手机已安装com.dalan.dxcyz包....
+True
+Fri Jun  5 13:42:01 2020--54a4c6159804--install_前检查手机已安装dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+54a4c6159804--开始卸载dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk包
+Fri Jun  5 13:42:02 2020--54a4c6159804--卸载dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk包完成_____进行再次安装dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk
+54a4c6159804手机已安装com.dalan.dxcyz包....
+------------------------------54a4c6159804__dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点2-------------------------------------安装返回结果：True
+1591335754
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk==com.dalan.dxcyz
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'dc69aae724ca5a7b8d5715f88e471c95', 'load': 'ee3626ffc2400e6e32032f7307c6abcd'}], 'asset': [{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'game_app_name': '地下城勇者'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.zip
+18976--54a4c6159804--实际图片对应路径{'logo': '', 'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638/，对应pkg_id=2880
+Fri Jun  5 13:42:38 2020--18976--54a4c6159804服务端素材图片['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+54a4c6159804--apk的应用名称=地下城勇者
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------18976--54a4c6159804---dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点3------------------------------------拆包校验结果：True
+1591335759
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.dxcyz
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+18976--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//f6d65e1dcc2bd6955e60d5aa2cf1c92b~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//f6d65e1dcc2bd6955e60d5aa2cf1c92b~500
+1591335822
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 13:43:42 2020--18976--54a4c6159804--dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+[aircv][sift] threshold=0.7, result={'confidence': 0.45732757076621056, 'rectangle': [(716, 992), (716, 1079), (1189, 1079), (1189, 992)], 'result': [953, 1038]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.45732757076621056, 'rectangle': [(716, 992), (716, 1079), (1189, 1079), (1189, 992)], 'result': [953, 1038]}
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//f904c99c35bddf97daa91cff6e1f0fe9~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//f904c99c35bddf97daa91cff6e1f0fe9~500
+1591335868
+production
+{'msg': '成功', 'status': True}
+--------------------18976--54a4c6159804--dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+18976--54a4c6159804有立即领取按钮
+54a4c6159804__子线程 eve__start 
+54a4c6159804--已在充值档位页面
+18976--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060562254292126
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//9d3a9cf7b8835b6dd9cfbc2a74c868bb~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//9d3a9cf7b8835b6dd9cfbc2a74c868bb~500
+(True, '2020060562254292126', '9d3a9cf7b8835b6dd9cfbc2a74c868bb')
+production
+{'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1}
+1591335914
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 13:45:14 2020--18976--54a4c6159804__dxcyzwzjh2_dalan_dsdk_48_1.0.0_20200604_210638.apk---节点6----------------------------下单调起微信结果:True
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:18976--设备id:54a4c6159804--Fri Jun  5 13:45:17 2020
+当前进程:31080--时间13:41:21的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+Fri Jun  5 13:41:23 2020--设备QDY4C17818002168:{'device_id': 'QDY4C17818002168', 'model': 'TRT-AL00', 'network': '当前网络为-wifi', 'size': '720x1280', 'system_version': '7.0', 'imei': '865767038708929'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk完成！ 用时26.26秒
+---------------------------设备:QDY4C17818002168____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点1-----------------------------------下载校验结果：True
+1591335709
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 13:41:49 2020--31080--QDY4C17818002168:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk']
+2020-06-05 13:41:49--QDY4C17818002168开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk==com.dalan.shjjdys.toutiao
+QDY4C17818002168手机已安装com.dalan.shjjdys.toutiao包....
+True
+Fri Jun  5 13:41:55 2020--QDY4C17818002168--install_前检查手机已安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+QDY4C17818002168--开始卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk包
+Fri Jun  5 13:41:56 2020--QDY4C17818002168--卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk包完成_____进行再次安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk
+QDY4C17818002168手机已安装com.dalan.shjjdys.toutiao包....
+------------------------------QDY4C17818002168__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点2-------------------------------------安装返回结果：True
+1591335748
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk==com.dalan.shjjdys.toutiao
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'game_app_name': '山海经：剧毒异兽', 'file': [{'load': 'a309441de6e6f702c28141ede88678a4', 'login': '76ab9b853e4b1ac48c66b7caf9d0d898'}], 'channel_pinyin': 'dsdk', 'asset': [{'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'logo': '', 'login': 'assets/selectserverbg.jpg'}]}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.zip
+31080--QDY4C17818002168--实际图片对应路径{'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527/，对应pkg_id=2890
+Fri Jun  5 13:42:38 2020--31080--QDY4C17818002168服务端素材图片['a309441de6e6f702c28141ede88678a4.jpg', '76ab9b853e4b1ac48c66b7caf9d0d898.jpg']
+QDY4C17818002168--apk的应用名称=山海经：剧毒异兽
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------31080--QDY4C17818002168---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点3------------------------------------拆包校验结果：True
+1591335759
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.dalan.shjjdys.toutiao
+QDY4C17818002168启动游戏时_有权限弹框
+31080--QDY4C17818002168已授权_或无需授权=2
+31080--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//09adeed1c0a340aad355672010e0f50e~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//09adeed1c0a340aad355672010e0f50e~500
+1591335829
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 13:43:49 2020--31080--QDY4C17818002168--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168登录游戏成功
+<img src='http://file.superdalan.com//7627b89a6d31233e8822deba1a46b9c3~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//7627b89a6d31233e8822deba1a46b9c3~500
+1591335884
+production
+{'msg': '成功', 'status': True}
+--------------------31080--QDY4C17818002168--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+31080--QDY4C17818002168找到首充按钮
+31080--QDY4C17818002168有立即领取按钮
+QDY4C17818002168__子线程 eve__start QDY4C17818002168--已在充值档位页面
+
+31080--QDY4C17818002168拉起支付方式弹窗成功
+QDY4C17818002168__子线程eve__stop
+QDY4C17818002168___主线程结束___
+QDY4C17818002168登录order_id=2020060562254370749
+QDY4C17818002168当前未登录微信
+<img src='http://file.superdalan.com//3b5cd846093d342ddf08ddb0b362761c~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//3b5cd846093d342ddf08ddb0b362761c~500
+(True, '2020060562254370749', '3b5cd846093d342ddf08ddb0b362761c')
+production
+{'ret': 1, 'msg': 'success', 'content': {'status': 1, 'status_desc': '已下单'}}
+1591335932
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 13:45:32 2020--31080--QDY4C17818002168__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200604_231527.apk---节点6----------------------------下单调起微信结果:True
+QDY4C17818002168执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+2__end 进程:31080--设备id:QDY4C17818002168--Fri Jun  5 13:45:34 2020
+当前进程:10688--时间13:41:21的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+Fri Jun  5 13:41:24 2020--设备R8AYIJWO99999999:{'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'model': 'Redmi Note 3', 'size': '1080x1920', 'imei': '/system/bin/sh: tail: not found\n\n', 'system_version': '5.0.2'}
+[文件大小]:258.24 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2888&f=mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk完成！ 用时30.91秒
+---------------------------设备:R8AYIJWO99999999____mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点1-----------------------------------下载校验结果：True
+1591335715
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 13:41:55 2020--10688--R8AYIJWO99999999:File_directory下包有['mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk']
+2020-06-05 13:41:55--R8AYIJWO99999999开始安装mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk==com.dalan.mszy.toutiao
+R8AYIJWO99999999手机已安装com.dalan.mszy.toutiao包....
+True
+Fri Jun  5 13:42:03 2020--R8AYIJWO99999999--install_前检查手机已安装mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+R8AYIJWO99999999--开始卸载mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk包
+Fri Jun  5 13:42:07 2020--R8AYIJWO99999999--卸载mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk包完成_____进行再次安装mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk
+R8AYIJWO99999999手机已安装com.dalan.mszy.toutiao包....
+------------------------------R8AYIJWO99999999__mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点2-------------------------------------安装返回结果：True
+1591335809
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk==com.dalan.mszy.toutiao
+{'data': {'channel_pinyin': 'dsdk', 'asset': [{'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': ''}], 'file': [{'login': '5b6abeb701e38265f3e0bf0d61ca295b', 'load': '874f34768a3132bb26be7a3abb7677c7'}], 'game_app_name': '茅山志异', 'game_original_name': '我在江湖'}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.zip
+10688--R8AYIJWO99999999--实际图片对应路径{'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223/，对应pkg_id=2888
+Fri Jun  5 13:43:35 2020--10688--R8AYIJWO99999999服务端素材图片['5b6abeb701e38265f3e0bf0d61ca295b.jpg', '874f34768a3132bb26be7a3abb7677c7.jpg']
+R8AYIJWO99999999--apk的应用名称=茅山志异
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------10688--R8AYIJWO99999999---mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点3------------------------------------拆包校验结果：True
+1591335816
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.mszy.toutiao
+10688--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//3042b5e2760a04b937b2c5a49d111e98~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//3042b5e2760a04b937b2c5a49d111e98~500
+1591335873
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 13:44:33 2020--10688--R8AYIJWO99999999--mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999设备对应账号18612260669
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+[aircv][sift] threshold=0.7, result={'rectangle': [(71, 153), (71, 174), (152, 174), (152, 153)], 'result': [112, 164], 'confidence': 0.3035863935947418}
+[aircv][sift] threshold=0.7, result={'rectangle': [(71, 153), (71, 174), (152, 174), (152, 153)], 'result': [112, 164], 'confidence': 0.3035876899957657}
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999登录游戏成功
+<img src='http://file.superdalan.com//b830ec9e902a1cc10a0e0e613741c785~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//b830ec9e902a1cc10a0e0e613741c785~500
+1591335923
+production
+{'status': True, 'msg': '成功'}
+--------------------10688--R8AYIJWO99999999--mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+10688--R8AYIJWO99999999找到首充按钮
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+(False, 'R8AYIJWO99999999微信无法调起!,手机反应太慢_超时', 'd41d8cd98f00b204e9800998ecf8427e')
+1591335956
+production
+{'status': True, 'msg': '成功'}
+-------------------Fri Jun  5 13:45:56 2020--10688--R8AYIJWO99999999__mszywzjhtt2_dalan_dsdk_48_1.0.0_20200604_231223.apk---节点6----------------------------下单调起微信结果:False
+R8AYIJWO99999999执行2次了还是失败，需要删除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Fri Jun  5 13:41:16 2020
+主进程 end at: Fri Jun  5 13:45:56 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 15:00:26===========================================
+Fri Jun  5 15:00:26 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+当前进程:21132--时间15:00:29的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+Fri Jun  5 15:00:31 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'imei': '99000920749832', 'device_id': '54a4c6159804', 'size': '1080x1920', 'system_version': '7.0', 'model': 'Redmi Note 4X'}
+[文件大小]:261.62 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk完成！ 用时28.75秒
+---------------------------设备:54a4c6159804____shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk----节点1-----------------------------------下载校验结果：True
+1591340461
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 15:01:01 2020--21132--54a4c6159804:File_directory下包有['shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk']
+2020-06-05 15:01:01--54a4c6159804开始安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk==com.dalan.shmy.ks
+54a4c6159804手机未安装com.dalan.shmy.ks包....
+False
+2020-06-05 15:01:06_开始在54a4c6159804设备安装_shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+54a4c6159804手机已安装com.dalan.shmy.ks包....
+True
+------------------------------54a4c6159804__shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk----节点2-------------------------------------安装返回结果：True
+1591340512
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk==com.dalan.shmy.ks
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'c8df56465bd4655c8a06514fcef6ecf9', 'load': '5ef502ed028754afa239c6390aa4dbc8'}], 'game_app_name': '四海牧云', 'game_original_name': '我在江湖', 'asset': [{'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': ''}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.zip
+21132--54a4c6159804--实际图片对应路径{'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329/，对应pkg_id=2623
+Fri Jun  5 15:02:03 2020--21132--54a4c6159804服务端素材图片['c8df56465bd4655c8a06514fcef6ecf9.jpg', '5ef502ed028754afa239c6390aa4dbc8.jpg']
+54a4c6159804--apk的应用名称=四海牧云
+--------------------------21132--54a4c6159804---shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk----节点3------------------------------------拆包校验结果：False
+失败原因:只有应用名称匹配成功_图片失败
+1591340524
+production
+{'msg': '成功', 'status': True}
+54a4c6159804包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:15804--时间15:00:29的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+Fri Jun  5 15:00:31 2020--设备R8AYIJWO99999999:{'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n', 'network': '当前网络为-移动网络', 'model': 'Redmi Note 3', 'device_id': 'R8AYIJWO99999999', 'size': '1080x1920'}
+[文件大小]:248.83 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk完成！ 用时29.89秒
+---------------------------设备:R8AYIJWO99999999____wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk----节点1-----------------------------------下载校验结果：True
+1591340462
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 15:01:02 2020--15804--R8AYIJWO99999999:File_directory下包有['wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk']
+2020-06-05 15:01:02--R8AYIJWO99999999开始安装wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk==com.wjfy.wzjh
+R8AYIJWO99999999手机已安装com.wjfy.wzjh包....
+True
+Fri Jun  5 15:01:07 2020--R8AYIJWO99999999--install_前检查手机已安装wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+R8AYIJWO99999999--开始卸载wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk包
+Fri Jun  5 15:01:12 2020--R8AYIJWO99999999--卸载wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk包完成_____进行再次安装wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+R8AYIJWO99999999手机已安装com.wjfy.wzjh包....
+------------------------------R8AYIJWO99999999__wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk----节点2-------------------------------------安装返回结果：True
+1591340657
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk==com.wjfy.wzjh
+{'data': {'asset': [{'decompression': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}], 'file': [None], 'game_app_name': '江湖技术测试', 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk'}, 'status': True, 'msg': '成功'}
+-------------------pid:15804---R8AYIJWO99999999__wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk---节点3------------------------------后台没有配置素材无需校验
+1591340657
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.wjfy.wzjh
+15804--R8AYIJWO99999999找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591340790
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 15:06:30 2020--15804--R8AYIJWO99999999--wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk----节点4------------------------------打开游戏结果:False
+当前进程:22624--时间15:00:29的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk
+Fri Jun  5 15:00:31 2020--设备QDY4C17818002168:{'imei': '865767038708929', 'network': '当前网络为-移动网络', 'device_id': 'QDY4C17818002168', 'size': '720x1280', 'model': 'TRT-AL00', 'system_version': '7.0'}
+[文件大小]:263.66 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk完成！ 用时27.02秒
+---------------------------设备:QDY4C17818002168____wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk----节点1-----------------------------------下载校验结果：True
+1591340458
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 15:00:58 2020--22624--QDY4C17818002168:File_directory下包有['wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk']
+2020-06-05 15:00:58--QDY4C17818002168开始安装wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk==com.wjfy.wzjh
+QDY4C17818002168手机未安装com.wjfy.wzjh包....
+False
+2020-06-05 15:01:04_开始在QDY4C17818002168设备安装_wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk
+QDY4C17818002168手机已安装com.wjfy.wzjh包....
+True
+------------------------------QDY4C17818002168__wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk----节点2-------------------------------------安装返回结果：True
+1591340496
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk==com.wjfy.wzjh
+{'msg': '成功', 'data': {'file': [None], 'game_app_name': '江湖技术测试', 'asset': [{'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk'}, 'status': True}
+-------------------pid:22624---QDY4C17818002168__wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk---节点3------------------------------后台没有配置素材无需校验
+1591340496
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168手机已灭屏_将执行解锁命令
+QDY4C17818002168--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.wjfy.wzjh
+QDY4C17818002168启动游戏时_有权限弹框
+22624--QDY4C17818002168已授权_或无需授权=3
+22624--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//a11ea5d363809020f4cce70e828b0a74~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//a11ea5d363809020f4cce70e828b0a74~500
+1591340608
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 15:03:28 2020--22624--QDY4C17818002168--wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168需要反向勾选用户协议
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168游戏前有公告
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+[aircv][sift] threshold=0.7, result={'confidence': 0.48433827981352806, 'rectangle': [(0, 0), (0, 241), (287, 241), (287, 0)], 'result': [287, 241]}
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168循环判断游戏内元素
+QDY4C17818002168进入游戏异常_找不到元素
+<img src='http://file.superdalan.com//f9d548c126d5f301cb190bef30700590~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//f9d548c126d5f301cb190bef30700590~500
+1591340868
+production
+{'msg': '成功', 'status': True}
+--------------------22624--QDY4C17818002168--wjfy_dalan_dsdk_48_1.0.0_20200313_113403.apk---节点5----------------------------登录游戏结果:False
+当前进程:34744--时间15:07:49的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk
+Fri Jun  5 15:07:51 2020--设备54a4c6159804:{'system_version': '7.0', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'model': 'Redmi Note 4X', 'size': '1080x1920', 'network': '当前网络为-wifi'}
+[文件大小]:267.04 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk完成！ 用时29.60秒
+---------------------------设备:54a4c6159804____wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk----节点1-----------------------------------下载校验结果：True
+1591340901
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 15:08:21 2020--34744--54a4c6159804:File_directory下包有['wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk']
+2020-06-05 15:08:21--54a4c6159804开始安装wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk==com.wjfy.wzjh
+54a4c6159804手机未安装com.wjfy.wzjh包....
+False
+2020-06-05 15:08:27_开始在54a4c6159804设备安装_wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk
+54a4c6159804手机已安装com.wjfy.wzjh包....
+True
+------------------------------54a4c6159804__wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk----节点2-------------------------------------安装返回结果：True
+1591340955
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk==com.wjfy.wzjh
+{'data': {'channel_pinyin': 'dsdk', 'asset': [{'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': ''}], 'game_app_name': '江湖技术测试', 'game_original_name': '我在江湖', 'file': [None]}, 'msg': '成功', 'status': True}
+-------------------pid:34744---54a4c6159804__wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk---节点3------------------------------后台没有配置素材无需校验
+1591340955
+production
+{'msg': '成功', 'status': True}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.wjfy.wzjh
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+54a4c6159804启动游戏有公告弹框
+34744--54a4c6159804找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//82f6b28d6586cf81a1383aae21ba2d9c~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//82f6b28d6586cf81a1383aae21ba2d9c~500
+1591341100
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 15:11:40 2020--34744--54a4c6159804--wjfy_dalan_dsdk_48_1.0.0_20200327_152456.apk----节点4------------------------------打开游戏结果:False
+当前进程:29568--时间15:07:49的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk
+Fri Jun  5 15:07:51 2020--设备R8AYIJWO99999999:{'device_id': 'R8AYIJWO99999999', 'network': '当前网络为-移动网络', 'system_version': '5.0.2', 'imei': '/system/bin/sh: tail: not found\n\n', 'size': '1080x1920', 'model': 'Redmi Note 3'}
+[文件大小]:262.39 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk完成！ 用时35.98秒
+---------------------------设备:R8AYIJWO99999999____wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk----节点1-----------------------------------下载校验结果：True
+1591340907
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 15:08:27 2020--29568--R8AYIJWO99999999:File_directory下包有['wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk']
+2020-06-05 15:08:27--R8AYIJWO99999999开始安装wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk==com.wjfy.wzjh
+R8AYIJWO99999999手机已安装com.wjfy.wzjh包....
+True
+Fri Jun  5 15:08:33 2020--R8AYIJWO99999999--install_前检查手机已安装wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk
+R8AYIJWO99999999--开始卸载wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk包
+Fri Jun  5 15:08:35 2020--R8AYIJWO99999999--卸载wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk包完成_____进行再次安装wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk
+R8AYIJWO99999999手机已安装com.wjfy.wzjh包....
+------------------------------R8AYIJWO99999999__wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk----节点2-------------------------------------安装返回结果：True
+1591340998
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk==com.wjfy.wzjh
+{'status': True, 'msg': '成功', 'data': {'asset': [{'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': '', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg'}], 'game_app_name': '江湖技术测试', 'game_original_name': '我在江湖', 'file': [None], 'channel_pinyin': 'dsdk'}}
+-------------------pid:29568---R8AYIJWO99999999__wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk---节点3------------------------------后台没有配置素材无需校验
+1591340998
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.wjfy.wzjh
+R8AYIJWO99999999启动游戏有公告弹框
+29568--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591341099
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 15:11:39 2020--29568--R8AYIJWO99999999--wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999需要反向勾选用户协议
+R8AYIJWO99999999设备对应账号18612260669
+R8AYIJWO99999999-已走异常流程_截图异常页面___(原因：主要是因为没有进入指定页面_)
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1591341130
+production
+{'status': True, 'msg': '成功'}
+--------------------29568--R8AYIJWO99999999--wjfy_dalan_dsdk_48_1.0.0_20200411_230914.apk---节点5----------------------------登录游戏结果:False
+当前进程:17944--时间15:07:49的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk
+Fri Jun  5 15:07:51 2020--设备QDY4C17818002168:{'device_id': 'QDY4C17818002168', 'size': '720x1280', 'model': 'TRT-AL00', 'network': '当前网络为-wifi', 'system_version': '7.0', 'imei': '865767038708929'}
+[文件大小]:263.07 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk完成！ 用时34.93秒
+---------------------------设备:QDY4C17818002168____wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk----节点1-----------------------------------下载校验结果：True
+1591340906
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 15:08:26 2020--17944--QDY4C17818002168:File_directory下包有['wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk']
+2020-06-05 15:08:26--QDY4C17818002168开始安装wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk==com.wjfy.wzjh
+QDY4C17818002168手机已安装com.wjfy.wzjh包....
+True
+Fri Jun  5 15:08:32 2020--QDY4C17818002168--install_前检查手机已安装wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk
+QDY4C17818002168--开始卸载wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk包
+Fri Jun  5 15:08:33 2020--QDY4C17818002168--卸载wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk包完成_____进行再次安装wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk
+QDY4C17818002168手机已安装com.wjfy.wzjh包....
+------------------------------QDY4C17818002168__wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk----节点2-------------------------------------安装返回结果：True
+1591340943
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk==com.wjfy.wzjh
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [None], 'game_app_name': '江湖技术测试', 'asset': [{'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg'}]}, 'status': True}
+-------------------pid:17944---QDY4C17818002168__wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk---节点3------------------------------后台没有配置素材无需校验
+1591340943
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.wjfy.wzjh
+QDY4C17818002168启动游戏时_有权限弹框
+17944--QDY4C17818002168已授权_或无需授权=3
+17944--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//a5ff90ada850cffe7562d8c7716e5f4a~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//a5ff90ada850cffe7562d8c7716e5f4a~500
+1591341057
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 15:10:57 2020--17944--QDY4C17818002168--wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168设备对应账号13660625961
+QDY4C17818002168游戏前有公告
+QDY4C17818002168进入登录页_有进入游戏按钮
+QDY4C17818002168进入创角界面
+QDY4C17818002168循环判断游戏内元素
+[aircv][sift] threshold=0.7, result={'confidence': 0.44234152138233185, 'result': [0, 121], 'rectangle': [(0, 82), (0, 159), (287, 159), (287, 82)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.44234152138233185, 'result': [0, 121], 'rectangle': [(0, 82), (0, 159), (287, 159), (287, 82)]}
+[aircv][sift] threshold=0.7, result={'confidence': 0.44234152138233185, 'result': [0, 121], 'rectangle': [(0, 82), (0, 159), (287, 159), (287, 82)]}
+QDY4C17818002168登录游戏成功
+<img src='http://file.superdalan.com//f5140bfbf01a18e213dde1b4b2591df7~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//f5140bfbf01a18e213dde1b4b2591df7~500
+1591341118
+production
+{'msg': '成功', 'status': True}
+--------------------17944--QDY4C17818002168--wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+17944--QDY4C17818002168找到首充按钮
+17944--QDY4C17818002168有立即领取按钮
+QDY4C17818002168__子线程 eve__start QDY4C17818002168--已在充值档位页面
+
+17944--QDY4C17818002168拉起支付方式弹窗成功
+QDY4C17818002168__子线程eve__stop
+QDY4C17818002168___主线程结束___
+QDY4C17818002168登录order_id=2020060562272055781
+QDY4C17818002168当前未登录微信
+<img src='http://file.superdalan.com//b8ecea393ce29e662e0e518aaf02c1f9~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//b8ecea393ce29e662e0e518aaf02c1f9~500
+(True, '2020060562272055781', 'b8ecea393ce29e662e0e518aaf02c1f9')
+production
+{'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1}
+1591341168
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 15:12:48 2020--17944--QDY4C17818002168__wjfy_dalan_dsdk_48_1.0.0_20200522_114320.apk---节点6----------------------------下单调起微信结果:True
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+QDY4C17818002168执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+2__end 进程:17944--设备id:QDY4C17818002168--Fri Jun  5 15:12:51 2020
+当前进程:25740--时间15:12:52的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+Fri Jun  5 15:12:54 2020--设备54a4c6159804:{'network': '当前网络为-wifi', 'system_version': '7.0', 'size': '1080x1920', 'imei': '99000920749832', 'device_id': '54a4c6159804', 'model': 'Redmi Note 4X'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk完成！ 用时8.85秒
+---------------------------设备:54a4c6159804____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点1-----------------------------------下载校验结果：True
+1591341183
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 15:13:03 2020--25740--54a4c6159804:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+2020-06-05 15:13:03--54a4c6159804开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+True
+Fri Jun  5 15:13:09 2020--54a4c6159804--install_前检查手机已安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804--开始卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk包
+Fri Jun  5 15:13:09 2020--54a4c6159804--卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk包完成_____进行再次安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+------------------------------54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点2-------------------------------------安装返回结果：True
+1591341221
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'channel_pinyin': 'dsdk', 'asset': [{'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}], 'game_app_name': '山海经：剧毒异兽'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.zip
+25740--54a4c6159804--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052/，对应pkg_id=2890
+Fri Jun  5 15:13:49 2020--25740--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经：剧毒异兽
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------25740--54a4c6159804---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点3------------------------------------拆包校验结果：True
+1591341233
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjjdys.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+25740--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//efb00b835570dc8663f97b8febf52a74~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//efb00b835570dc8663f97b8febf52a74~500
+1591341304
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 15:15:04 2020--25740--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//1659e304aa2875de39397047b577c111~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//1659e304aa2875de39397047b577c111~500
+1591341351
+production
+{'msg': '成功', 'status': True}
+--------------------25740--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+[pocoservice.apk] stdout: b'\r\ncom.netease.open.pocoservice.InstrumentedTestAsLauncher:'
+[pocoservice.apk] stderr: b''
+MiniCap截图失败，换ADB截图
+
+start主线程 at: Fri Jun  5 15:00:26 2020
+剩余_1_任务需要减档执行_再次创建进程:['http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+主进程 end at: Fri Jun  5 15:16:04 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 18:54:44===========================================
+Fri Jun  5 18:54:44 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2894&f=txjh26_tianxie_android_48_1_20200605_174455.apk']
+当前进程:29548--时间18:54:47的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2894&f=txjh26_tianxie_android_48_1_20200605_174455.apk
+Fri Jun  5 18:54:48 2020--设备R8AYIJWO99999999:{'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'size': '1080x1920', 'imei': '/system/bin/sh: tail: not found\n\n', 'system_version': '5.0.2', 'model': 'Redmi Note 3'}
+[文件大小]:251.40 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2894&f=txjh26_tianxie_android_48_1_20200605_174455.apk完成！ 用时19.12秒
+---------------------------设备:R8AYIJWO99999999____txjh26_tianxie_android_48_1_20200605_174455.apk----节点1-----------------------------------下载校验结果：True
+1591354508
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 18:55:08 2020--29548--R8AYIJWO99999999:File_directory下包有['txjh26_tianxie_android_48_1_20200605_174455.apk']
+2020-06-05 18:55:08--R8AYIJWO99999999开始安装txjh26_tianxie_android_48_1_20200605_174455.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/txjh26_tianxie_android_48_1_20200605_174455.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/txjh26_tianxie_android_48_1_20200605_174455.apk==com.mhjydl.tx
+R8AYIJWO99999999手机未安装com.mhjydl.tx包....
+False
+2020-06-05 18:55:13_开始在R8AYIJWO99999999设备安装_txjh26_tianxie_android_48_1_20200605_174455.apk
+R8AYIJWO99999999手机已安装com.mhjydl.tx包....
+True
+------------------------------R8AYIJWO99999999__txjh26_tianxie_android_48_1_20200605_174455.apk----节点2-------------------------------------安装返回结果：True
+1591354611
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/txjh26_tianxie_android_48_1_20200605_174455.apk==com.mhjydl.tx
+{'msg': '成功', 'data': {'asset': [{'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': ''}], 'game_app_name': '天蝎江湖26', 'file': [{'login': '', 'load': '3c83eac20a08318f7d6de72264128969'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'android'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/txjh26_tianxie_android_48_1_20200605_174455.zip
+29548--R8AYIJWO99999999--实际图片对应路径{'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/txjh26_tianxie_android_48_1_20200605_174455/，对应pkg_id=2894
+Fri Jun  5 18:56:55 2020--29548--R8AYIJWO99999999服务端素材图片['3c83eac20a08318f7d6de72264128969.jpg']
+R8AYIJWO99999999--apk的应用名称=天蝎江湖26
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数1，实际匹配数1
+--------------------------29548--R8AYIJWO99999999---txjh26_tianxie_android_48_1_20200605_174455.apk----节点3------------------------------------拆包校验结果：True
+1591354617
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+Fri Jun  5 18:56:57 2020--29548--R8AYIJWO99999999--http://pkg.superdalan.com/game.pkg/download?pkgId=2894&f=txjh26_tianxie_android_48_1_20200605_174455.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1591354617
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:29548--设备id:R8AYIJWO99999999--Fri Jun  5 18:57:01 2020
+当前进程:33464--时间18:54:47的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+Fri Jun  5 18:54:49 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'size': '1080x1920', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'system_version': '7.0', 'device_id': '54a4c6159804'}
+[文件大小]:248.83 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2770&f=wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk完成！ 用时21.34秒
+---------------------------设备:54a4c6159804____wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk----节点1-----------------------------------下载校验结果：True
+1591354510
+production
+{'status': True, 'msg': '成功'}
+Fri Jun  5 18:55:10 2020--33464--54a4c6159804:File_directory下包有['wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk']
+2020-06-05 18:55:10--54a4c6159804开始安装wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk==com.wjfy.wzjh
+54a4c6159804手机已安装com.wjfy.wzjh包....
+True
+Fri Jun  5 18:55:16 2020--54a4c6159804--install_前检查手机已安装wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+54a4c6159804--开始卸载wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk包
+Fri Jun  5 18:55:17 2020--54a4c6159804--卸载wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk包完成_____进行再次安装wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk
+54a4c6159804手机已安装com.wjfy.wzjh包....
+------------------------------54a4c6159804__wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk----节点2-------------------------------------安装返回结果：True
+1591354544
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk==com.wjfy.wzjh
+{'status': True, 'data': {'game_app_name': '江湖技术测试', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [None], 'asset': [{'logo': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'decompression': ''}]}, 'msg': '成功'}
+-------------------pid:33464---54a4c6159804__wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk---节点3------------------------------后台没有配置素材无需校验
+1591354544
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.wjfy.wzjh
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=3
+33464--54a4c6159804找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//01ccf3a26ed867e258b0089e79f01ac3~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//01ccf3a26ed867e258b0089e79f01ac3~500
+1591354674
+production
+{'status': True, 'msg': '成功'}
+----------Fri Jun  5 18:57:54 2020--33464--54a4c6159804--wjfy_dalan_dsdk_48_1.0.0_20191213_181736.apk----节点4------------------------------打开游戏结果:False
+
+start主线程 at: Fri Jun  5 18:54:44 2020
+主进程 end at: Fri Jun  5 18:57:55 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 19:09:43===========================================
+Fri Jun  5 19:09:43 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+当前进程:13856--时间19:09:44的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+Fri Jun  5 19:09:47 2020--设备54a4c6159804:{'size': '1080x1920', 'network': '当前网络为-wifi', 'device_id': '54a4c6159804', 'system_version': '7.0', 'imei': '99000920749832', 'model': 'Redmi Note 4X'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk完成！ 用时15.76秒
+---------------------------设备:54a4c6159804____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点1-----------------------------------下载校验结果：True
+1591355403
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 19:10:03 2020--13856--54a4c6159804:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+2020-06-05 19:10:03--54a4c6159804开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+54a4c6159804手机未安装com.dalan.shjjdys.toutiao包....
+False
+2020-06-05 19:10:09_开始在54a4c6159804设备安装_shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+True
+------------------------------54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点2-------------------------------------安装返回结果：True
+1591355442
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+{'data': {'game_original_name': '我在江湖', 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'game_app_name': '山海经：剧毒异兽', 'channel_pinyin': 'dsdk', 'asset': [{'logo': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': ''}]}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.zip
+13856--54a4c6159804--实际图片对应路径{'logo': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052/，对应pkg_id=2890
+Fri Jun  5 19:10:51 2020--13856--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经：剧毒异兽
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------13856--54a4c6159804---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点3------------------------------------拆包校验结果：True
+1591355452
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjjdys.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+13856--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d0493506f168151cf5ee35fbdc102837~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//d0493506f168151cf5ee35fbdc102837~500
+1591355521
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 19:12:01 2020--13856--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//1d72acda3af5a2818f948791e018a0ab~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//1d72acda3af5a2818f948791e018a0ab~500
+1591355571
+production
+{'msg': '成功', 'status': True}
+--------------------13856--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804登录order_id=2020060562254292126
+<img src='http://file.superdalan.com//18771327b30d7e5258386fcede690674~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//18771327b30d7e5258386fcede690674~500
+(False, '54a4c6159804微信无法调起!,手机反应太慢_超时', '18771327b30d7e5258386fcede690674')
+1591355599
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 19:13:19 2020--13856--54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点6----------------------------下单调起微信结果:False
+
+start主线程 at: Fri Jun  5 19:09:43 2020
+主进程 end at: Fri Jun  5 19:13:20 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 19:14:58===========================================
+Fri Jun  5 19:14:58 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+当前进程:16236--时间19:14:59的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+Fri Jun  5 19:15:02 2020--设备54a4c6159804:{'system_version': '7.0', 'device_id': '54a4c6159804', 'size': '1080x1920', 'imei': '99000920749832', 'network': '当前网络为-wifi', 'model': 'Redmi Note 4X'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk完成！ 用时12.07秒
+---------------------------设备:54a4c6159804____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点1-----------------------------------下载校验结果：True
+1591355715
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 19:15:15 2020--16236--54a4c6159804:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+2020-06-05 19:15:15--54a4c6159804开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+True
+Fri Jun  5 19:15:20 2020--54a4c6159804--install_前检查手机已安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804--开始卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk包
+Fri Jun  5 19:15:21 2020--54a4c6159804--卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk包完成_____进行再次安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+------------------------------54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点2-------------------------------------安装返回结果：True
+1591355757
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+{'status': True, 'data': {'asset': [{'logo': '', 'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}], 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'game_app_name': '山海经：剧毒异兽', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖'}, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.zip
+16236--54a4c6159804--实际图片对应路径{'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052/，对应pkg_id=2890
+Fri Jun  5 19:16:06 2020--16236--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经：剧毒异兽
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------16236--54a4c6159804---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点3------------------------------------拆包校验结果：True
+1591355767
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjjdys.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+16236--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//efb00b835570dc8663f97b8febf52a74~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//efb00b835570dc8663f97b8febf52a74~500
+1591355855
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 19:17:35 2020--16236--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//13ebaa10bc2e325c35b74b8cf03a7a45~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//13ebaa10bc2e325c35b74b8cf03a7a45~500
+1591355907
+production
+{'msg': '成功', 'status': True}
+--------------------16236--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+16236--54a4c6159804有立即领取按钮
+54a4c6159804__子线程 eve__start 
+54a4c6159804--已在充值档位页面
+16236--54a4c6159804拉起支付方式失败
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+<img src='http://file.superdalan.com//cb01f480d0ff7ee85c6ef6d1feb6ff5d~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//cb01f480d0ff7ee85c6ef6d1feb6ff5d~500
+(False, '54a4c6159804微信无法调起!,手机反应太慢_超时', 'cb01f480d0ff7ee85c6ef6d1feb6ff5d')
+1591355954
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 19:19:14 2020--16236--54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点6----------------------------下单调起微信结果:False
+54a4c6159804执行2次了还是失败，需要删除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+start主线程 at: Fri Jun  5 19:14:58 2020
+主进程 end at: Fri Jun  5 19:19:15 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 19:29:48===========================================
+Fri Jun  5 19:29:48 2020获取数据库中apk链接=[]
+
+========================================start程序1111=============================================
+    ====================================2020-06-05 19:29:55===========================================
+Fri Jun  5 19:29:55 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+当前进程:26776--时间19:29:56的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+Fri Jun  5 19:29:58 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'system_version': '7.0', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi', 'imei': '99000920749832', 'size': '1080x1920'}
+[文件大小]:258.80 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2890&f=shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk完成！ 用时11.95秒
+---------------------------设备:54a4c6159804____shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点1-----------------------------------下载校验结果：True
+1591356611
+production
+{'msg': '成功', 'status': True}
+Fri Jun  5 19:30:11 2020--26776--54a4c6159804:File_directory下包有['shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk']
+2020-06-05 19:30:11--54a4c6159804开始安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+True
+Fri Jun  5 19:30:16 2020--54a4c6159804--install_前检查手机已安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804--开始卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk包
+Fri Jun  5 19:30:17 2020--54a4c6159804--卸载shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk包完成_____进行再次安装shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk
+54a4c6159804手机已安装com.dalan.shjjdys.toutiao包....
+------------------------------54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点2-------------------------------------安装返回结果：True
+1591356644
+production
+{'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk==com.dalan.shjjdys.toutiao
+{'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': '76ab9b853e4b1ac48c66b7caf9d0d898', 'load': 'a309441de6e6f702c28141ede88678a4'}], 'game_app_name': '山海经：剧毒异兽', 'asset': [{'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}]}, 'msg': '成功', 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.zip
+26776--54a4c6159804--实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}，拆包后后apk目录E:\Test_dalan_gzl_jiance_apk/File_directory/shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052/，对应pkg_id=2890
+Fri Jun  5 19:30:52 2020--26776--54a4c6159804服务端素材图片['76ab9b853e4b1ac48c66b7caf9d0d898.jpg', 'a309441de6e6f702c28141ede88678a4.jpg']
+54a4c6159804--apk的应用名称=山海经：剧毒异兽
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------26776--54a4c6159804---shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点3------------------------------------拆包校验结果：True
+1591356653
+production
+{'msg': '成功', 'status': True}
+54a4c6159804--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.dalan.shjjdys.toutiao
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+26776--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//fd125de02379b161f916471ad467fe66~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//fd125de02379b161f916471ad467fe66~500
+1591356717
+production
+{'msg': '成功', 'status': True}
+----------Fri Jun  5 19:31:57 2020--26776--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804设备对应账号18520103625
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//a695880426fba9e0c9c43da3a7de220b~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//a695880426fba9e0c9c43da3a7de220b~500
+1591356768
+production
+{'msg': '成功', 'status': True}
+--------------------26776--54a4c6159804--shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+26776--54a4c6159804有立即领取按钮
+54a4c6159804__子线程 eve__start 
+54a4c6159804--已在充值档位页面
+26776--54a4c6159804拉起支付方式弹窗成功
+54a4c6159804__子线程eve__stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020060562329065848
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//8a593ba3ff1ddd13e371ccf64eb1ac64~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//8a593ba3ff1ddd13e371ccf64eb1ac64~500
+(True, '2020060562329065848', '8a593ba3ff1ddd13e371ccf64eb1ac64')
+production
+{'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1}
+1591356817
+production
+{'msg': '成功', 'status': True}
+-------------------Fri Jun  5 19:33:37 2020--26776--54a4c6159804__shjjdyswzjhtt_dalan_dsdk_48_1.0.0_20200605_150052.apk---节点6----------------------------下单调起微信结果:True
+豪门总裁 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:26776--设备id:54a4c6159804--Fri Jun  5 19:33:39 2020
+
+start主线程 at: Fri Jun  5 19:29:55 2020
+主进程 end at: Fri Jun  5 19:33:40 2020
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success

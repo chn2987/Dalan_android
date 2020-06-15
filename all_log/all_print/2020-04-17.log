@@ -1,0 +1,741 @@
+========================================start程序1111=============================================
+    ====================================2020-04-17 09:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk']
+[文件大小]:263.05 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk完成！ 用时17.41秒
+---------------------------0___20200415_114958.apk----节点1-----------------------------------下载校验结果：True
+1587088219
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk']
+2020-04-17 09:50:19开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+D:\Downloads\\dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk==com.tencent.tmgp.tgfml.xncsj
+此手机已安装com.tencent.tmgp.tgfml.xncsj包....
+True
+install_前检查手机已安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+开始卸载dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk包
+卸载dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk包完成_____进行再次安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+此手机已安装com.tencent.tmgp.tgfml.xncsj包....
+------------------------------0___20200415_114958.apk----节点2-------------------------------------安装返回结果：True
+1587088263
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk==com.tencent.tmgp.tgfml.xncsj
+{'data': {'game_app_name': '地下城勇者', 'asset': [{'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'load': 'ee3626ffc2400e6e32032f7307c6abcd', 'login': 'dc69aae724ca5a7b8d5715f88e471c95'}]}, 'msg': '成功', 'status': True}
+dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+实际图片对应路径{'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958/，对应pkg_id=2607
+服务端素材图片 ['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+apk的应用名称= 地下城勇者
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_114958.apk----节点3------------------------------------拆包校验结果：True
+1587088300
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//eb139db94396744411aff53e2522c5fc~500' width=600 />
+返回的png为 http://file.superdalan.com//eb139db94396744411aff53e2522c5fc~500
+1587088390
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200415_114958.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//9142e0e33dc37c2f6bd3b88247f28a40~500' width=600 />
+返回的png为 http://file.superdalan.com//9142e0e33dc37c2f6bd3b88247f28a40~500
+1587088431
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200415_114958.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041729829450469
+当前未登录微信
+<img src='http://file.superdalan.com//88b98ca4b536f5436477f3a43fb09676~500' width=600 />
+返回的png为 http://file.superdalan.com//88b98ca4b536f5436477f3a43fb09676~500
+(True, '2020041729829450469', '88b98ca4b536f5436477f3a43fb09676')
+production
+{'content': {'status_desc': '已下单', 'status': 1}, 'ret': 1, 'msg': 'success'}
+1587088465
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200415_114958.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 10:30:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk']
+[文件大小]:75.59 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk完成！ 用时4.31秒
+---------------------------0___20200417_102813.apk----节点1-----------------------------------下载校验结果：True
+1587090606
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk']
+2020-04-17 10:30:06开始安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk
+D:\Downloads\\shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk==com.shfy.hmzc.gw
+此手机未安装com.shfy.hmzc.gw包....
+False
+2020-04-17 10:30:10_开始安装_shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk
+此手机已安装com.shfy.hmzc.gw包....
+True
+------------------------------0___20200417_102813.apk----节点2-------------------------------------安装返回结果：True
+1587090626
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk==com.shfy.hmzc.gw
+{'data': {'file': [{'load': '4327532fd530ff1469f890e72235265b', 'login': 'e87360d110b2a13169acd004f42933d2'}], 'game_original_name': '豪门总裁', 'game_app_name': '商海风云2', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg', 'splash': ''}], 'channel_pinyin': 'dsdk'}, 'msg': '成功', 'status': True}
+shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk
+实际图片对应路径{'logo': '', 'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813/，对应pkg_id=2520
+服务端素材图片 ['4327532fd530ff1469f890e72235265b.jpg', 'e87360d110b2a13169acd004f42933d2.jpg']
+apk的应用名称= 商海风云2
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_102813.apk----节点3------------------------------------拆包校验结果：True
+1587090644
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_102813.apk此原名游戏尚未接入，敬请期待
+1587090690
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 10:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk']
+[文件大小]:75.59 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk完成！ 用时3.15秒
+---------------------------0___20200417_104253.apk----节点1-----------------------------------下载校验结果：True
+1587091505
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk']
+2020-04-17 10:45:05开始安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk
+D:\Downloads\\shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk==com.shfy.hmzc.gw
+此手机已安装com.shfy.hmzc.gw包....
+True
+install_前检查手机已安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk
+开始卸载shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk包
+卸载shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk包完成_____进行再次安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk
+此手机已安装com.shfy.hmzc.gw包....
+------------------------------0___20200417_104253.apk----节点2-------------------------------------安装返回结果：True
+1587091523
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk==com.shfy.hmzc.gw
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '豪门总裁', 'game_app_name': '商海风云2', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg', 'splash': ''}], 'file': [{'login': 'e87360d110b2a13169acd004f42933d2', 'load': '4327532fd530ff1469f890e72235265b'}]}}
+shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk
+实际图片对应路径{'login': 'assets/icon_loginbg.jpg', 'splash': '', 'load': 'assets/icon_loading.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253/，对应pkg_id=2520
+服务端素材图片 ['4327532fd530ff1469f890e72235265b.jpg', 'e87360d110b2a13169acd004f42933d2.jpg']
+apk的应用名称= 商海风云2
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_104253.apk----节点3------------------------------------拆包校验结果：True
+1587091666
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_104253.apk此原名游戏尚未接入，敬请期待
+1587091746
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 10:55:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2347&f=wh3d_biguo_android_48_1.0.0_20200417_105246.apk']
+[文件大小]:261.76 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2347&f=wh3d_biguo_android_48_1.0.0_20200417_105246.apk完成！ 用时6.14秒
+---------------------------0___20200417_105246.apk----节点1-----------------------------------下载校验结果：True
+1587092108
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['wh3d_biguo_android_48_1.0.0_20200417_105246.apk']
+2020-04-17 10:55:08开始安装wh3d_biguo_android_48_1.0.0_20200417_105246.apk
+D:\Downloads\\wh3d_biguo_android_48_1.0.0_20200417_105246.apk==com.biguo.wh3d
+此手机未安装com.biguo.wh3d包....
+False
+2020-04-17 10:55:15_开始安装_wh3d_biguo_android_48_1.0.0_20200417_105246.apk
+此手机已安装com.biguo.wh3d包....
+True
+------------------------------0___20200417_105246.apk----节点2-------------------------------------安装返回结果：True
+1587092161
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/wh3d_biguo_android_48_1.0.0_20200417_105246.apk==com.biguo.wh3d
+{'status': True, 'data': {'game_original_name': '我在江湖', 'game_app_name': '山海经莽荒纪元', 'channel_pinyin': 'android', 'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'file': [{'load': 'f230f4b3fc933836bcd107c789eb4965', 'login': '3c83eac20a08318f7d6de72264128969'}]}, 'msg': '成功'}
+wh3d_biguo_android_48_1.0.0_20200417_105246.apk
+实际图片对应路径{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/wh3d_biguo_android_48_1.0.0_20200417_105246/，对应pkg_id=2347
+服务端素材图片 ['3c83eac20a08318f7d6de72264128969.jpg', 'f230f4b3fc933836bcd107c789eb4965.jpg']
+apk的应用名称= 山海经莽荒纪元
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_105246.apk----节点3------------------------------------拆包校验结果：True
+1587092288
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2347&f=wh3d_biguo_android_48_1.0.0_20200417_105246.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1587092299
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 11:05:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk']
+[文件大小]:75.59 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk完成！ 用时4.22秒
+---------------------------0___20200417_110359.apk----节点1-----------------------------------下载校验结果：True
+1587092706
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk']
+2020-04-17 11:05:06开始安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk
+D:\Downloads\\shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk==com.shfy.hmzc.gw
+此手机已安装com.shfy.hmzc.gw包....
+True
+install_前检查手机已安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk
+开始卸载shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk包
+卸载shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk包完成_____进行再次安装shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk
+此手机已安装com.shfy.hmzc.gw包....
+------------------------------0___20200417_110359.apk----节点2-------------------------------------安装返回结果：True
+1587092724
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk==com.shfy.hmzc.gw
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '商海风云2', 'file': [{'load': '4327532fd530ff1469f890e72235265b', 'login': 'e87360d110b2a13169acd004f42933d2'}], 'asset': [{'splash': '', 'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': ''}], 'channel_pinyin': 'dsdk', 'game_original_name': '豪门总裁'}}
+shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk
+实际图片对应路径{'splash': '', 'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359/，对应pkg_id=2520
+服务端素材图片 ['4327532fd530ff1469f890e72235265b.jpg', 'e87360d110b2a13169acd004f42933d2.jpg']
+apk的应用名称= 商海风云2
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_110359.apk----节点3------------------------------------拆包校验结果：True
+1587092754
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2520&f=shfy2gdtsdk_dalan_dsdk_10_1.0.0_20200417_110359.apk此原名游戏尚未接入，敬请期待
+1587092796
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 11:20:01===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk']
+[文件大小]:66.90 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk完成！ 用时2.21秒
+---------------------------0___20190821_173123.apk----节点1-----------------------------------下载校验结果：True
+1587093605
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk']
+2020-04-17 11:20:05开始安装flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk
+D:\Downloads\\flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk==com.flzcsdk.hmzc
+此手机未安装com.flzcsdk.hmzc包....
+False
+2020-04-17 11:20:09_开始安装_flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk
+此手机已安装com.flzcsdk.hmzc包....
+True
+------------------------------0___20190821_173123.apk----节点2-------------------------------------安装返回结果：True
+1587093626
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk==com.flzcsdk.hmzc
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '豪门总裁', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': '', 'load': 'assets/icon_loading.jpg'}], 'game_app_name': '风流总裁', 'file': [{'login': 'e251bb7c0467b4426a96890f828ba587', 'load': '068920fca66dacbd98063166b351fa98'}]}}
+flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123.apk
+实际图片对应路径{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': ''}，拆包后后apk目录D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20190821_173123/，对应pkg_id=2619
+服务端素材图片 ['068920fca66dacbd98063166b351fa98.jpg', 'e251bb7c0467b4426a96890f828ba587.jpg']
+apk的应用名称= 风流总裁
+素材及应用名验证失败,期望值=2,实际值=0
+------------------------------0___20190821_173123.apk----节点3------------------------------------拆包校验结果：False
+1587093651
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:67.55 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk完成！ 用时3.66秒
+---------------------------1___20191203_163056.apk----节点1-----------------------------------下载校验结果：True
+1587093662
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk']
+2020-04-17 11:21:05开始安装flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk
+D:\Downloads\\flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk==com.flzcsdk.hmzc
+此手机已安装com.flzcsdk.hmzc包....
+True
+install_前检查手机已安装flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk
+开始卸载flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk包
+卸载flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk包完成_____进行再次安装flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk
+此手机已安装com.flzcsdk.hmzc包....
+------------------------------1___20191203_163056.apk----节点2-------------------------------------安装返回结果：True
+1587093682
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk==com.flzcsdk.hmzc
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '豪门总裁', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': '', 'load': 'assets/icon_loading.jpg'}], 'game_app_name': '风流总裁', 'file': [{'login': 'e251bb7c0467b4426a96890f828ba587', 'load': '068920fca66dacbd98063166b351fa98'}]}}
+flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056.apk
+实际图片对应路径{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': ''}，拆包后后apk目录D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20191203_163056/，对应pkg_id=2619
+服务端素材图片 ['068920fca66dacbd98063166b351fa98.jpg', 'e251bb7c0467b4426a96890f828ba587.jpg']
+apk的应用名称= 风流总裁
+素材及应用名验证失败,期望值=2,实际值=0
+------------------------------1___20191203_163056.apk----节点3------------------------------------拆包校验结果：False
+1587093714
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:77.19 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk完成！ 用时2.52秒
+---------------------------2___20200417_112058.apk----节点1-----------------------------------下载校验结果：True
+1587093725
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk']
+2020-04-17 11:22:05开始安装flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk
+D:\Downloads\\flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk==com.dalan.flzc.gdt1
+此手机未安装com.dalan.flzc.gdt1包....
+False
+2020-04-17 11:22:08_开始安装_flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk
+此手机已安装com.dalan.flzc.gdt1包....
+True
+------------------------------2___20200417_112058.apk----节点2-------------------------------------安装返回结果：True
+1587093746
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk==com.dalan.flzc.gdt1
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '豪门总裁', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': '', 'load': 'assets/icon_loading.jpg'}], 'game_app_name': '风流总裁', 'file': [{'login': 'e251bb7c0467b4426a96890f828ba587', 'load': '068920fca66dacbd98063166b351fa98'}]}}
+flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk
+实际图片对应路径{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'logo': '', 'splash': ''}，拆包后后apk目录D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058/，对应pkg_id=2619
+服务端素材图片 ['068920fca66dacbd98063166b351fa98.jpg', 'e251bb7c0467b4426a96890f828ba587.jpg']
+apk的应用名称= 风流总裁
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------2___20200417_112058.apk----节点3------------------------------------拆包校验结果：True
+1587093785
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+ 2__http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_112058.apk此原名游戏尚未接入，敬请期待
+1587093853
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 12:20:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2581&f=shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk']
+[文件大小]:263.25 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2581&f=shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk完成！ 用时9.47秒
+---------------------------0___20200417_121742.apk----节点1-----------------------------------下载校验结果：True
+1587097211
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk']
+2020-04-17 12:20:11开始安装shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk
+D:\Downloads\\shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk==com.shjflb.wzjh.kuaishou
+此手机未安装com.shjflb.wzjh.kuaishou包....
+False
+2020-04-17 12:20:16_开始安装_shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk
+安装shjflbhbwzjh_dalan_dsdk_48_1.0.0_20200417_121742.apk过程中出现异常_执行失败
+------------------------------0___20200417_121742.apk----节点2-------------------------------------安装返回结果：未知异常_404
+1587097246
+production
+{'status': True, 'msg': '成功'}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 16:10:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2620&f=jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2621&f=jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk']
+[文件大小]:262.65 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2620&f=jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk完成！ 用时6.12秒
+---------------------------0___20200417_160943.apk----节点1-----------------------------------下载校验结果：True
+1587111008
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk']
+2020-04-17 16:10:08开始安装jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk
+D:\Downloads\\jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk==com.tencent.tmgp.tgfml.zyrg
+此手机未安装com.tencent.tmgp.tgfml.zyrg包....
+False
+2020-04-17 16:10:12_开始安装_jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk
+此手机已安装com.tencent.tmgp.tgfml.zyrg包....
+True
+------------------------------0___20200417_160943.apk----节点2-------------------------------------安装返回结果：True
+1587111056
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk==com.tencent.tmgp.tgfml.zyrg
+{'msg': '成功', 'status': True, 'data': {'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'login': '4af3f4fe3f135cfaa10340e6a24e038d', 'load': '3b6bfc5507f4644170f00d147e276880'}], 'game_app_name': '剑王传说'}}
+jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943.apk
+实际图片对应路径{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/jwcsgdtdblt1_dalan_dsdk_48_1.0.0_20200417_160943/，对应pkg_id=2620
+服务端素材图片 ['3b6bfc5507f4644170f00d147e276880.jpg', '4af3f4fe3f135cfaa10340e6a24e038d.jpg']
+apk的应用名称= 剑王传说
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_160943.apk----节点3------------------------------------拆包校验结果：True
+1587111113
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//b93af51efccc348c4bb74819a9cc7e29~500' width=600 />
+返回的png为 http://file.superdalan.com//b93af51efccc348c4bb74819a9cc7e29~500
+1587111180
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200417_160943.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//e9a7ea0dc5650f280ac38ea39ebbe2d2~500' width=600 />
+返回的png为 http://file.superdalan.com//e9a7ea0dc5650f280ac38ea39ebbe2d2~500
+1587111224
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200417_160943.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041729958181453
+当前未登录微信
+<img src='http://file.superdalan.com//07fae86924d251e857921f20e7af732e~500' width=600 />
+返回的png为 http://file.superdalan.com//07fae86924d251e857921f20e7af732e~500
+(True, '2020041729958181453', '07fae86924d251e857921f20e7af732e')
+production
+{'content': {'status': 1, 'status_desc': '已下单'}, 'ret': 1, 'msg': 'success'}
+1587111258
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200417_160943.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:262.65 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2621&f=jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk完成！ 用时6.26秒
+---------------------------1___20200417_161132.apk----节点1-----------------------------------下载校验结果：True
+1587111281
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk']
+2020-04-17 16:14:41开始安装jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk
+D:\Downloads\\jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk==com.tencent.tmgp.jwjt.zxsjj
+此手机未安装com.tencent.tmgp.jwjt.zxsjj包....
+False
+2020-04-17 16:14:44_开始安装_jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk
+此手机已安装com.tencent.tmgp.jwjt.zxsjj包....
+True
+------------------------------1___20200417_161132.apk----节点2-------------------------------------安装返回结果：True
+1587111317
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk==com.tencent.tmgp.jwjt.zxsjj
+{'msg': '成功', 'status': True, 'data': {'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'login': '4af3f4fe3f135cfaa10340e6a24e038d', 'load': '3b6bfc5507f4644170f00d147e276880'}], 'game_app_name': '剑王传说'}}
+jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132.apk
+实际图片对应路径{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/jwcsgdtdblt2_dalan_dsdk_48_1.0.0_20200417_161132/，对应pkg_id=2621
+服务端素材图片 ['3b6bfc5507f4644170f00d147e276880.jpg', '4af3f4fe3f135cfaa10340e6a24e038d.jpg']
+apk的应用名称= 剑王传说
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------1___20200417_161132.apk----节点3------------------------------------拆包校验结果：True
+1587111330
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//b93af51efccc348c4bb74819a9cc7e29~500' width=600 />
+返回的png为 http://file.superdalan.com//b93af51efccc348c4bb74819a9cc7e29~500
+1587111380
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200417_161132.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//2cad5eedc3e6d1340f1c2eb926116121~500' width=600 />
+返回的png为 http://file.superdalan.com//2cad5eedc3e6d1340f1c2eb926116121~500
+1587111413
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200417_161132.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041729958943786
+当前未登录微信
+<img src='http://file.superdalan.com//50408ddf3e2592b02f5d6e159fe3976d~500' width=600 />
+返回的png为 http://file.superdalan.com//50408ddf3e2592b02f5d6e159fe3976d~500
+(True, '2020041729958943786', '50408ddf3e2592b02f5d6e159fe3976d')
+production
+{'content': {'status': 1, 'status_desc': '已下单'}, 'ret': 1, 'msg': 'success'}
+1587111450
+production
+{'status': True, 'msg': '成功'}
+-----------------------1___20200417_161132.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+TestCase.hmzc_10.dalan.dsdk.run
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 17:25:01===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk']
+[文件大小]:77.19 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk完成！ 用时2.07秒
+---------------------------0___20200417_172653.apk----节点1-----------------------------------下载校验结果：True
+1587115506
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk']
+2020-04-17 17:25:06开始安装flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk
+D:\Downloads\\flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk==com.dalan.flzc.gdt1
+此手机未安装com.dalan.flzc.gdt1包....
+False
+2020-04-17 17:25:10_开始安装_flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk
+此手机已安装com.dalan.flzc.gdt1包....
+True
+------------------------------0___20200417_172653.apk----节点2-------------------------------------安装返回结果：True
+1587115528
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk==com.dalan.flzc.gdt1
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '风流总裁', 'file': [{'login': 'e251bb7c0467b4426a96890f828ba587', 'load': '068920fca66dacbd98063166b351fa98'}], 'game_original_name': '豪门总裁', 'channel_pinyin': 'dsdk', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg', 'splash': ''}]}}
+flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk
+实际图片对应路径{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653/，对应pkg_id=2619
+服务端素材图片 ['068920fca66dacbd98063166b351fa98.jpg', 'e251bb7c0467b4426a96890f828ba587.jpg']
+apk的应用名称= 风流总裁
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_172653.apk----节点3------------------------------------拆包校验结果：True
+1587115553
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_172653.apk此原名游戏尚未接入，敬请期待
+1587115595
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-17 17:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk']
+[文件大小]:77.19 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk完成！ 用时3.56秒
+---------------------------0___20200417_174449.apk----节点1-----------------------------------下载校验结果：True
+1587116705
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk']
+2020-04-17 17:45:05开始安装flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk
+D:\Downloads\\flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk==com.dalan.flzc.gdt1
+此手机已安装com.dalan.flzc.gdt1包....
+True
+install_前检查手机已安装flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk
+开始卸载flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk包
+卸载flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk包完成_____进行再次安装flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk
+此手机已安装com.dalan.flzc.gdt1包....
+------------------------------0___20200417_174449.apk----节点2-------------------------------------安装返回结果：True
+1587116723
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk==com.dalan.flzc.gdt1
+{'msg': '成功', 'status': True, 'data': {'game_original_name': '豪门总裁', 'file': [{'login': 'e251bb7c0467b4426a96890f828ba587', 'load': '068920fca66dacbd98063166b351fa98'}], 'game_app_name': '风流总裁', 'asset': [{'logo': '', 'splash': '', 'login': 'assets/icon_loginbg.jpg', 'load': 'assets/icon_loading.jpg'}], 'channel_pinyin': 'dsdk'}}
+flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk
+实际图片对应路径{'logo': '', 'splash': '', 'login': 'assets/icon_loginbg.jpg', 'load': 'assets/icon_loading.jpg'}，拆包后后apk目录D:/Downloads/flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449/，对应pkg_id=2619
+服务端素材图片 ['068920fca66dacbd98063166b351fa98.jpg', 'e251bb7c0467b4426a96890f828ba587.jpg']
+apk的应用名称= 风流总裁
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200417_174449.apk----节点3------------------------------------拆包校验结果：True
+1587116747
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2619&f=flzcgdt_dalan_dsdk_10_1.0.0_20200417_174449.apk此原名游戏尚未接入，敬请期待
+1587116791
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+

@@ -1,0 +1,1191 @@
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:25:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时8.00秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586913911
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:25:11开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机未com.zc2.sjcxx.mi包....
+False
+2020-04-15 09:25:14_开始_sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+True
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586913949
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'status': True, 'data': {'game_original_name': '总裁2', 'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}], 'channel_pinyin': 'xiaomi', 'game_app_name': '商界超新星', 'asset': [{'mp3_file': '', 'splash': '', 'logo': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'load': ''}]}, 'msg': '成功'}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'mp3_file': '', 'splash': '', 'logo': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'load': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586913968
+production
+{'status': True, 'msg': '成功'}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:30:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时5.68秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586914212
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:30:12开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586914246
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'data': {'game_app_name': '商界超新星', 'channel_pinyin': 'xiaomi', 'game_original_name': '总裁2', 'file': [{'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079', 'login': 'adadbc8ba2718482f7b2b50da0b87ea6'}], 'asset': [{'load': '', 'decompression': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'mp3_file': '', 'splash': '', 'logo': ''}]}, 'msg': '成功', 'status': True}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'load': '', 'decompression': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'mp3_file': '', 'splash': '', 'logo': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586914259
+production
+{'msg': '成功', 'status': True}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:35:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时5.65秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586914508
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:35:08开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586914546
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'status': True, 'data': {'channel_pinyin': 'xiaomi', 'game_app_name': '商界超新星', 'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}], 'asset': [{'splash': '', 'decompression': '', 'logo': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'load': ''}], 'game_original_name': '总裁2'}, 'msg': '成功'}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'splash': '', 'decompression': '', 'load': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'logo': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586914555
+production
+{'status': True, 'msg': '成功'}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:40:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时5.62秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586914808
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:40:08开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586914844
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'msg': '成功', 'data': {'asset': [{'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'load': '', 'decompression': '', 'mp3_file': '', 'splash': '', 'logo': ''}], 'game_app_name': '商界超新星', 'game_original_name': '总裁2', 'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}], 'channel_pinyin': 'xiaomi'}, 'status': True}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'load': '', 'splash': '', 'mp3_file': '', 'decompression': '', 'logo': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586914854
+production
+{'msg': '成功', 'status': True}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时6.02秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586915109
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:45:09开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586915143
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'data': {'game_app_name': '商界超新星', 'channel_pinyin': 'xiaomi', 'asset': [{'splash': '', 'decompression': '', 'logo': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'mp3_file': '', 'load': ''}], 'game_original_name': '总裁2', 'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}]}, 'status': True, 'msg': '成功'}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'splash': '', 'decompression': '', 'logo': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'mp3_file': '', 'load': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586915153
+production
+{'status': True, 'msg': '成功'}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时5.91秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586915409
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:50:09开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586915444
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'data': {'game_app_name': '商界超新星', 'channel_pinyin': 'xiaomi', 'file': [{'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079', 'login': 'adadbc8ba2718482f7b2b50da0b87ea6'}], 'game_original_name': '总裁2', 'asset': [{'load': '', 'logo': '', 'splash': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'mp3_file': ''}]}, 'status': True, 'msg': '成功'}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'load': '', 'logo': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'splash': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586915455
+production
+{'status': True, 'msg': '成功'}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 09:55:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时6.71秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586915710
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 09:55:10开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586915745
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'msg': '成功', 'data': {'asset': [{'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'splash': '', 'mp3_file': '', 'logo': '', 'load': ''}], 'game_app_name': '商界超新星', 'game_original_name': '总裁2', 'channel_pinyin': 'xiaomi', 'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}]}, 'status': True}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'splash': '', 'mp3_file': '', 'logo': '', 'load': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586915752
+production
+{'msg': '成功', 'status': True}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 10:00:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时8.44秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586916011
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 10:00:11开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586916045
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'msg': '成功', 'data': {'channel_pinyin': 'xiaomi', 'game_app_name': '商界超新星', 'game_original_name': '总裁2', 'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}], 'asset': [{'logo': '', 'mp3_file': '', 'load': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'splash': '', 'decompression': ''}]}, 'status': True}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'logo': '', 'mp3_file': '', 'load': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'splash': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586916054
+production
+{'msg': '成功', 'status': True}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 10:05:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时6.15秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586916309
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 10:05:09开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586916343
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'status': True, 'msg': '成功', 'data': {'file': [{'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079', 'login': 'adadbc8ba2718482f7b2b50da0b87ea6'}], 'channel_pinyin': 'xiaomi', 'asset': [{'load': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'splash': '', 'logo': '', 'decompression': ''}], 'game_original_name': '总裁2', 'game_app_name': '商界超新星'}}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'load': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'splash': '', 'logo': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586916351
+production
+{'status': True, 'msg': '成功'}
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk完成！ 用时7.57秒
+---------------------------1___20200415_100354.apk----节点1-----------------------------------下载校验结果：True
+1586916359
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk']
+2020-04-15 10:05:59开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------1___20200415_100354.apk----节点2-------------------------------------返回结果：True
+1586916394
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk==com.zc2.sjcxx.mi
+{'status': True, 'msg': '成功', 'data': {'file': [{'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079', 'login': 'adadbc8ba2718482f7b2b50da0b87ea6'}], 'channel_pinyin': 'xiaomi', 'asset': [{'load': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'splash': '', 'logo': '', 'decompression': ''}], 'game_original_name': '总裁2', 'game_app_name': '商界超新星'}}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+实际图片对应路径{'load': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'splash': '', 'logo': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------1___20200415_100354.apk----节点3------------------------------------拆包校验结果：False
+1586916404
+production
+{'status': True, 'msg': '成功'}
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 10:10:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+, 'http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk']
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk完成！ 用时5.59秒
+---------------------------0___20200415_092347.apk----节点1-----------------------------------下载校验结果：True
+1586916609
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk']
+2020-04-15 10:10:14开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------0___20200415_092347.apk----节点2-------------------------------------返回结果：True
+1586916649
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk==com.zc2.sjcxx.mi
+{'status': True, 'msg': '成功', 'data': {'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}], 'game_original_name': '总裁2', 'channel_pinyin': 'xiaomi', 'asset': [{'logo': '', 'mp3_file': '', 'splash': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'load': ''}], 'game_app_name': '商界超新星'}}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347.apk
+实际图片对应路径{'logo': '', 'mp3_file': '', 'splash': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'load': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_092347/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------0___20200415_092347.apk----节点3------------------------------------拆包校验结果：False
+1586916658
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:156.86 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk完成！ 用时6.92秒
+---------------------------1___20200415_100354.apk----节点1-----------------------------------下载校验结果：True
+1586916666
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk']
+2020-04-15 10:11:06开始sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk==com.zc2.sjcxx.mi
+此手机已com.zc2.sjcxx.mi包....
+True
+install_前检查手机已sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk包完成_____进行再次sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+此手机已com.zc2.sjcxx.mi包....
+------------------------------1___20200415_100354.apk----节点2-------------------------------------返回结果：True
+1586916701
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk==com.zc2.sjcxx.mi
+{'status': True, 'msg': '成功', 'data': {'file': [{'login': 'adadbc8ba2718482f7b2b50da0b87ea6', 'load': 'f3a9ae6b016f2eb1594f6ce0e66a0079'}],
+game_original_name': '总裁2', 'channel_pinyin': 'xiaomi', 'asset': [{'logo': '', 'mp3_file': '', 'splash': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com
+_real_native/1d5807ec', 'decompression': '', 'load': ''}], 'game_app_name': '商界超新星'}}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354.apk
+实际图片对应路径{'logo': '', 'mp3_file': '', 'splash': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'decompression': '', 'load': ''}，
+拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_100354/，对应pkg_id=2556
+服务端素材图片 ['adadbc8ba2718482f7b2b50da0b87ea6.jpg', 'f3a9ae6b016f2eb1594f6ce0e66a0079.jpg']
+apk的应用名称= 商界超新星
+------------------------------1___20200415_100354.apk----节点3------------------------------------拆包校验结果：False
+1586916708
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 10:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=831&f=sgzsl_tuole_android_3_1.0.0_20200415_104700.apk']
+[文件大小]:685.16 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=831&f=sgzsl_tuole_android_3_1.0.0_20200415_104700.apk完成！ 用时15.51秒
+---------------------------0___20200415_104700.apk----节点1-----------------------------------下载校验结果：True
+1586919019
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['sgzsl_tuole_android_3_1.0.0_20200415_104700.apk']
+2020-04-15 10:50:19开始安装sgzsl_tuole_android_3_1.0.0_20200415_104700.apk
+D:\Downloads\\sgzsl_tuole_android_3_1.0.0_20200415_104700.apk==com.tuole.sgzsl
+此手机未安装com.tuole.sgzsl包....
+False
+2020-04-15 10:50:33_开始安装_sgzsl_tuole_android_3_1.0.0_20200415_104700.apk
+此手机已安装com.tuole.sgzsl包....
+True
+------------------------------0___20200415_104700.apk----节点2-------------------------------------安装返回结果：True
+1586919108
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/sgzsl_tuole_android_3_1.0.0_20200415_104700.apk==com.tuole.sgzsl
+{'msg': '成功', 'data': {'game_app_name': '三国战神录', 'asset': [{'splash': 'assets/splash.png', 'logo': 'assets/logo.mp4', 'load': 'assets/channel_loginloading.jpg', 'mp3_file': '', 'login': 'assets/channel_login.jpg', 'decompression': ''}], 'file': [{'splash': 'abe34a1bf7af9c625c968c3c7decb2a7', 'logo': 'ced2a75a301589a1f7d4df8e3136f7f7', 'login': '3eb5da5d32d07e28c5f5b3abaede08cd', 'load': 'abe34a1bf7af9c625c968c3c7decb2a7'}], 'channel_pinyin': 'tuole_android', 'game_original_name': '三国杀名将传'}, 'status': True}
+sgzsl_tuole_android_3_1.0.0_20200415_104700.apk
+实际图片对应路径{'splash': 'assets/splash.png', 'logo': 'assets/logo.mp4', 'load': 'assets/channel_loginloading.jpg', 'mp3_file': '', 'login': 'assets/channel_login.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/sgzsl_tuole_android_3_1.0.0_20200415_104700/，对应pkg_id=831
+服务端素材图片 ['3eb5da5d32d07e28c5f5b3abaede08cd.jpg', 'abe34a1bf7af9c625c968c3c7decb2a7.jpg', 'ced2a75a301589a1f7d4df8e3136f7f7.jpg']
+apk的应用名称= 三国战神录
+素材及应用名验证成功,期望匹配数3，实际匹配数3
+------------------------------0___20200415_104700.apk----节点3------------------------------------拆包校验结果：True
+1586919143
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=831&f=sgzsl_tuole_android_3_1.0.0_20200415_104700.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586919154
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 11:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk']
+[文件大小]:263.05 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk完成！ 用时6.38秒
+---------------------------0___20200414_231841.apk----节点1-----------------------------------下载校验结果：True
+1586922608
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk']
+2020-04-15 11:50:08开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+D:\Downloads\\dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk==com.tencent.tmgp.tgfml.jwcs
+此手机已安装com.tencent.tmgp.tgfml.jwcs包....
+True
+install_前检查手机已安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+开始卸载dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk包
+卸载dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk包完成_____进行再次安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+此手机已安装com.tencent.tmgp.tgfml.jwcs包....
+------------------------------0___20200414_231841.apk----节点2-------------------------------------安装返回结果：True
+1586922640
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk==com.tencent.tmgp.tgfml.jwcs
+{'data': {'asset': [{'decompression': '', 'splash': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_app_name': '地下城勇者', 'file': [{'load': 'ee3626ffc2400e6e32032f7307c6abcd', 'login': 'dc69aae724ca5a7b8d5715f88e471c95'}], 'game_original_name': '我在江湖'}, 'msg': '成功', 'status': True}
+dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841.apk
+实际图片对应路径{'load': 'assets/loadingbg.jpg', 'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200414_231841/，对应pkg_id=2607
+服务端素材图片 ['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+apk的应用名称= 地下城勇者
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200414_231841.apk----节点3------------------------------------拆包校验结果：True
+1586922652
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//890a07a4ef338f48f5c6d2dec509375a~500' width=600 />
+返回的png为 http://file.superdalan.com//890a07a4ef338f48f5c6d2dec509375a~500
+1586922729
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200414_231841.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//55c34d6687739d5d80ac412941e24c37~500' width=600 />
+返回的png为 http://file.superdalan.com//55c34d6687739d5d80ac412941e24c37~500
+1586922772
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200414_231841.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041543648955729
+当前未登录微信
+<img src='http://file.superdalan.com//d0d4b873d9213a52bea3920ec51fb7e8~500' width=600 />
+返回的png为 http://file.superdalan.com//d0d4b873d9213a52bea3920ec51fb7e8~500
+1586922807
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200414_231841.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:262.29 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk完成！ 用时6.29秒
+---------------------------1___20200415_114958.apk----节点1-----------------------------------下载校验结果：True
+1586922813
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk']
+2020-04-15 11:53:33开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-15 11:53:37_开始安装_dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk过程中出现异常_执行失败
+------------------------------1___20200415_114958.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586922840
+production
+{'status': True, 'msg': '成功'}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 12:05:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk']
+[文件大小]:263.05 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk完成！ 用时6.48秒
+---------------------------0___20200415_120419.apk----节点1-----------------------------------下载校验结果：True
+1586923509
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk']
+2020-04-15 12:05:09开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+D:\Downloads\\dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk==com.tencent.tmgp.tgfml.xncsj
+此手机已安装com.tencent.tmgp.tgfml.xncsj包....
+True
+install_前检查手机已安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+开始卸载dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk包
+卸载dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk包完成_____进行再次安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+此手机已安装com.tencent.tmgp.tgfml.xncsj包....
+------------------------------0___20200415_120419.apk----节点2-------------------------------------安装返回结果：True
+1586923543
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk==com.tencent.tmgp.tgfml.xncsj
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'mp3_file': '', 'decompression': '', 'splash': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg'}], 'file': [{'load': 'ee3626ffc2400e6e32032f7307c6abcd', 'login': 'dc69aae724ca5a7b8d5715f88e471c95'}], 'game_app_name': '地下城勇者'}, 'msg': '成功'}
+dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419.apk
+实际图片对应路径{'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_120419/，对应pkg_id=2607
+服务端素材图片 ['dc69aae724ca5a7b8d5715f88e471c95.jpg', 'ee3626ffc2400e6e32032f7307c6abcd.jpg']
+apk的应用名称= 地下城勇者
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_120419.apk----节点3------------------------------------拆包校验结果：True
+1586923555
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//fd77dc67ff0e7e3b98e9efb10dc34ce0~500' width=600 />
+返回的png为 http://file.superdalan.com//fd77dc67ff0e7e3b98e9efb10dc34ce0~500
+1586923620
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200415_120419.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//c554d864b66cb36e8a3d5317dc3d72d1~500' width=600 />
+返回的png为 http://file.superdalan.com//c554d864b66cb36e8a3d5317dc3d72d1~500
+1586923658
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200415_120419.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041543656185678
+<img src='http://file.superdalan.com//dcf8267747941be393c71d73776efa45~500' width=600 />
+返回的png为 http://file.superdalan.com//dcf8267747941be393c71d73776efa45~500
+1586923695
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200415_120419.apk---节点6----------------------------下单调起微信结果:False
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 12:30:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk']
+[文件大小]:253.75 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk完成！ 用时5.78秒
+---------------------------0___20200415_123015.apk----节点1-----------------------------------下载校验结果：True
+1586925008
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk']
+2020-04-15 12:30:08开始安装rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk
+D:\Downloads\\rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk==com.rongyao.wzjh.wzjh
+此手机已安装com.rongyao.wzjh.wzjh包....
+True
+install_前检查手机已安装rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk
+开始卸载rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk包
+卸载rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk包完成_____进行再次安装rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk
+此手机已安装com.rongyao.wzjh.wzjh包....
+------------------------------0___20200415_123015.apk----节点2-------------------------------------安装返回结果：True
+1586925039
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk==com.rongyao.wzjh.wzjh
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'game_app_name': '江湖', 'asset': [{'mp3_file': '', 'logo': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': ''}], 'channel_pinyin': 'rongyao_android', 'file': [None]}, 'status': True}
+----------------------0___20200415_123015.apk---节点3------------------------------后台没有配置素材无需校验
+1586925039
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2346&f=rongyao26_rongyao_android_48_1.0.0_20200415_123015.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586925046
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 12:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2349&f=rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk']
+[文件大小]:253.75 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2349&f=rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk完成！ 用时6.04秒
+---------------------------0___20200415_124718.apk----节点1-----------------------------------下载校验结果：True
+1586926208
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk']
+2020-04-15 12:50:08开始安装rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk
+D:\Downloads\\rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk==com.rongyao.wzjh
+此手机已安装com.rongyao.wzjh包....
+True
+install_前检查手机已安装rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk
+开始卸载rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk包
+卸载rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk包完成_____进行再次安装rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk
+此手机已安装com.rongyao.wzjh包....
+------------------------------0___20200415_124718.apk----节点2-------------------------------------安装返回结果：True
+1586926240
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk==com.rongyao.wzjh
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'rongyao_android', 'file': [None], 'game_app_name': '江湖', 'game_original_name': '我在江湖', 'asset': [{'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg'}]}}
+----------------------0___20200415_124718.apk---节点3------------------------------后台没有配置素材无需校验
+1586926240
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2349&f=rongyao22_rongyao_android_48_1.0.0_20200415_124718.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586926248
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 15:00:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2608&f=jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk']
+[文件大小]:262.65 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2608&f=jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk完成！ 用时6.70秒
+---------------------------0___20200415_145830.apk----节点1-----------------------------------下载校验结果：True
+1586934009
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk']
+2020-04-15 15:00:09开始安装jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk
+D:\Downloads\\jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk==com.tencent.tmgp.tgfml.zyrg
+此手机已安装com.tencent.tmgp.tgfml.zyrg包....
+True
+install_前检查手机已安装jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk
+开始卸载jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk包
+卸载jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk包完成_____进行再次安装jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk
+此手机已安装com.tencent.tmgp.tgfml.zyrg包....
+------------------------------0___20200415_145830.apk----节点2-------------------------------------安装返回结果：True
+1586934047
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk==com.tencent.tmgp.tgfml.zyrg
+{'msg': '成功', 'status': True, 'data': {'asset': [{'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'game_app_name': '剑王传说', 'channel_pinyin': 'dsdk', 'file': [{'load': '3b6bfc5507f4644170f00d147e276880', 'login': '4af3f4fe3f135cfaa10340e6a24e038d'}]}}
+jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830.apk
+实际图片对应路径{'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'splash': '', 'logo': ''}，拆包后后apk目录D:/Downloads/jwcswzjhgdt2_dalan_dsdk_48_1.0.0_20200415_145830/，对应pkg_id=2608
+服务端素材图片 ['3b6bfc5507f4644170f00d147e276880.jpg', '4af3f4fe3f135cfaa10340e6a24e038d.jpg']
+apk的应用名称= 剑王传说
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_145830.apk----节点3------------------------------------拆包校验结果：True
+1586934082
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//0b3e964ffd7b2708ba2c4218231d1088~500' width=600 />
+返回的png为 http://file.superdalan.com//0b3e964ffd7b2708ba2c4218231d1088~500
+1586934145
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200415_145830.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//f6cdd2b49bfe7e205c059acc60228c1a~500' width=600 />
+返回的png为 http://file.superdalan.com//f6cdd2b49bfe7e205c059acc60228c1a~500
+1586934187
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200415_145830.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041543733471713
+当前未登录微信
+<img src='http://file.superdalan.com//ced38cc9ad039e698ce53e2abf548656~500' width=600 />
+返回的png为 http://file.superdalan.com//ced38cc9ad039e698ce53e2abf548656~500
+1586934220
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200415_145830.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 15:55:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2178&f=shj2020_biguo_android_48_1.0.0_20200415_155320.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk']
+[文件大小]:261.98 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2178&f=shj2020_biguo_android_48_1.0.0_20200415_155320.apk完成！ 用时6.60秒
+---------------------------0___20200415_155320.apk----节点1-----------------------------------下载校验结果：True
+1586937309
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shj2020_biguo_android_48_1.0.0_20200415_155320.apk']
+2020-04-15 15:55:09开始安装shj2020_biguo_android_48_1.0.0_20200415_155320.apk
+D:\Downloads\\shj2020_biguo_android_48_1.0.0_20200415_155320.apk==com.biguo.wzjhshj
+此手机未安装com.biguo.wzjhshj包....
+False
+2020-04-15 15:55:13_开始安装_shj2020_biguo_android_48_1.0.0_20200415_155320.apk
+此手机已安装com.biguo.wzjhshj包....
+True
+------------------------------0___20200415_155320.apk----节点2-------------------------------------安装返回结果：True
+1586937347
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/shj2020_biguo_android_48_1.0.0_20200415_155320.apk==com.biguo.wzjhshj
+{'status': True, 'data': {'file': [{'login': '', 'load': ''}], 'asset': [{'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}], 'channel_pinyin': 'android', 'game_app_name': '山海经2020', 'game_original_name': '我在江湖'}, 'msg': '成功'}
+shj2020_biguo_android_48_1.0.0_20200415_155320.apk
+实际图片对应路径{'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/shj2020_biguo_android_48_1.0.0_20200415_155320/，对应pkg_id=2178
+服务端素材图片 []
+apk的应用名称= 山海经2020
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------0___20200415_155320.apk----节点3------------------------------------拆包校验结果：True
+1586937363
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2178&f=shj2020_biguo_android_48_1.0.0_20200415_155320.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586937374
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:157.70 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk完成！ 用时7.47秒
+---------------------------1___20200415_155214.apk----节点1-----------------------------------下载校验结果：True
+1586937381
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk']
+2020-04-15 15:56:21开始安装sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk
+D:\Downloads\\sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk==com.zc2.sjcxx.mi
+此手机已安装com.zc2.sjcxx.mi包....
+True
+install_前检查手机已安装sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk
+开始卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk包
+卸载sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk包完成_____进行再次安装sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk
+此手机已安装com.zc2.sjcxx.mi包....
+------------------------------1___20200415_155214.apk----节点2-------------------------------------安装返回结果：True
+1586937405
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk==com.zc2.sjcxx.mi
+{'status': True, 'data': {'file': [{'login': ''}], 'asset': [{'decompression': '', 'load': '', 'splash': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'logo': ''}], 'channel_pinyin': 'xiaomi', 'game_app_name': '商界超新星', 'game_original_name': '总裁2'}, 'msg': '成功'}
+sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk
+实际图片对应路径{'decompression': '', 'load': '', 'splash': '', 'mp3_file': '', 'login': 'assets/cache/https.__qnzccdn.dalanyouxi.com_real_native/1d5807ec', 'logo': ''}，拆包后后apk目录D:/Downloads/sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214/，对应pkg_id=2556
+服务端素材图片 []
+apk的应用名称= 商界超新星
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------1___20200415_155214.apk----节点3------------------------------------拆包校验结果：True
+1586937414
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+ 1__http://pkg.superdalan.com/game.pkg/download?pkgId=2556&f=sjcxx_dalan_xiaomi_65_1.0.0_20200415_155214.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586937422
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 16:35:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk']
+[文件大小]:73.00 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk完成！ 用时3.19秒
+---------------------------0___20200415_163336.apk----节点1-----------------------------------下载校验结果：True
+1586939706
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk']
+2020-04-15 16:35:06开始安装nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk
+D:\Downloads\\nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk==com.gzdl.nsmy.huawei
+此手机未安装com.gzdl.nsmy.huawei包....
+False
+2020-04-15 16:35:09_开始安装_nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk
+此手机已安装com.gzdl.nsmy.huawei包....
+True
+------------------------------0___20200415_163336.apk----节点2-------------------------------------安装返回结果：True
+1586939736
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk==com.gzdl.nsmy.huawei
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '豪门总裁', 'game_app_name': '女神盟约', 'channel_pinyin': 'huawei', 'file': [{'login': '9adaa97cd28684e4651e4a610550c8a3', 'load': '0a63d40a3a24dc3e313c2cdd5b0ded65'}], 'asset': [{'logo': '', 'login': 'assets/icon_loginbg.jpg', 'load': 'assets/icon_loading.jpg', 'splash': ''}]}}
+nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk
+实际图片对应路径{'logo': '', 'login': 'assets/icon_loginbg.jpg', 'load': 'assets/icon_loading.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/nsmyly_dalan_huawei_10_1.0.5_20200415_163336/，对应pkg_id=2350
+服务端素材图片 ['0a63d40a3a24dc3e313c2cdd5b0ded65.jpg', '9adaa97cd28684e4651e4a610550c8a3.jpg']
+apk的应用名称= 女神盟约
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_163336.apk----节点3------------------------------------拆包校验结果：True
+1586939754
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_163336.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586939766
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 16:40:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk']
+[文件大小]:72.98 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk完成！ 用时1.87秒
+---------------------------0___20200415_164104.apk----节点1-----------------------------------下载校验结果：True
+1586940004
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk']
+2020-04-15 16:40:04开始安装nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk
+D:\Downloads\\nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk==com.gzdl.nsmy.huawei
+此手机已安装com.gzdl.nsmy.huawei包....
+True
+install_前检查手机已安装nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk
+开始卸载nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk包
+卸载nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk包完成_____进行再次安装nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk
+此手机已安装com.gzdl.nsmy.huawei包....
+------------------------------0___20200415_164104.apk----节点2-------------------------------------安装返回结果：True
+1586940021
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk==com.gzdl.nsmy.huawei
+{'data': {'game_app_name': '女神盟约', 'file': [{'login': '9adaa97cd28684e4651e4a610550c8a3', 'load': '0a63d40a3a24dc3e313c2cdd5b0ded65'}], 'game_original_name': '豪门总裁', 'asset': [{'logo': '', 'login': 'assets/icon_loginbg.jpg', 'splash': '', 'load': 'assets/icon_loading.jpg'}], 'channel_pinyin': 'huawei'}, 'status': True, 'msg': '成功'}
+nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk
+实际图片对应路径{'splash': '', 'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg'}，拆包后后apk目录D:/Downloads/nsmyly_dalan_huawei_10_1.0.5_20200415_164104/，对应pkg_id=2350
+服务端素材图片 ['0a63d40a3a24dc3e313c2cdd5b0ded65.jpg', '9adaa97cd28684e4651e4a610550c8a3.jpg']
+apk的应用名称= 女神盟约
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_164104.apk----节点3------------------------------------拆包校验结果：True
+1586940040
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_164104.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586940050
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 16:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk']
+[文件大小]:72.98 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk完成！ 用时2.73秒
+---------------------------0___20200415_164435.apk----节点1-----------------------------------下载校验结果：True
+1586940305
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk']
+2020-04-15 16:45:05开始安装nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk
+D:\Downloads\\nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk==com.gzdl.nsmy.huawei
+此手机已安装com.gzdl.nsmy.huawei包....
+True
+install_前检查手机已安装nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk
+开始卸载nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk包
+卸载nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk包完成_____进行再次安装nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk
+此手机已安装com.gzdl.nsmy.huawei包....
+------------------------------0___20200415_164435.apk----节点2-------------------------------------安装返回结果：True
+1586940332
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk==com.gzdl.nsmy.huawei
+{'msg': '成功', 'status': True, 'data': {'game_app_name': '女神盟约', 'file': [{'login': '9adaa97cd28684e4651e4a610550c8a3', 'load': '0a63d40a3a24dc3e313c2cdd5b0ded65'}], 'channel_pinyin': 'huawei', 'game_original_name': '豪门总裁', 'asset': [{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg', 'splash': ''}]}}
+nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk
+实际图片对应路径{'login': 'assets/icon_loginbg.jpg', 'logo': '', 'load': 'assets/icon_loading.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/nsmyly_dalan_huawei_10_1.0.5_20200415_164435/，对应pkg_id=2350
+服务端素材图片 ['0a63d40a3a24dc3e313c2cdd5b0ded65.jpg', '9adaa97cd28684e4651e4a610550c8a3.jpg']
+apk的应用名称= 女神盟约
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_164435.apk----节点3------------------------------------拆包校验结果：True
+1586940349
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2350&f=nsmyly_dalan_huawei_10_1.0.5_20200415_164435.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586940363
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 18:00:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=1407&f=zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk']
+[文件大小]:326.91 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=1407&f=zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk完成！ 用时13.63秒
+---------------------------0___20200415_175953.apk----节点1-----------------------------------下载校验结果：True
+1586944815
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk']
+2020-04-15 18:00:15开始安装zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk
+D:\Downloads\\zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk==com.zyrg.tgfml.toutiao
+此手机未安装com.zyrg.tgfml.toutiao包....
+False
+2020-04-15 18:00:20_开始安装_zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk
+此手机已安装com.zyrg.tgfml.toutiao包....
+True
+------------------------------0___20200415_175953.apk----节点2-------------------------------------安装返回结果：True
+1586944872
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk==com.zyrg.tgfml.toutiao
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'df00cc9690abe6c221ed81dc5796d9ca', 'logo': '', 'load': 'fc035c68a3c5a330aa06f7bb02af7456'}], 'asset': [{'splash': '', 'login': 'assets/chameleon/fml_login_background.png', 'logo': 'assets/chameleon/fml_login_logo.png', 'load': 'assets/chameleon/fml_login_update.png'}], 'game_original_name': '太古封魔录', 'game_app_name': '招摇如歌'}}
+zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk
+实际图片对应路径{'splash': '', 'logo': 'assets/chameleon/fml_login_logo.png', 'login': 'assets/chameleon/fml_login_background.png', 'load': 'assets/chameleon/fml_login_update.png'}，拆包后后apk目录D:/Downloads/zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953/，对应pkg_id=1407
+服务端素材图片 ['df00cc9690abe6c221ed81dc5796d9ca.jpg', 'fc035c68a3c5a330aa06f7bb02af7456.jpg']
+apk的应用名称= 招摇如歌
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200415_175953.apk----节点3------------------------------------拆包校验结果：True
+1586944896
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=1407&f=zyrgtt_dalan_dsdk_8_1.0.0_20200415_175953.apk此原名游戏尚未接入，敬请期待
+1586944947
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 18:20:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2603&f=jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk']
+[文件大小]:262.65 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2603&f=jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk完成！ 用时16.09秒
+---------------------------0___20200414_121023.apk----节点1-----------------------------------下载校验结果：True
+1586946019
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk']
+2020-04-15 18:20:19开始安装jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk
+D:\Downloads\\jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk==com.tencent.tmgp.tgfml.zyrg
+此手机未安装com.tencent.tmgp.tgfml.zyrg包....
+False
+2020-04-15 18:20:22_开始安装_jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk
+此手机已安装com.tencent.tmgp.tgfml.zyrg包....
+True
+------------------------------0___20200414_121023.apk----节点2-------------------------------------安装返回结果：True
+1586946069
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk==com.tencent.tmgp.tgfml.zyrg
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '剑王传说', 'game_original_name': '我在江湖', 'file': [{'load': '3b6bfc5507f4644170f00d147e276880', 'login': '4af3f4fe3f135cfaa10340e6a24e038d'}], 'asset': [{'decompression': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'login': 'assets/selectserverbg.jpg'}], 'channel_pinyin': 'dsdk'}}
+jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023.apk
+实际图片对应路径{'load': 'assets/loadingbg.jpg', 'logo': '', 'mp3_file': '', 'decompression': '', 'splash': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/jwcswzjhgdt_dalan_dsdk_48_1.0.0_20200414_121023/，对应pkg_id=2603
+服务端素材图片 ['3b6bfc5507f4644170f00d147e276880.jpg', '4af3f4fe3f135cfaa10340e6a24e038d.jpg']
+apk的应用名称= 剑王传说
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200414_121023.apk----节点3------------------------------------拆包校验结果：True
+1586946078
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//b93af51efccc348c4bb74819a9cc7e29~500' width=600 />
+返回的png为 http://file.superdalan.com//b93af51efccc348c4bb74819a9cc7e29~500
+1586946154
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200414_121023.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//16969de228327524aaa751d679ae646b~500' width=600 />
+返回的png为 http://file.superdalan.com//16969de228327524aaa751d679ae646b~500
+1586946197
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200414_121023.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041543804130238
+当前未登录微信
+<img src='http://file.superdalan.com//08cd5431f29c937fba9fffa516a9ea72~500' width=600 />
+返回的png为 http://file.superdalan.com//08cd5431f29c937fba9fffa516a9ea72~500
+1586946231
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200414_121023.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-15 22:14:45===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk']
+[文件大小]:262.29 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2607&f=dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk完成！ 用时9.51秒
+---------------------------0___20200415_114958.apk----节点1-----------------------------------下载校验结果：True
+1586960097
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk']
+2020-04-15 22:14:57开始安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-15 22:15:01_开始安装_dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk
+安装dxcyzwzjhgdt_dalan_dsdk_48_1.0.0_20200415_114958.apk过程中出现异常_执行失败
+------------------------------0___20200415_114958.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586960129
+production
+{'msg': '成功', 'status': True}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+

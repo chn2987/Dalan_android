@@ -1,0 +1,232 @@
+========================================start程序1111=============================================
+    ====================================2020-05-12 21:33:55===========================================
+Tue May 12 21:33:55 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2777&f=szymr1xysdk_dalan_xy_dsdk_65_1.0.0_20200512_213610.apk']
+Tue May 12 21:33:57 2020--设备QDY4C17818002168:{'imei': '865767038708929', 'device_id': 'QDY4C17818002168', 'size': '720x1280', 'model': 'TRT-AL00', 'network': '当前网络为-wifi', 'system_version': '7.0'}
+[文件大小]:72.67 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk完成！ 用时3.69秒
+---------------------------设备:QDY4C17818002168____shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点1-----------------------------------下载校验结果：True
+1589290441
+production
+{'msg': '成功', 'status': True}
+Tue May 12 21:34:01 2020--31088--QDY4C17818002168:File_directory下包有['shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk']
+2020-05-12 21:34:01--QDY4C17818002168开始安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+QDY4C17818002168手机已安装com.dalan.shfy包....
+True
+Tue May 12 21:34:07 2020--QDY4C17818002168--install_前检查手机已安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168--开始卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包
+Tue May 12 21:34:08 2020--QDY4C17818002168--卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包完成_____进行再次安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168手机已安装com.dalan.shfy包....
+------------------------------QDY4C17818002168__shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点2-------------------------------------安装返回结果：True
+1589290462
+production
+{'msg': '成功', 'status': True}
+E:/Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+{'msg': '成功', 'status': True, 'data': {'game_original_name': '豪门总裁', 'game_app_name': '商海风云', 'file': [{'login': 'ca852b5f8d54da876e30bb980549180e', 'load': '4327532fd530ff1469f890e72235265b'}], 'channel_pinyin': 'dsdk', 'asset': [{'logo': '', 'login': 'assets/icon_loginbg.jpg', 'splash': '', 'load': 'assets/icon_loading.jpg'}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.zip
+31088--QDY4C17818002168--实际图片对应路径{'logo': '', 'login': 'assets/icon_loginbg.jpg', 'splash': '', 'load': 'assets/icon_loading.jpg'}，拆包后后apk目录E:/Test_dalan_gzl_jiance_apk/File_directory/ectory目录没有apk文件/，对应pkg_id=2782
+Tue May 12 21:34:23 2020--31088--QDY4C17818002168服务端素材图片['ca852b5f8d54da876e30bb980549180e.jpg', '4327532fd530ff1469f890e72235265b.jpg']
+QDY4C17818002168--apk的应用名称=商海风云
+--------------------------31088--QDY4C17818002168---shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材验证时出现未知异常！需要调优
+1589290464
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+========================================start程序1111=============================================
+    ====================================2020-05-12 21:36:19===========================================
+Tue May 12 21:36:19 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2775&f=shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk']
+Tue May 12 21:36:21 2020--设备QDY4C17818002168:{'imei': '865767038708929', 'size': '720x1280', 'device_id': 'QDY4C17818002168', 'model': 'TRT-AL00', 'network': '当前网络为-wifi', 'system_version': '7.0'}
+[文件大小]:72.67 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk完成！ 用时4.98秒
+---------------------------设备:QDY4C17818002168____shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点1-----------------------------------下载校验结果：True
+1589290586
+production
+{'status': True, 'msg': '成功'}
+Tue May 12 21:36:26 2020--33804--QDY4C17818002168:File_directory下包有['shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk']
+2020-05-12 21:36:26--QDY4C17818002168开始安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+QDY4C17818002168手机已安装com.dalan.shfy包....
+True
+Tue May 12 21:36:32 2020--QDY4C17818002168--install_前检查手机已安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168--开始卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包
+Tue May 12 21:36:33 2020--QDY4C17818002168--卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包完成_____进行再次安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168手机已安装com.dalan.shfy包....
+------------------------------QDY4C17818002168__shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点2-------------------------------------安装返回结果：True
+1589290607
+production
+{'status': True, 'msg': '成功'}
+E:/Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '豪门总裁', 'asset': [{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'splash': '', 'logo': ''}], 'file': [{'load': '4327532fd530ff1469f890e72235265b', 'login': 'ca852b5f8d54da876e30bb980549180e'}], 'channel_pinyin': 'dsdk', 'game_app_name': '商海风云'}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.zip
+33804--QDY4C17818002168--实际图片对应路径{'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg', 'splash': '', 'logo': ''}，拆包后后apk目录E:/Test_dalan_gzl_jiance_apk/File_directory/ectory目录没有apk文件/，对应pkg_id=2782
+Tue May 12 21:36:48 2020--33804--QDY4C17818002168服务端素材图片['4327532fd530ff1469f890e72235265b.jpg', 'ca852b5f8d54da876e30bb980549180e.jpg']
+QDY4C17818002168--apk的应用名称=商海风云
+--------------------------33804--QDY4C17818002168---shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材验证时出现未知异常！需要调优
+1589290608
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+========================================start程序1111=============================================
+    ====================================2020-05-12 21:37:56===========================================
+Tue May 12 21:37:56 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2775&f=shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk']
+Tue May 12 21:37:58 2020--设备QDY4C17818002168:{'network': '当前网络为-wifi', 'system_version': '7.0', 'size': '720x1280', 'device_id': 'QDY4C17818002168', 'model': 'TRT-AL00', 'imei': '865767038708929'}
+[文件大小]:72.67 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk完成！ 用时3.34秒
+---------------------------设备:QDY4C17818002168____shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点1-----------------------------------下载校验结果：True
+1589290682
+production
+{'msg': '成功', 'status': True}
+Tue May 12 21:38:02 2020--34564--QDY4C17818002168:File_directory下包有['shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk']
+2020-05-12 21:38:02--QDY4C17818002168开始安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+QDY4C17818002168手机已安装com.dalan.shfy包....
+True
+Tue May 12 21:38:08 2020--QDY4C17818002168--install_前检查手机已安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168--开始卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包
+Tue May 12 21:38:09 2020--QDY4C17818002168--卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包完成_____进行再次安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168手机已安装com.dalan.shfy包....
+------------------------------QDY4C17818002168__shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点2-------------------------------------安装返回结果：True
+1589290703
+production
+{'msg': '成功', 'status': True}
+E:/Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+{'msg': '成功', 'data': {'asset': [{'login': 'assets/icon_loginbg.jpg', 'load': 'assets/icon_loading.jpg', 'splash': '', 'logo': ''}], 'channel_pinyin': 'dsdk', 'file': [{'login': 'ca852b5f8d54da876e30bb980549180e', 'load': '4327532fd530ff1469f890e72235265b'}], 'game_app_name': '商海风云', 'game_original_name': '豪门总裁'}, 'status': True}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.zip
+34564--QDY4C17818002168--实际图片对应路径{'login': 'assets/icon_loginbg.jpg', 'load': 'assets/icon_loading.jpg', 'splash': '', 'logo': ''}，拆包后后apk目录E:/Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138/，对应pkg_id=2782
+Tue May 12 21:38:26 2020--34564--QDY4C17818002168服务端素材图片['ca852b5f8d54da876e30bb980549180e.jpg', '4327532fd530ff1469f890e72235265b.jpg']
+QDY4C17818002168--apk的应用名称=商海风云
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------34564--QDY4C17818002168---shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点3------------------------------------拆包校验结果：True
+1589290707
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168--手机亮屏状态
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+Tue May 12 21:38:27 2020--34564--QDY4C17818002168--http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk此原名游戏尚未接入，敬请期待
+1589290707
+production
+{'msg': '成功', 'status': True}
+QDY4C17818002168执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+11111 124
+========================================start程序1111=============================================
+    ====================================2020-05-12 21:40:37===========================================
+Tue May 12 21:40:37 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2775&f=shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk']
+Tue May 12 21:40:39 2020--设备QDY4C17818002168:{'size': '720x1280', 'system_version': '7.0', 'model': 'TRT-AL00', 'device_id': 'QDY4C17818002168', 'network': '当前网络为-wifi', 'imei': '865767038708929'}
+[文件大小]:72.67 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk完成！ 用时2.92秒
+---------------------------设备:QDY4C17818002168____shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点1-----------------------------------下载校验结果：True
+1589290843
+production
+{'status': True, 'msg': '成功'}
+Tue May 12 21:40:43 2020--30496--QDY4C17818002168:File_directory下包有['shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk']
+2020-05-12 21:40:43--QDY4C17818002168开始安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+QDY4C17818002168手机已安装com.dalan.shfy包....
+True
+Tue May 12 21:40:48 2020--QDY4C17818002168--install_前检查手机已安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168--开始卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包
+Tue May 12 21:40:49 2020--QDY4C17818002168--卸载shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk包完成_____进行再次安装shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+QDY4C17818002168手机已安装com.dalan.shfy包....
+------------------------------QDY4C17818002168__shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点2-------------------------------------安装返回结果：True
+1589290863
+production
+{'status': True, 'msg': '成功'}
+E:/Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk==com.dalan.shfy
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '商海风云', 'channel_pinyin': 'dsdk', 'file': [{'load': '4327532fd530ff1469f890e72235265b', 'login': 'ca852b5f8d54da876e30bb980549180e'}], 'game_original_name': '豪门总裁', 'asset': [{'logo': '', 'splash': '', 'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg'}]}}
+E:\Test_dalan_gzl_jiance_apk/File_directory/shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.zip
+30496--QDY4C17818002168--实际图片对应路径{'logo': '', 'splash': '', 'load': 'assets/icon_loading.jpg', 'login': 'assets/icon_loginbg.jpg'}，拆包后后apk目录E:/Test_dalan_gzl_jiance_apk/File_directory/ectory目录没有apk文件/，对应pkg_id=2782
+Tue May 12 21:41:04 2020--30496--QDY4C17818002168服务端素材图片['4327532fd530ff1469f890e72235265b.jpg', 'ca852b5f8d54da876e30bb980549180e.jpg']
+QDY4C17818002168--apk的应用名称=商海风云
+--------------------------30496--QDY4C17818002168---shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点3------------------------------------拆包校验结果：False
+失败原因:素材验证时出现未知异常！需要调优
+1589290865
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168包的素材不一致需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:12628--时间21:43:40的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk
+Tue May 12 21:43:42 2020--设备54a4c6159804:{'system_version': '7.0', 'size': '1080x1920', 'model': 'Redmi Note 4X', 'device_id': '54a4c6159804', 'imei': '99000920749832', 'network': '当前网络为-wifi'}
+[文件大小]:72.67 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk完成！ 用时60.13秒
+---------------------------设备:54a4c6159804____shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk----节点1-----------------------------------下载校验结果：False
+1589291082
+production
+{'msg': '成功', 'status': True}
+包url异常下载失败 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:32872--时间21:43:40的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2775&f=shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk
+Tue May 12 21:43:42 2020--设备QDY4C17818002168:{'imei': '865767038708929', 'size': '720x1280', 'system_version': '7.0', 'network': '当前网络为-wifi', 'device_id': 'QDY4C17818002168', 'model': 'TRT-AL00'}
+[文件大小]:241.71 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2775&f=shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk完成！ 用时101.91秒
+---------------------------设备:QDY4C17818002168____shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk----节点1-----------------------------------下载校验结果：False
+1589291125
+production
+{'msg': '成功', 'status': True}
+包url异常下载失败 -------------------------------------------------------------delete OK-----------------------------------------------------------
+当前进程:30680--时间21:43:40的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=717&f=dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk
+Tue May 12 21:43:42 2020--设备R8AYIJWO99999999:{'imei': '/system/bin/sh: tail: not found\n\n', 'model': 'Redmi Note 3', 'size': '1080x1920', 'system_version': '5.0.2', 'device_id': 'R8AYIJWO99999999', 'network': '当前网络为-移动网络'}
+[文件大小]:371.34 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=717&f=dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk完成！ 用时12.58秒
+---------------------------设备:R8AYIJWO99999999____dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk----节点1-----------------------------------下载校验结果：True
+1589291035
+production
+{'status': True, 'msg': '成功'}
+Tue May 12 21:43:56 2020--30680--R8AYIJWO99999999:File_directory下包有['dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk']
+2020-05-12 21:43:56--R8AYIJWO99999999开始安装dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk
+E:\Test_dalan_gzl_jiance_apk/File_directory/dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk==com.dalan.test
+R8AYIJWO99999999手机未安装com.dalan.test包....
+False
+2020-05-12 21:44:02_开始在R8AYIJWO99999999设备安装_dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk
+R8AYIJWO99999999手机已安装com.dalan.test包....
+True
+------------------------------R8AYIJWO99999999__dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk----节点2-------------------------------------安装返回结果：True
+1589291127
+production
+{'status': True, 'msg': '成功'}
+E:\Test_dalan_gzl_jiance_apk/File_directory/dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk==com.dalan.test
+{'status': True, 'msg': '成功', 'data': {'asset': [{'splash': 'assets/splash.png', 'logo': 'assets/logo.mp4', 'login': 'assets/channel_login.jpg', 'mp3_file': '', 'decompression': '', 'load': 'assets/channel_loginloading.jpg'}], 'file': [None], 'game_original_name': '三国杀名将传', 'channel_pinyin': 'dsdk', 'game_app_name': '内部自更新测试'}}
+-------------------pid:30680---R8AYIJWO99999999__dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk---节点3------------------------------后台没有配置素材无需校验
+1589291127
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999手机已灭屏_将执行解锁命令
+R8AYIJWO99999999--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+彩虹物语 TestCase.chwy_74.dalan.dsdk.run
+TestCase.chwy_74.dalan.dsdk.run
+Tue May 12 21:45:35 2020--30680--R8AYIJWO99999999--http://pkg.superdalan.com/game.pkg/download?pkgId=717&f=dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk此原名游戏尚未接入，敬请期待
+1589291135
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+2__end 进程:30680--设备id:R8AYIJWO99999999--Tue May 12 21:45:37 2020
+
+11111 162
+========================================start程序1111=============================================
+    ====================================2020-05-12 21:43:39===========================================
+Tue May 12 21:43:39 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2775&f=shjhbbgdtlmb_dalan_dsdk_48_1.0.0_20200512_193750.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2782&f=shfyoppo_dalan_dsdk_10_1.0.0_20200512_211138.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=717&f=dtsgtest_dalan_dsdk_3_1.0.0_20191119_160616.apk']
+start主线程 at: Tue May 12 21:43:39 2020
+主进程 end at: Tue May 12 21:45:37 2020
+
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success

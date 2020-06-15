@@ -1,0 +1,300 @@
+========================================start程序1111=============================================
+    ====================================2020-04-20 19:47:43===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk']
+[文件大小]:261.62 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk完成！ 用时11.08秒
+---------------------------0___20200420_081329.apk----节点1-----------------------------------下载校验结果：True
+1587383276
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk']
+2020-04-20 19:47:56开始安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+D:\Downloads\\shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk==com.dalan.shmy.ks
+此手机已安装com.dalan.shmy.ks包....
+True
+install_前检查手机已安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+开始卸载shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk包
+卸载shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk包完成_____进行再次安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+此手机已安装com.dalan.shmy.ks包....
+------------------------------0___20200420_081329.apk----节点2-------------------------------------安装返回结果：True
+1587383345
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk==com.dalan.shmy.ks
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': ''}], 'file': [{'login': '', 'load': ''}], 'game_app_name': '四海牧云'}, 'msg': '成功'}
+shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+实际图片对应路径{'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329/，对应pkg_id=2623
+服务端素材图片 []
+apk的应用名称= 四海牧云
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------0___20200420_081329.apk----节点3------------------------------------拆包校验结果：True
+1587383354
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//a1fb1f7f2d55bb43c3702769a2b0ff14~500' width=600 />
+返回的png为 http://file.superdalan.com//a1fb1f7f2d55bb43c3702769a2b0ff14~500
+1587383422
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200420_081329.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500' width=600 />
+返回的png为 http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500
+1587383459
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200420_081329.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020042032447981257
+<img src='http://file.superdalan.com//d5c29f22a48cd5db3ef0c78adecef546~500' width=600 />
+返回的png为 http://file.superdalan.com//d5c29f22a48cd5db3ef0c78adecef546~500
+(False, '微信无法调起!,手机反应太慢_超时', 'd5c29f22a48cd5db3ef0c78adecef546')
+1587383499
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200420_081329.apk---节点6----------------------------下单调起微信结果:False
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+========================================start程序1111=============================================
+    ====================================2020-04-20 19:47:43===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk']
+[文件大小]:261.62 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2623&f=shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk完成！ 用时11.08秒
+---------------------------0___20200420_081329.apk----节点1-----------------------------------下载校验结果：True
+1587383276
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk']
+2020-04-20 19:47:56开始安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+D:\Downloads\\shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk==com.dalan.shmy.ks
+此手机已安装com.dalan.shmy.ks包....
+True
+install_前检查手机已安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+开始卸载shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk包
+卸载shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk包完成_____进行再次安装shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+此手机已安装com.dalan.shmy.ks包....
+------------------------------0___20200420_081329.apk----节点2-------------------------------------安装返回结果：True
+1587383345
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk==com.dalan.shmy.ks
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': ''}], 'file': [{'login': '', 'load': ''}], 'game_app_name': '四海牧云'}, 'msg': '成功'}
+shmykshb_dalan_dsdk_48_1.0.0_20200420_081329.apk
+实际图片对应路径{'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/shmykshb_dalan_dsdk_48_1.0.0_20200420_081329/，对应pkg_id=2623
+服务端素材图片 []
+apk的应用名称= 四海牧云
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------0___20200420_081329.apk----节点3------------------------------------拆包校验结果：True
+1587383354
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//a1fb1f7f2d55bb43c3702769a2b0ff14~500' width=600 />
+返回的png为 http://file.superdalan.com//a1fb1f7f2d55bb43c3702769a2b0ff14~500
+1587383422
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200420_081329.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500' width=600 />
+返回的png为 http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500
+1587383459
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200420_081329.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020042032447981257
+<img src='http://file.superdalan.com//d5c29f22a48cd5db3ef0c78adecef546~500' width=600 />
+返回的png为 http://file.superdalan.com//d5c29f22a48cd5db3ef0c78adecef546~500
+(False, '微信无法调起!,手机反应太慢_超时', 'd5c29f22a48cd5db3ef0c78adecef546')
+1587383499
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200420_081329.apk---节点6----------------------------下单调起微信结果:False
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+------------------------------------------------重新获取log增量文件---------------------------------------------------------------------------
+success
+========================================start程序1111=============================================
+    ====================================2020-04-20 19:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:05:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:15:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:20:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:30:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:35:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:40:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:45:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:50:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 20:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:05:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:15:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:20:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-20 21:30:00===========================================
+获取数据库中apk链接= []
+start 线程_ 1 at: Mon Apr 20 21:30:29 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://blog.baidu.com
+R8AYIJWO99999999
+start 线程_ 0 at: Mon Apr 20 21:30:29 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：https://blog.csdn.net
+54a4c6159804
+start 线程_ 0 at: Mon Apr 20 21:30:32 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：http://blog.b5656565aidu.com
+54a4c6159804
+start 线程_ 1 at: Mon Apr 20 21:30:32 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://www.baidu.nat
+R8AYIJWO99999999
+start主线程 at: Mon Apr 20 21:30:29 2020
+测试一下 [0, 1]
+有剩余_1_任务流程主线程执行:www.wdiwjeijweiodj
+all end at: Mon Apr 20 21:30:34 2020
+start 线程_ 0 at: Mon Apr 20 21:31:15 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：https://blog.csdn.net
+end 线程_ 0  at: Mon Apr 20 21:31:19 2020
+20
+start 线程_ 0 at: Mon Apr 20 21:31:19 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：http://blog.b5656565aidu.com
+end 线程_ 0  at: Mon Apr 20 21:31:23 2020
+start 线程_ 1 at: Mon Apr 20 21:31:19 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://www.baidu.nat
+end 线程_ 1  at: Mon Apr 20 21:31:23 2020
+start主线程 at: Mon Apr 20 21:31:14 2020
+测试一下 [0, 1]
+有剩余_1_任务流程主线程执行:www.wdiwjeijweiodj
+all end at: Mon Apr 20 21:31:24 2020
+start 线程_ 0 at: Mon Apr 20 21:31:41 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：https://blog.csdn.net
+54a4c6159804
+start 线程_ 1 at: Mon Apr 20 21:31:41 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://blog.baidu.com
+R8AYIJWO99999999
+start 线程_ 0 at: Mon Apr 20 21:31:44 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：http://blog.b5656565aidu.com
+54a4c6159804
+start 线程_ 1 at: Mon Apr 20 21:31:44 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://www.baidu.nat
+R8AYIJWO99999999
+start主线程 at: Mon Apr 20 21:31:41 2020
+测试一下 [0, 1]
+有剩余_1_任务流程主线程执行:www.wdiwjeijweiodj
+all end at: Mon Apr 20 21:31:46 2020
+start 线程_ 1 at: Mon Apr 20 21:32:11 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://blog.baidu.com
+232323232 R8AYIJWO99999999
+start 线程_ 0 at: Mon Apr 20 21:32:11 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：https://blog.csdn.net
+232323232 54a4c6159804
+start 线程_ 1 at: Mon Apr 20 21:32:13 2020
+当前设备线程_1_的设备:R8AYIJWO99999999_apk链接：http://www.baidu.nat
+232323232 R8AYIJWO99999999
+start 线程_ 0 at: Mon Apr 20 21:32:13 2020
+当前设备线程_0_的设备:54a4c6159804_apk链接：http://blog.b5656565aidu.com
+232323232 54a4c6159804
+start主线程 at: Mon Apr 20 21:32:10 2020
+测试一下 [0, 1]
+有剩余_1_任务流程主线程执行:www.wdiwjeijweiodj
+all end at: Mon Apr 20 21:32:15 2020

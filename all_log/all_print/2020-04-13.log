@@ -1,0 +1,2906 @@
+========================================start程序1111=============================================
+====================================2020-04-13 11:41:55===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2315&f=mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2596&f=yjztwzjh1tt_biguo_android_48_1.0.0_20200413_114330.apk']
+========================================start程序1111=============================================
+====================================2020-04-13 11:35:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2296&f=shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2315&f=mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk']
+[文件大小]:262.14 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk完成！ 用时17.91秒
+---------------------------0___20200411_222916.apk----节点1-----------------------------------下载校验结果：True
+1586748920
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk']
+2020-04-13 11:35:20开始安装shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 11:35:24_开始安装_shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk
+安装shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk过程中出现异常_执行失败
+------------------------------0___20200411_222916.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586748949
+production
+{'status': True, 'msg': '成功'}
+安装为else
+[文件大小]:262.90 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2296&f=shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk完成！ 用时18.78秒
+---------------------------1___20200411_223023.apk----节点1-----------------------------------下载校验结果：True
+1586748968
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk']
+2020-04-13 11:36:08开始安装shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk
+D:\Downloads\\shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk==com.tencent.tmgp.jwjt.zxsjj
+此手机未安装com.tencent.tmgp.jwjt.zxsjj包....
+False
+2020-04-13 11:36:12_开始安装_shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk
+此手机已安装com.tencent.tmgp.jwjt.zxsjj包....
+True
+------------------------------1___20200411_223023.apk----节点2-------------------------------------安装返回结果：True
+1586749006
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk==com.tencent.tmgp.jwjt.zxsjj
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'decompression': ''}], 'file': [{'login': '', 'load': ''}], 'game_app_name': '山海经正版'}, 'status': True}
+shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023.apk
+实际图片对应路径{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/shjzbgdt2_dalan_dsdk_48_1.0.0_20200411_223023/，对应pkg_id=2296
+服务端素材图片 []
+apk的应用名称= 山海经正版
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------1___20200411_223023.apk----节点3------------------------------------拆包校验结果：True
+1586749095
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//7722331fd9559963feb5f87a37361698~500' width=600 />
+返回的png为 http://file.superdalan.com//7722331fd9559963feb5f87a37361698~500
+1586749167
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200411_223023.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//812413600dbc5a24002b2d20b924bc4b~500' width=600 />
+返回的png为 http://file.superdalan.com//812413600dbc5a24002b2d20b924bc4b~500
+1586749205
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200411_223023.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341769641358
+当前未登录微信
+<img src='http://file.superdalan.com//542e8c85c7baf8a4908db33407fc34d5~500' width=600 />
+返回的png为 http://file.superdalan.com//542e8c85c7baf8a4908db33407fc34d5~500
+1586749239
+production
+{'status': True, 'msg': '成功'}
+-----------------------1___20200411_223023.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:263.14 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2315&f=mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk完成！ 用时16.20秒
+---------------------------2___20200411_223231.apk----节点1-----------------------------------下载校验结果：True
+1586749256
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk']
+2020-04-13 11:40:56开始安装mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+D:\Downloads\\mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk==com.tencent.tmgp.tgfml.jwcs
+此手机未安装com.tencent.tmgp.tgfml.jwcs包....
+False
+2020-04-13 11:40:59_开始安装_mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+此手机已安装com.tencent.tmgp.tgfml.jwcs包....
+True
+------------------------------2___20200411_223231.apk----节点2-------------------------------------安装返回结果：True
+1586749291
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk==com.tencent.tmgp.tgfml.jwcs
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'decompression': ''}], 'file': [{'login': '61289cdc0e1c456e131067a71f0ac91b', 'load': '48a6d9a035c50af6d44de9248e7c9135'}], 'game_app_name': '茅山志异'}, 'status': True}
+mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+实际图片对应路径{'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231/，对应pkg_id=2315
+服务端素材图片 []
+apk的应用名称= 茅山志异
+------------------------------2___20200411_223231.apk----节点3------------------------------------拆包校验结果：只有图片匹配成功_应用名失败
+1586749318
+production
+{'status': True, 'msg': '成功'}
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 11:42:31===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 11:43:42===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk', 'h
+ttp://pkg.superdalan.com/game.pkg/download?pkgId=2315&f=mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk']
+[文件大小]:262.14 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk完成！ 用时12.25秒
+---------------------------0___20200411_222916.apk----节点1-----------------------------------下载校验结果：True
+1586749435
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk']
+2020-04-13 11:43:55开始安装shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 11:43:59_开始安装_shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk
+安装shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk过程中出现异常_执行失败
+------------------------------0___20200411_222916.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586749464
+production
+{'status': True, 'msg': '成功'}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:263.14 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2315&f=mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk完成！ 用时12.36秒
+---------------------------1___20200411_223231.apk----节点1-----------------------------------下载校验结果：True
+1586749477
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk']
+2020-04-13 11:44:37开始安装mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+D:\Downloads\\mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk==com.tencent.tmgp.tgfml.jwcs
+此手机已安装com.tencent.tmgp.tgfml.jwcs包....
+True
+install_前检查手机已安装mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+开始卸载mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk包
+卸载mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk包完成_____进行再次安装mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+此手机已安装com.tencent.tmgp.tgfml.jwcs包....
+------------------------------1___20200411_223231.apk----节点2-------------------------------------安装返回结果：True
+1586749512
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk==com.tencent.tmgp.tgfml.jwcs
+{'data': {'game_app_name': '茅山志异', 'file': [{'login': '61289cdc0e1c456e131067a71f0ac91b', 'load': '48a6d9a035c50af6d44de9248e7c9135'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'asset': [{'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg'}]}, 'status': True, 'msg': '成功'}
+mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231.apk
+实际图片对应路径{'logo': '', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/mszygdt4_dalan_dsdk_48_1.0.0_20200411_223231/，对应pkg_id=2315
+服务端素材图片 ['48a6d9a035c50af6d44de9248e7c9135.jpg', '61289cdc0e1c456e131067a71f0ac91b.jpg']
+apk的应用名称= 茅山志异
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------1___20200411_223231.apk----节点3------------------------------------拆包校验结果：True
+1586749522
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1586749590
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200411_223231.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//ebc93ee365698397aba0e2dc03c6464c~500' width=600 />
+返回的png为 http://file.superdalan.com//ebc93ee365698397aba0e2dc03c6464c~500
+1586749630
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200411_223231.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341775851546
+<img src='http://file.superdalan.com//2c36e1998f580fe2254650b2ac76d921~500' width=600 />
+返回的png为 http://file.superdalan.com//2c36e1998f580fe2254650b2ac76d921~500
+已走异常流程_截图异常页面(原因：主要是因为没有进入指定页面_)
+1586749673
+production
+{'status': True, 'msg': '成功'}
+-----------------------1___20200411_223231.apk---节点6----------------------------下单调起微信结果:False
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 11:50:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 11:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:03:27===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2398&f=shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk']
+[文件大小]:263.03 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2398&f=shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk完成！ 用时15.73秒
+---------------------------0___20200413_111626.apk----节点1-----------------------------------下载校验结果：True
+1586750624
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk']
+2020-04-13 12:03:44开始安装shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk
+D:\Downloads\\shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk==com.shj.wzjh.kuaishou
+此手机已安装com.shj.wzjh.kuaishou包....
+True
+install_前检查手机已安装shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk
+开始卸载shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk包
+卸载shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk包完成_____进行再次安装shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk
+此手机已安装com.shj.wzjh.kuaishou包....
+------------------------------0___20200413_111626.apk----节点2-------------------------------------安装返回结果：True
+1586750658
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk==com.shj.wzjh.kuaishou
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'ef0334525653ef158f4212bb53a1d41f', 'load': '1d5fde3028e1175e3a0ce920219d708d'}], 'game_app_name': '山海经', 'asset': [{'login': 'assets/selectserverbg.jpg', 'splash': '', 'decompression': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖'}}
+shjks_dalan_dsdk_48_1.0.0_20200413_111626.apk
+实际图片对应路径{'decompression': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/shjks_dalan_dsdk_48_1.0.0_20200413_111626/，对应pkg_id=2398
+服务端素材图片 ['1d5fde3028e1175e3a0ce920219d708d.jpg', 'ef0334525653ef158f4212bb53a1d41f.jpg']
+apk的应用名称= 山海经
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200413_111626.apk----节点3------------------------------------拆包校验结果：True
+1586750665
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//9dbfcde1d5498551d1f31962061625df~500' width=600 />
+返回的png为 http://file.superdalan.com//9dbfcde1d5498551d1f31962061625df~500
+1586750735
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200413_111626.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//d56a904a71361bfb78e3d32337c9b5b8~500' width=600 />
+返回的png为 http://file.superdalan.com//d56a904a71361bfb78e3d32337c9b5b8~500
+1586750772
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200413_111626.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id None
+<img src='http://file.superdalan.com//facc0b2f93a83b94ac511ceb03c2b5de~500' width=600 />
+返回的png为 http://file.superdalan.com//facc0b2f93a83b94ac511ceb03c2b5de~500
+1586750807
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200413_111626.apk---节点6----------------------------下单调起微信结果:False
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 12:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:15:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:20:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:30:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:35:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:262.14 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2295&f=shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk完成！ 用时114.25秒
+---------------------------0___20200411_222916.apk----节点1-----------------------------------下载校验结果：True
+1586752617
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk']
+2020-04-13 12:36:57开始安装shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 12:37:01_开始安装_shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk
+安装shjzbgdt_dalan_dsdk_48_1.0.0_20200411_222916.apk过程中出现异常_执行失败
+------------------------------0___20200411_222916.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586752646
+production
+{'status': True, 'msg': '成功'}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时113.43秒
+---------------------------1___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586752760
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 12:39:20开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机未安装com.qyj1.wzjh包....
+False
+2020-04-13 12:39:23_开始安装_qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+True
+------------------------------1___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586752812
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'asset': [{'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg'}], 'game_app_name': '庆余纪'}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------1___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586752826
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//395cc869389ff51296a2583e2863fb4c~500' width=600 />
+返回的png为 http://file.superdalan.com//395cc869389ff51296a2583e2863fb4c~500
+1586752914
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//56c8b6d97bdfcf798a9092d141c29ce4~500' width=600 />
+返回的png为 http://file.superdalan.com//56c8b6d97bdfcf798a9092d141c29ce4~500
+1586752957
+production
+{'status': True, 'msg': '成功'}
+----------------------1___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341829623469
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1586752992
+production
+{'status': True, 'msg': '成功'}
+-----------------------1___20200306_125115.apk---节点6----------------------------下单调起微信结果:False
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 12:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时15.83秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586753118
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 12:45:18开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586753155
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'asset': [{'mp3_file': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': ''}], 'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'mp3_file': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586753162
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//1343538441392b2410d4108634361ee7~500' width=600 />
+返回的png为 http://file.superdalan.com//1343538441392b2410d4108634361ee7~500
+1586753240
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//9be8defaafb64f76ca0e7fffda279786~500' width=600 />
+返回的png为 http://file.superdalan.com//9be8defaafb64f76ca0e7fffda279786~500
+1586753278
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341834795238
+<img src='http://file.superdalan.com//a2112442edb02e93a403e419a8e7da8a~500' width=600 />
+返回的png为 http://file.superdalan.com//a2112442edb02e93a403e419a8e7da8a~500
+1586753315
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 12:50:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 12:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:05:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:15:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:20:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:30:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:35:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:40:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:45:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:50:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 13:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:05:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:11:43===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时12.03秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586758317
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 14:11:57开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586758349
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_app_name': '庆余纪', 'asset': [{'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}]}, 'status': True}
+111111 ('下载成功', {'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''})
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586758357
+production
+{'msg': '成功', 'status': True}
+========================================start程序1111=============================================
+====================================2020-04-13 14:22:18===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时12.53秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586758953
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 14:22:33开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586758989
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'game_app_name': '庆余纪', 'game_original_name': '我在江湖', 'asset': [{'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': ''}]}, 'status': True, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'mp3_file': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586758995
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//210bf24f46171830cd56fe140bdae4ec~500' width=600 />
+返回的png为 http://file.superdalan.com//210bf24f46171830cd56fe140bdae4ec~500
+1586759069
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//ece079792e02a1764a7223254e7adf0e~500' width=600 />
+返回的png为 http://file.superdalan.com//ece079792e02a1764a7223254e7adf0e~500
+1586759109
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341902455688
+当前未登录微信
+<img src='http://file.superdalan.com//b543c7baef4f692d2c5627c1d6700012~500' width=600 />
+返回的png为 http://file.superdalan.com//b543c7baef4f692d2c5627c1d6700012~500
+1586759145
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 14:30:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:35:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:37:23===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时10.69秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586759855
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 14:37:36开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586759888
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'game_app_name': '庆余纪', 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'asset': [{'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}]}, 'status': True, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+========================================start程序1111=============================================
+====================================2020-04-13 14:42:55===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时10.29秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586760188
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 14:43:08开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586760222
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'asset': [{'logo': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}], 'channel_pinyin': 'dsdk'}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'logo': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'mp3_file': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+========================================start程序1111=============================================
+====================================2020-04-13 14:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+========================================start程序1111=============================================
+====================================2020-04-13 14:44:58===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时11.42秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586760312
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 14:45:12开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586760346
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'game_app_name': '庆余纪', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'asset': [{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586760352
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//9a68764d7110a67191547e1cb1befde4~500' width=600 />
+返回的png为 http://file.superdalan.com//9a68764d7110a67191547e1cb1befde4~500
+1586760427
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//59f1f015da3db89e3774a6a1f813f112~500' width=600 />
+返回的png为 http://file.superdalan.com//59f1f015da3db89e3774a6a1f813f112~500
+1586760467
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341914446847
+当前未登录微信
+<img src='http://file.superdalan.com//ac0ab44ce90af393b03085c48bb60824~500' width=600 />
+返回的png为 http://file.superdalan.com//ac0ab44ce90af393b03085c48bb60824~500
+1586760503
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 14:50:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 14:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 15:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 15:05:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 15:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 15:15:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 15:30:00===========================================
+获取数据库中apk链接= []
+TestCase.hmzc_10.dalan.dsdk
+from TestCase.hmzc_10.dalan.dsdk run
+========================================start程序1111=============================================
+====================================2020-04-13 16:15:15===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时14.41秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586765731
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:15:31开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586765764
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'asset': [{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'mp3_file': ''}], 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'channel_pinyin': 'dsdk'}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586765775
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+========================================start程序1111=============================================
+====================================2020-04-13 16:20:56===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时9.85秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586766068
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:21:08开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586766103
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'channel_pinyin': 'dsdk', 'asset': [{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}], 'game_app_name': '庆余纪', 'game_original_name': '我在江湖', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}]}, 'msg': '成功', 'status': True}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586766108
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//8ed755a12dbacc4e993ff85d4c961007~500' width=600 />
+返回的png为 http://file.superdalan.com//8ed755a12dbacc4e993ff85d4c961007~500
+1586766213
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//7f29e81da434a1b76e67c91a98d8ec66~500' width=600 />
+返回的png为 http://file.superdalan.com//7f29e81da434a1b76e67c91a98d8ec66~500
+1586766253
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041341972908135
+当前未登录微信
+<img src='http://file.superdalan.com//49a6abb390e970935bc32395eec63671~500' width=600 />
+返回的png为 http://file.superdalan.com//49a6abb390e970935bc32395eec63671~500
+1586766289
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+========================================start程序1111=============================================
+====================================2020-04-13 16:35:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时108.47秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586767010
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:36:50开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586767049
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'status': True, 'data': {'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'channel_pinyin': 'dsdk', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'asset': [{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'mp3_file': '', 'splash': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'splash': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586767072
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+still waiting for uiautomation ready.
+installed version is None, installer version is 41. force_reinstall=False
+========================================start程序1111=============================================
+====================================2020-04-13 16:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时107.69秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586767608
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:46:48开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk过程中出现异常_执行失败
+========================================start程序1111=============================================
+====================================2020-04-13 16:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时112.81秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586767913
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:51:53开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk过程中出现异常_执行失败
+========================================start程序1111=============================================
+====================================2020-04-13 16:55:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+========================================start程序1111=============================================
+====================================2020-04-13 16:54:45===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时8.74秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586768097
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:54:57开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机未安装com.qyj1.wzjh包....
+False
+2020-04-13 16:55:00_开始安装_qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+True
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586768133
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'game_app_name': '庆余纪', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_original_name': '我在江湖', 'asset': [{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'splash': ''}]}, 'status': True}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'splash': '', 'logo': '', 'load': 'assets/loadingbg.jpg', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586768140
+production
+{'msg': '成功', 'status': True}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is None, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+========================================start程序1111=============================================
+====================================2020-04-13 16:57:22===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时8.89秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586768253
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 16:57:33开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586768286
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'asset': [{'splash': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}]}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'splash': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586768292
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+========================================start程序1111=============================================
+====================================2020-04-13 17:05:18===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时10.59秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586768731
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 17:05:31开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机未安装com.qyj1.wzjh包....
+False
+2020-04-13 17:05:34_开始安装_qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+True
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586768766
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'asset': [{'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'logo': '', 'splash': ''}], 'game_app_name': '庆余纪'}, 'status': True}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'login': 'assets/selectserverbg.jpg', 'splash': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586768772
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//b81e7dfcf372d4a60cb6bffbf0e618d7~500' width=600 />
+返回的png为 http://file.superdalan.com//b81e7dfcf372d4a60cb6bffbf0e618d7~500
+1586768912
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:False
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk此原名游戏尚未接入，敬请期待
+1586768912
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 17:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:15:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:20:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:30:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2122&f=wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk']
+[文件大小]:12.46 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2122&f=wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk完成！ 用时5.12秒
+---------------------------0___20200413_173136.apk----节点1-----------------------------------下载校验结果：True
+1586770207
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk']
+2020-04-13 17:30:07开始安装wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk
+D:\Downloads\\wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk==com.biguo.wzztt
+此手机未安装com.biguo.wzztt包....
+False
+2020-04-13 17:30:10_开始安装_wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk
+此手机已安装com.biguo.wzztt包....
+True
+------------------------------0___20200413_173136.apk----节点2-------------------------------------安装返回结果：True
+1586770218
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk==com.biguo.wzztt
+{'data': {'game_original_name': '剑灭逍遥', 'game_app_name': '五竹传', 'file': [None], 'asset': [[]], 'channel_pinyin': 'biguo_androidmirh5'}, 'status': True, 'msg': '成功'}
+----------------------0___20200413_173136.apk---节点3------------------------------后台没有配置素材无需校验
+1586770218
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2122&f=wzztt_biguo_androidmirh5_29_1.0.0_20200413_173136.apk_非Dalan_Dsdk渠道包，不走自动化流程
+1586770224
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 17:35:00===========================================
+获取数据库中apk链接= []
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+========================================start程序1111=============================================
+====================================2020-04-13 17:38:08===========================================
+获取数据库中apk链接= []
+111111111111111111========================================start程序1111=============================================
+====================================2020-04-13 17:40:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:45:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:50:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 17:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 18:00:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2206&f=clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2207&f=hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2208&f=hhfztt_dalan_dsdk_59_1.0.0_20200413_180052.apk']
+[文件大小]:288.08 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk完成！ 用时126.86秒
+---------------------------0___20200413_175755.apk----节点1-----------------------------------下载校验结果：True
+1586772129
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk']
+2020-04-13 18:02:09开始安装clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk
+D:\Downloads\\clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk==com.clhx.lmhx.dalan
+此手机未安装com.clhx.lmhx.dalan包....
+False
+2020-04-13 18:02:19_开始安装_clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk
+此手机已安装com.clhx.lmhx.dalan包....
+True
+------------------------------0___20200413_175755.apk----节点2-------------------------------------安装返回结果：True
+1586772175
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk==com.clhx.lmhx.dalan
+{'status': True, 'data': {'game_app_name': '苍蓝航线', 'game_original_name': '黎明航线', 'file': [{'logo': '', 'load': '', 'login': ''}], 'channel_pinyin': 'dsdk', 'asset': [{'decompression': '', 'logo': 'assets/vendor/logo.png', 'login': 'assets/vendor/bg_login.png', 'splash': '', 'mp3_file': '', 'load': 'assets/vendor/bg_loading.png'}]}, 'msg': '成功'}
+clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk
+实际图片对应路径{'decompression': '', 'splash': '', 'login': 'assets/vendor/bg_login.png', 'logo': 'assets/vendor/logo.png', 'mp3_file': '', 'load': 'assets/vendor/bg_loading.png'}，拆包后后apk目录D:/Downloads/clhx_dalan_dsdk_59_1.0.0_20200413_175755/，对应pkg_id=2205
+服务端素材图片 []
+apk的应用名称= 苍蓝航线
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------0___20200413_175755.apk----节点3------------------------------------拆包校验结果：True
+1586772208
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk此原名游戏尚未接入，敬请期待
+1586772238
+production
+{'status': True, 'msg': '成功'}
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_175755.apk此原名游戏尚未接入，敬请期待
+1586772249
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:288.13 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2206&f=clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk完成！ 用时53.74秒
+---------------------------1___20200413_175851.apk----节点1-----------------------------------下载校验结果：True
+1586772302
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk']
+2020-04-13 18:05:02开始安装clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk
+D:\Downloads\\clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk==com.clhx.lmhx.toutiao
+此手机未安装com.clhx.lmhx.toutiao包....
+False
+2020-04-13 18:05:09_开始安装_clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk
+此手机已安装com.clhx.lmhx.toutiao包....
+True
+------------------------------1___20200413_175851.apk----节点2-------------------------------------安装返回结果：True
+1586772343
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk==com.clhx.lmhx.toutiao
+{'status': True, 'data': {'game_app_name': '苍蓝航线', 'game_original_name': '黎明航线', 'file': [None], 'channel_pinyin': 'dsdk', 'asset': [{'decompression': '', 'logo': 'assets/vendor/logo.png', 'login': 'assets/vendor/bg_login.png', 'splash': '', 'mp3_file': '', 'load': 'assets/vendor/bg_loading.png'}]}, 'msg': '成功'}
+----------------------1___20200413_175851.apk---节点3------------------------------后台没有配置素材无需校验
+1586772348
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+ 1__http://pkg.superdalan.com/game.pkg/download?pkgId=2206&f=clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk此原名游戏尚未接入，敬请期待
+1586772353
+production
+{'status': True, 'msg': '成功'}
+我在江湖 from TestCase.wzjh_48.dsdk
+ 1__http://pkg.superdalan.com/game.pkg/download?pkgId=2206&f=clhxtt_dalan_dsdk_59_1.0.0_20200413_175851.apk此原名游戏尚未接入，敬请期待
+1586772353
+production
+{'status': False, 'msg': '失败'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:289.95 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2207&f=hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk完成！ 用时25.21秒
+---------------------------2___20200413_175950.apk----节点1-----------------------------------下载校验结果：True
+1586772378
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk']
+2020-04-13 18:06:18开始安装hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk
+D:\Downloads\\hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk==com.hhfz.lmhx.dalan
+此手机未安装com.hhfz.lmhx.dalan包....
+False
+2020-04-13 18:07:20_开始安装_hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk
+此手机已安装com.hhfz.lmhx.dalan包....
+True
+------------------------------2___20200413_175950.apk----节点2-------------------------------------安装返回结果：True
+1586772477
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk==com.hhfz.lmhx.dalan
+{'status': True, 'data': {'game_app_name': '航海纷争', 'game_original_name': '黎明航线', 'file': [None], 'channel_pinyin': 'dsdk', 'asset': [{'decompression': '', 'logo': 'assets/vendor/logo.png', 'login': 'assets/vendor/bg_login.png', 'splash': '', 'mp3_file': '', 'load': 'assets/vendor/bg_loading.png'}]}, 'msg': '成功'}
+----------------------2___20200413_175950.apk---节点3------------------------------后台没有配置素材无需校验
+1586772485
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+ 2__http://pkg.superdalan.com/game.pkg/download?pkgId=2207&f=hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk此原名游戏尚未接入，敬请期待
+1586772490
+production
+{'status': True, 'msg': '成功'}
+我在江湖 from TestCase.wzjh_48.dsdk
+ 2__http://pkg.superdalan.com/game.pkg/download?pkgId=2207&f=hhfz_dalan_dsdk_59_1.0.0_20200413_175950.apk此原名游戏尚未接入，敬请期待
+1586772490
+production
+{'status': False, 'msg': '失败'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:290.00 MB========================================start程序1111=============================================
+====================================2020-04-13 18:10:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2598&f=clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2599&f=clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2599&f=clhxgdt_dalan_dsdk_59_1.0.0_20200413_180254.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2600&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2601&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2601&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk']
+[文件大小]:269.05 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2598&f=clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk完成！ 用时121.08秒
+---------------------------0___20200413_180159.apk----节点1-----------------------------------下载校验结果：True
+1586772723
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk']
+2020-04-13 18:12:03开始安装clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 18:12:07_开始安装_clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk
+安装clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk过程中出现异常_执行失败
+------------------------------0___20200413_180159.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586772754
+production
+{'msg': '成功', 'status': True}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:82.89 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2599&f=clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk完成！ 用时35.63秒
+---------------------------1___20200413_180159.apk----节点1-----------------------------------下载校验结果：True
+1586772790
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk']
+2020-04-13 18:13:10开始安装clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 18:13:13_开始安装_clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk
+安装clhxgdt_dalan_dsdk_59_1.0.0_20200413_180159.apk过程中出现异常_执行失败
+------------------------------1___20200413_180159.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586772807
+production
+{'msg': '成功', 'status': True}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:287.36 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2599&f=clhxgdt_dalan_dsdk_59_1.0.0_20200413_180254.apk完成！ 用时124.02秒
+---------------------------2___20200413_180254.apk----节点1-----------------------------------下载校验结果：True
+1586772931
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['clhxgdt_dalan_dsdk_59_1.0.0_20200413_180254.apk']
+2020-04-13 18:15:31开始安装clhxgdt_dalan_dsdk_59_1.0.0_20200413_180254.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 18:15:34_开始安装_clhxgdt_dalan_dsdk_59_1.0.0_20200413_180254.apk
+安装clhxgdt_dalan_dsdk_59_1.0.0_20200413_180254.apk过程中出现异常_执行失败
+------------------------------2___20200413_180254.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586772966
+production
+{'msg': '成功', 'status': True}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:131.29 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2600&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk完成！ 用时9.10秒
+---------------------------3___20200413_180402.apk----节点1-----------------------------------下载校验结果：True
+1586772975
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk']
+2020-04-13 18:16:15开始安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 18:16:19_开始安装_hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk
+安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk过程中出现异常_执行失败
+------------------------------3___20200413_180402.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586772995
+production
+{'msg': '成功', 'status': True}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:349.49 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2601&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk完成！ 用时20.59秒
+---------------------------4___20200413_180402.apk----节点1-----------------------------------下载校验结果：True
+1586773016
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk']
+2020-04-13 18:16:56开始安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk
+此手机未安装获取包名失败配置问题包....
+False
+2020-04-13 18:16:59_开始安装_hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk
+安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180402.apk过程中出现异常_执行失败
+------------------------------4___20200413_180402.apk----节点2-------------------------------------安装返回结果：包名获取失败_原因apk损坏
+1586773060
+production
+{'msg': '成功', 'status': True}
+包损坏需要删除 -------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:289.98 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2601&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk完成！ 用时18.51秒
+---------------------------5___20200413_180459.apk----节点1-----------------------------------下载校验结果：True
+1586773078
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk']
+2020-04-13 18:17:58开始安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk
+D:\Downloads\\hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk==com.hhfz.lmhx.dalan
+此手机已安装com.hhfz.lmhx.dalan包....
+True
+install_前检查手机已安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk
+开始卸载hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk包
+卸载hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk包完成_____进行再次安装hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk
+此手机已安装com.hhfz.lmhx.dalan包....
+------------------------------5___20200413_180459.apk----节点2-------------------------------------安装返回结果：True
+1586773131
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk==com.hhfz.lmhx.dalan
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'dsdk', 'asset': [{'login': 'assets/vendor/bg_login.png', 'mp3_file': '', 'decompression': '', 'load': 'assets/vendor/bg_loading.png', 'logo': 'assets/vendor/logo.png', 'splash': ''}], 'game_app_name': '航海纷争', 'file': [None], 'game_original_name': '黎明航线'}}
+----------------------5___20200413_180459.apk---节点3------------------------------后台没有配置素材无需校验
+1586773134
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+ 5__http://pkg.superdalan.com/game.pkg/download?pkgId=2601&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk此原名游戏尚未接入，敬请期待
+1586773157
+production
+{'msg': '成功', 'status': True}
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+ 5__http://pkg.superdalan.com/game.pkg/download?pkgId=2601&f=hhfzgdt_dalan_dsdk_59_1.0.0_20200413_180459.apk此原名游戏尚未接入，敬请期待
+1586773172
+production
+{'msg': '成功', 'status': True}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 18:20:00===========================================
+获取数据库中apk链接= []
+95825
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:27:59===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时15.42秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586773697
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 18:28:17开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机未安装com.qyj1.wzjh包....
+False
+2020-04-13 18:28:20_开始安装_qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+True
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586773747
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'game_original_name': '我在江湖', 'asset': [{'decompression': '', 'splash': '', 'mp3_file': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg'}], 'channel_pinyin': 'dsdk', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_app_name': '庆余纪'}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586773767
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:35:01===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时93.11秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586774196
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 18:36:36开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586774232
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'asset': [{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'mp3_file': '', 'splash': ''}], 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_app_name': '庆余纪', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖'}, 'status': True, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'mp3_file': '', 'splash': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586774241
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk此原名游戏尚未接入，敬请期待
+1586774274
+production
+{'status': True, 'msg': '成功'}
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:40:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:39:37===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时8.50秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586774387
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 18:39:48开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586774423
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_app_name': '庆余纪', 'game_original_name': '我在江湖', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'asset': [{'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': '', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg'}]}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': '', 'splash': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586774429
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:42:06===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时8.77秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586774536
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 18:42:16开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586774572
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'asset': [{'splash': '', 'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': ''}], 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'game_app_name': '庆余纪'}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'splash': '', 'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586774580
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时114.78秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586774816
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 18:46:59开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586774856
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'data': {'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'asset': [{'splash': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg'}], 'channel_pinyin': 'dsdk', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}]}, 'status': True}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'splash': '', 'mp3_file': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586774864
+production
+{'msg': '成功', 'status': True}
+手机亮屏状态
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:288.08 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk完成！ 用时123.33秒
+---------------------------0___20200413_184742.apk----节点1-----------------------------------下载校验结果：True
+1586775125
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk']
+2020-04-13 18:52:05开始安装clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk
+D:\Downloads\\clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk==com.clhx.lmhx.dalan
+此手机已安装com.clhx.lmhx.dalan包....
+True
+install_前检查手机已安装clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk
+开始卸载clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk包
+卸载clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk包完成_____进行再次安装clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk
+此手机已安装com.clhx.lmhx.dalan包....
+------------------------------0___20200413_184742.apk----节点2-------------------------------------安装返回结果：True
+1586775162
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk==com.clhx.lmhx.dalan
+{'data': {'file': [{'login': '', 'logo': '', 'load': ''}], 'game_original_name': '黎明航线', 'asset': [{'login': 'assets/vendor/bg_login.png', 'splash': '', 'mp3_file': '', 'decompression': '', 'logo': 'assets/vendor/logo.png', 'load': 'assets/vendor/bg_loading.png'}], 'game_app_name': '苍蓝航线', 'channel_pinyin': 'dsdk'}, 'status': True, 'msg': '成功'}
+clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk
+实际图片对应路径{'login': 'assets/vendor/bg_login.png', 'splash': '', 'mp3_file': '', 'decompression': '', 'logo': 'assets/vendor/logo.png', 'load': 'assets/vendor/bg_loading.png'}，拆包后后apk目录D:/Downloads/clhx_dalan_dsdk_59_1.0.0_20200413_184742/，对应pkg_id=2205
+服务端素材图片 []
+apk的应用名称= 苍蓝航线
+素材及应用名验证成功,期望匹配数0，实际匹配数0
+------------------------------0___20200413_184742.apk----节点3------------------------------------拆包校验结果：True
+1586775174
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 from TestCase.wzjh_48.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk此原名游戏尚未接入，敬请期待
+1586775203
+production
+{'status': True, 'msg': '成功'}
+女神联盟 from TestCase.hmzc_10.dalan.dsdk
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.hmzc_10.dalan.dsdk import run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_184742.apk此原名游戏尚未接入，敬请期待
+1586775215
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时112.14秒
+---------------------------1___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586775328
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 18:55:28开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------1___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586775363
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'game_original_name': '我在江湖', 'asset': [{'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'decompression': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}], 'game_app_name': '庆余纪', 'channel_pinyin': 'dsdk'}, 'status': True, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'decompression': '', 'logo': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------1___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586775374
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+我在江湖 from TestCase.wzjh_48.dsdk
+from TestCase.wzjh_48.dsdk import run
+========================================start程序1111=============================================
+    ====================================2020-04-13 18:59:49===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时9.22秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586775600
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 19:00:06开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586775652
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'msg': '成功', 'data': {'asset': [{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'logo': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_app_name': '庆余纪'}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'logo': '', 'decompression': '', 'login': 'assets/selectserverbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586775659
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 from TestCase.hmzc_10.dalan.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.hmzc_10.dalan.dsdk import run import run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk此原名游戏尚未接入，敬请期待
+1586775684
+production
+{'msg': '成功', 'status': True}
+我在江湖 from TestCase.wzjh_48.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run import run
+========================================start程序1111=============================================
+====================================2020-04-13 19:05:10===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时10.09秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586775922
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 19:05:22开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586775957
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'asset': [{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}], 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'channel_pinyin': 'dsdk'}, 'status': True, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586775963
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+女神联盟 from TestCase.hmzc_10.dalan.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.hmzc_10.dalan.dsdk import run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk此原名游戏尚未接入，敬请期待
+1586775986
+production
+{'status': True, 'msg': '成功'}
+我在江湖 from TestCase.wzjh_48.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500' width=600 />
+返回的png为 http://file.superdalan.com//2d1330e8844e51b56a8b6bda74f08e2d~500
+1586776091
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:False
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 19:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 19:10:26===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 19:13:24===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时8.78秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586776415
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 19:13:35开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586776466
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'data': {'game_app_name': '庆余纪', 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'logo': '', 'decompression': ''}], 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}]}, 'msg': '成功', 'status': True}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'splash': '', 'mp3_file': '', 'logo': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586776472
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+女神联盟 from TestCase.hmzc_10.dalan.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.hmzc_10.dalan.dsdk import run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk此原名游戏尚未接入，敬请期待
+1586776498
+production
+{'msg': '成功', 'status': True}
+我在江湖 from TestCase.wzjh_48.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//1343538441392b2410d4108634361ee7~500' width=600 />
+返回的png为 http://file.superdalan.com//1343538441392b2410d4108634361ee7~500
+1586776558
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//ac613ce013f867de9aa2b1943d4ab330~500' width=600 />
+返回的png为 http://file.superdalan.com//ac613ce013f867de9aa2b1943d4ab330~500
+1586776599
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041342082511573
+<img src='http://file.superdalan.com//a415a0254942b6cec1492246a7fac48a~500' width=600 />
+返回的png为 http://file.superdalan.com//a415a0254942b6cec1492246a7fac48a~500
+1586776634
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:False
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 19:15:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时113.76秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586776615
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 19:16:55开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586776646
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'asset': [{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': '', 'splash': ''}], 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'channel_pinyin': 'dsdk', 'game_app_name': '庆余纪', 'game_original_name': '我在江湖'}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'logo': '', 'mp3_file': '', 'splash': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586776670
+production
+{'status': True, 'msg': '成功'}
+手机亮屏状态
+我在江湖 from TestCase.wzjh_48.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//8291a1421ea87005c4c1fd60af6a0069~500' width=600 />
+返回的png为 http://file.superdalan.com//8291a1421ea87005c4c1fd60af6a0069~500
+1586776741
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//21bb2ed6614dfbf7820a21b88719ad03~500' width=600 />
+返回的png为 http://file.superdalan.com//21bb2ed6614dfbf7820a21b88719ad03~500
+1586776779
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start ___主线程先走一步跳微信页面___
+
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041342084273137
+当前未登录微信
+<img src='http://file.superdalan.com//792e229ae046fc459e0c1b76b3157bba~500' width=600 />
+返回的png为 http://file.superdalan.com//792e229ae046fc459e0c1b76b3157bba~500
+1586776815
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 from TestCase.hmzc_10.dalan.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.hmzc_10.dalan.dsdk import run
+ 0__http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk此原名游戏尚未接入，敬请期待
+1586776827
+production
+{'status': True, 'msg': '成功'}
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 19:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 19:30:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 19:35:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 19:40:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 19:55:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:00:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:05:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:10:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:20:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:20:22===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时13.86秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586780439
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 20:20:39开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586780472
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'msg': '成功', 'data': {'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'channel_pinyin': 'dsdk', 'game_app_name': '庆余纪', 'game_original_name': '我在江湖', 'asset': [{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'logo': ''}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'splash': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586780480
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 from TestCase.wzjh_48.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.wzjh_48.dsdk import run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//e1e375237145314ab73d365c5aafdf77~500' width=600 />
+返回的png为 http://file.superdalan.com//e1e375237145314ab73d365c5aafdf77~500
+1586780554
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//4d6212bd898aa3365f680d594b31ca3b~500' width=600 />
+返回的png为 http://file.superdalan.com//4d6212bd898aa3365f680d594b31ca3b~500
+1586780594
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041342131991447
+当前未登录微信
+<img src='http://file.superdalan.com//29188fc9d8be21893fc5528dd4ae5cc6~500' width=600 />
+返回的png为 http://file.superdalan.com//29188fc9d8be21893fc5528dd4ae5cc6~500
+1586780630
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 from TestCase.hmzc_10.dalan.dsdk import run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+from TestCase.hmzc_10.dalan.dsdk import run
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+====================================2020-04-13 20:25:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:30:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:35:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:40:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:45:00===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+====================================2020-04-13 20:48:09===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时10.09秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586782101
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 20:48:22开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586782133
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'dsdk', 'asset': [{'decompression': '', 'logo': '', 'mp3_file': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg'}], 'game_original_name': '我在江湖', 'game_app_name': '庆余纪', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'logo': '', 'mp3_file': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586782140
+production
+{'msg': '成功', 'status': True}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 from TestCase.wzjh_48.dsdk.run
+========================================start程序1111=============================================
+====================================2020-04-13 20:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+========================================start程序1111=============================================
+====================================2020-04-13 20:49:57===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时9.05秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586782208
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 20:50:08开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586782242
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'msg': '成功', 'data': {'game_app_name': '庆余纪', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'asset': [{'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': ''}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586782248
+production
+{'msg': '成功', 'status': True}
+手机亮屏状态
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//1343538441392b2410d4108634361ee7~500' width=600 />
+返回的png为 http://file.superdalan.com//1343538441392b2410d4108634361ee7~500
+1586782332
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//5e836e55943998a3b687eaeebc33c96f~500' width=600 />
+返回的png为 http://file.superdalan.com//5e836e55943998a3b687eaeebc33c96f~500
+1586782369
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041342156730151
+当前未登录微信
+<img src='http://file.superdalan.com//9ce379685127aafb521c196e78cc8793~500' width=600 />
+返回的png为 http://file.superdalan.com//9ce379685127aafb521c196e78cc8793~500
+1586782404
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+    ====================================2020-04-13 20:54:52===========================================
+获取数据库中apk链接= []
+========================================start程序1111=============================================
+    ====================================2020-04-13 20:55:04===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时13.28秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586782519
+production
+{'msg': '成功', 'status': True}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 20:55:19开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586782554
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'data': {'channel_pinyin': 'dsdk', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'asset': [{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'logo': ''}], 'game_original_name': '我在江湖', 'game_app_name': '庆余纪'}, 'status': True}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'decompression': '', 'splash': '', 'logo': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586782562
+production
+{'msg': '成功', 'status': True}
+手机亮屏状态
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//9a68764d7110a67191547e1cb1befde4~500' width=600 />
+返回的png为 http://file.superdalan.com//9a68764d7110a67191547e1cb1befde4~500
+1586782644
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//13354a64f6a264ed8a13d3a14c35d8c0~500' width=600 />
+返回的png为 http://file.superdalan.com//13354a64f6a264ed8a13d3a14c35d8c0~500
+1586782682
+production
+{'msg': '成功', 'status': True}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041342161721245
+当前未登录微信
+<img src='http://file.superdalan.com//12090870573465612c471a589859bceb~500' width=600 />
+返回的png为 http://file.superdalan.com//12090870573465612c471a589859bceb~500
+1586782717
+production
+{'msg': '成功', 'status': True}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:00:00===========================================
+获取数据库中apk链接= []
+111111111111111111111111111111111111
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:02:26===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时9.17秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586782957
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 21:02:37开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586782989
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'msg': '成功', 'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖', 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'game_app_name': '庆余纪', 'asset': [{'decompression': '', 'splash': '', 'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg'}]}}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg'}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586782995
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.wzjh_48.dsdk.run
+启动游戏时_有权限弹框
+已授权_或无需授权=2
+打开app成功==到了登录页面
+<img src='http://file.superdalan.com//6e394d2bc2c44df32b4bfdc94c8f6781~500' width=600 />
+返回的png为 http://file.superdalan.com//6e394d2bc2c44df32b4bfdc94c8f6781~500
+1586783071
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk----节点4------------------------------打开游戏结果:True
+在登录方式选择页面_有账号登录元素
+游戏前有公告
+进入登录页_有进入游戏按钮
+进入创角界面
+循环判断游戏内元素
+登录游戏成功
+<img src='http://file.superdalan.com//d8fff473554601f430489c7e1925c28f~500' width=600 />
+返回的png为 http://file.superdalan.com//d8fff473554601f430489c7e1925c28f~500
+1586783111
+production
+{'status': True, 'msg': '成功'}
+----------------------0___20200306_125115.apk---节点5----------------------------登录游戏结果:True
+找到首充按钮
+有立即领取按钮
+___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+___主线程结束___
+登录order_id 2020041342168073425
+当前未登录微信
+<img src='http://file.superdalan.com//c92456da5d6f78950e994e1b254bceec~500' width=600 />
+返回的png为 http://file.superdalan.com//c92456da5d6f78950e994e1b254bceec~500
+1586783146
+production
+{'status': True, 'msg': '成功'}
+-----------------------0___20200306_125115.apk---节点6----------------------------下单调起微信结果:True
+女神联盟 TestCase.hmzc_10.dalan.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+TestCase.hmzc_10.dalan.dsdk.run
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+全部测试已执行完毕
+
+第几位iojdijweiodjiowejdiwje
+第几位iojdijweiodjiowejdiwje
+
+
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:11:06===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时9.99秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586783478
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 21:11:18开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586783509
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'game_app_name': '庆余纪', 'asset': [{'logo': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'mp3_file': '', 'decompression': '', 'splash': ''}], 'file': [{'login': 'ff6e7b0e895dc0494da96f6357f1ca95', 'load': '9baae0e1fd1931f1c3d3c88c2e647465'}], 'channel_pinyin': 'dsdk', 'game_original_name': '我在江湖'}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'logo': '', 'mp3_file': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': '', 'splash': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586783516
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+165053
+
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:17:12===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[文件大小]:261.35 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk完成！ 用时9.47秒
+---------------------------0___20200306_125115.apk----节点1-----------------------------------下载校验结果：True
+1586783843
+production
+{'status': True, 'msg': '成功'}
+D:\Downloads下包有['qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2020-04-13 21:17:23开始安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+D:\Downloads\\qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+此手机已安装com.qyj1.wzjh包....
+True
+install_前检查手机已安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+开始卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包
+卸载qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk包完成_____进行再次安装qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+此手机已安装com.qyj1.wzjh包....
+------------------------------0___20200306_125115.apk----节点2-------------------------------------安装返回结果：True
+1586783879
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk==com.qyj1.wzjh
+{'status': True, 'data': {'game_app_name': '庆余纪', 'file': [{'load': '9baae0e1fd1931f1c3d3c88c2e647465', 'login': 'ff6e7b0e895dc0494da96f6357f1ca95'}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk', 'asset': [{'decompression': '', 'logo': '', 'mp3_file': '', 'load': 'assets/loadingbg.jpg', 'splash': '', 'login': 'assets/selectserverbg.jpg'}]}, 'msg': '成功'}
+qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk
+实际图片对应路径{'decompression': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': '', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/qyj1_dalan_dsdk_48_1.0.0_20200306_125115/，对应pkg_id=2329
+服务端素材图片 ['9baae0e1fd1931f1c3d3c88c2e647465.jpg', 'ff6e7b0e895dc0494da96f6357f1ca95.jpg']
+apk的应用名称= 庆余纪
+素材及应用名验证成功,期望匹配数2，实际匹配数2
+------------------------------0___20200306_125115.apk----节点3------------------------------------拆包校验结果：True
+1586783885
+production
+{'status': True, 'msg': '成功'}
+手机已灭屏_将执行解锁命令
+手机亮屏状态_二次点亮
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:20:07===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+167549
+
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:20:47===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+167891
+
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:21:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+1111 168233
+
+1111 168580
+1111 168593
+1111 168606
+
+1111111111111111111111111111111111111111 168657
+
+1111111111111111111111 168672
+111111111111111111
+111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+111111111111111111
+111111111111111111/n111111111111111111
+111111111111111111/n111111111111111111/n111111111111111111111111111
+111111111111111111
+111111111111111111
+111111111111111111
+111111111111111111
+2711
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:36:38===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[]
+111111111
+111111111111111111
+111111111111111111
+1111111112720
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:40:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[]
+11111111111111111
+111111111111111111
+2726
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:40:47===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk',
+ 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[]
+!!!!!!!!!!!!!!!!!!!!!!!!!!2733
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:42:11===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+[]
+2737
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:43:25===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2737
+2742
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:44:19===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2742
+2747
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:45:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2747
+
+
+
+111111111111111111111111112756
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:46:13===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2756
+2756
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:46:13===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2756
+2765
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:47:10===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2765
+2770
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:50:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_215034.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2770
+2775
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:55:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_215034.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2775
+2780
+2780
+2780
+========================================start程序1111=============================================
+    ====================================2020-04-13 21:56:43===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_215034.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2780
+2787
+2787
+2787
+========================================start程序1111=============================================
+    ====================================2020-04-13 22:00:00===========================================
+获取数据库中apk链接= ['http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_213915.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2205&f=clhx_dalan_dsdk_59_1.0.0_20200413_215034.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2329&f=qyj1_dalan_dsdk_48_1.0.0_20200306_125115.apk']
+2787
+2794
+2794
+2794
+2794
+2798
+2798
+2798
+2798
+2802
+2802
+2802
+2802
+2806
+2806
+2806
+2806
+2810
+2810
+2810
+1232810
+2814
+2814
+2814
+1232814
+2818
+2818
+2818
+1232818
+2822
+2822
+2822
+1232822
+2826
+2826
+2826
+1232826
+2830
+2830
+2830
+1232830
+2834
+2834
+2834
+1232834
+2838
+2838
+2838
+1232838
+2842
+2842
+2842
+1232842
+2846
+2846
+2846
+1232846
+2850
+2850
+2850
+1232850
+2854
+2854
+2854
+1232854
+2858
+2858
+2858
+1232858
+2862
+2862
+2862
+1232862
+2866
+2866
+2866
+1232866
+2870
+2870
+2870
+1232870
+2874
+2874
+2874
+1232874
+2878
+2878
+2878
+1232878
+2882
+2882
+2882
+1232882
+2886
+2886
+2886
+1232886
+2890
+2890
+2890
+1232890
+2894
+2894
+2894
+1232894
+2898
+2898
+2898
+1232898
+2902
+2902
+2902
+1232902

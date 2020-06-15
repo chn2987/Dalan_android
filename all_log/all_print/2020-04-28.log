@@ -1,0 +1,340 @@
+========================================start程序1111=============================================
+    ====================================2020-04-28 15:17:48===========================================
+Tue Apr 28 15:17:48 2020获取数据库中apk链接=[]
+当前进程:11780--时间15:18:39的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+Tue Apr 28 15:18:41 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'model': 'Redmi Note 3', 'device_id': 'R8AYIJWO99999999', 'system_version': '5.0.2', 'network': '当前网络为-移动网络', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:240.98 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk完成！ 用时11.80秒
+---------------------------设备:R8AYIJWO99999999____zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点1-----------------------------------下载校验结果：True
+1588058333
+production
+{'msg': '成功', 'status': True}
+Tue Apr 28 15:18:53 2020--11780--R8AYIJWO99999999:D:\Downloads下包有['zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk']
+2020-04-28 15:18:53--R8AYIJWO99999999开始安装zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+D:\Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+D:\Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk==com.dalan.zyrg
+R8AYIJWO99999999手机已安装com.dalan.zyrg包....
+True
+Tue Apr 28 15:18:58 2020--R8AYIJWO99999999--install_前检查手机已安装zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+R8AYIJWO99999999--开始卸载zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk包
+Tue Apr 28 15:19:00 2020--R8AYIJWO99999999--卸载zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk包完成_____进行再次安装zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+R8AYIJWO99999999手机已安装com.dalan.zyrg包....
+------------------------------R8AYIJWO99999999__zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点2-------------------------------------安装返回结果：True
+1588058392
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk==com.dalan.zyrg
+{'data': {'game_app_name': '招摇如歌', 'game_original_name': '我在江湖', 'asset': [{'mp3_file': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': ''}], 'file': [{'login': '33a5032c20d6e161ac107776183b27af', 'load': '99de8fe120359e6c0283d85edf04971d'}], 'channel_pinyin': 'dsdk'}, 'msg': '成功', 'status': True}
+D:/Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.zip
+11780--R8AYIJWO99999999--实际图片对应路径{'mp3_file': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'logo': '', 'decompression': ''}，拆包后后apk目录D:/Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957/，对应pkg_id=2590
+Tue Apr 28 15:19:58 2020--11780--R8AYIJWO99999999服务端素材图片['33a5032c20d6e161ac107776183b27af.jpg', '99de8fe120359e6c0283d85edf04971d.jpg']
+R8AYIJWO99999999--apk的应用名称=招摇如歌
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------11780--R8AYIJWO99999999---zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点3------------------------------------拆包校验结果：True
+1588058399
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.zyrg
+11780--R8AYIJWO99999999打开app成功==到了登录页面
+<img src='http://file.superdalan.com//5f7adba5f56e8fe619b5d8e662acb892~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//5f7adba5f56e8fe619b5d8e662acb892~500
+1588058452
+production
+{'msg': '成功', 'status': True}
+----------Tue Apr 28 15:20:52 2020--11780--R8AYIJWO99999999--zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999在登录方式选择页面_有账号登录元素
+R8AYIJWO99999999游戏前有公告
+R8AYIJWO99999999进入登录页_有进入游戏按钮
+R8AYIJWO99999999循环判断游戏内元素
+R8AYIJWO99999999登录游戏成功
+<img src='http://file.superdalan.com//3b0bc585123aca776b688e099e1c024b~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//3b0bc585123aca776b688e099e1c024b~500
+1588058492
+production
+{'msg': '成功', 'status': True}
+--------------------11780--R8AYIJWO99999999--zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+11780--R8AYIJWO99999999找到首充按钮
+11780--R8AYIJWO99999999有立即领取按钮
+R8AYIJWO99999999--已在充值档位页面
+R8AYIJWO99999999___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+R8AYIJWO99999999___主线程结束___
+R8AYIJWO99999999登录order_id=2020042837797123267
+R8AYIJWO99999999当前未登录微信
+<img src='http://file.superdalan.com//e1d3342062459a718a4c1293373a9bbb~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//e1d3342062459a718a4c1293373a9bbb~500
+(True, '2020042837797123267', 'e1d3342062459a718a4c1293373a9bbb')
+production
+{'ret': 1, 'msg': 'success', 'content': {'status_desc': '已下单', 'status': 1}}
+1588058530
+production
+{'msg': '成功', 'status': True}
+-------------------Tue Apr 28 15:22:10 2020--11780--R8AYIJWO99999999__zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk---节点6----------------------------下单调起微信结果:True
+-------------------------------------------------------------delete OK-----------------------------------------------------------
+0__end 进程:11780--设备id:R8AYIJWO99999999--Tue Apr 28 15:22:12 2020
+========================================start程序1111=============================================
+    ====================================2020-04-28 15:18:39===========================================
+Tue Apr 28 15:18:39 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk']
+start主线程 at: Tue Apr 28 15:18:39 2020
+主进程 end at: Tue Apr 28 15:22:13 2020
+start主线程 at: Tue Apr 28 15:24:41 2020
+主进程 end at: Tue Apr 28 15:24:41 2020
+当前进程:8932--时间21:04:22的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2286&f=jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+Tue Apr 28 21:04:24 2020--设备R8AYIJWO99999999:{'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'system_version': '5.0.2', 'model': 'Redmi Note 3', 'size': '1080x1920', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:241.93 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2286&f=jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk完成！ 用时17.87秒
+---------------------------设备:R8AYIJWO99999999____jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点1-----------------------------------下载校验结果：True
+1588079082
+production
+{'status': True, 'msg': '成功'}
+Tue Apr 28 21:04:42 2020--8932--R8AYIJWO99999999:D:\Downloads下包有['jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk']
+2020-04-28 21:04:42--R8AYIJWO99999999开始安装jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+D:\Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+D:\Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk==com.jwjtgw.wzjh
+R8AYIJWO99999999手机未安装com.jwjtgw.wzjh包....
+False
+2020-04-28 21:04:48_开始在R8AYIJWO99999999设备安装_jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+R8AYIJWO99999999手机已安装com.jwjtgw.wzjh包....
+True
+------------------------------R8AYIJWO99999999__jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点2-------------------------------------安装返回结果：True
+1588079151
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk==com.jwjtgw.wzjh
+{'status': True, 'data': {'channel_pinyin': 'dsdk', 'game_app_name': '剑舞九天', 'asset': [{'decompression': '', 'mp3_file': '', 'splash': '', 'load': 'assets/loadingbg.jpg', 'logo': '', 'login': 'assets/selectserverbg.jpg'}], 'file': [{'load': 'cc12f932e8274e9e818f1cabb28797a3', 'login': '941e74bff974dedd8d5c966f5b9e01ea'}], 'game_original_name': '我在江湖'}, 'msg': '成功'}
+D:/Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.zip
+8932--R8AYIJWO99999999--实际图片对应路径{'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529/，对应pkg_id=2286
+Tue Apr 28 21:06:01 2020--8932--R8AYIJWO99999999服务端素材图片['cc12f932e8274e9e818f1cabb28797a3.jpg', '941e74bff974dedd8d5c966f5b9e01ea.jpg']
+R8AYIJWO99999999--apk的应用名称=剑舞九天
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------8932--R8AYIJWO99999999---jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点3------------------------------------拆包校验结果：True
+1588079162
+production
+{'status': True, 'msg': '成功'}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.jwjtgw.wzjh
+8932--R8AYIJWO99999999找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1588079272
+production
+{'status': True, 'msg': '成功'}
+----------Tue Apr 28 21:07:52 2020--8932--R8AYIJWO99999999--jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点4------------------------------打开游戏结果:False
+当前进程:11876--时间21:04:22的设备:54a4c6159804_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2288&f=jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk
+Tue Apr 28 21:04:24 2020--设备54a4c6159804:{'model': 'Redmi Note 4X', 'imei': '99000920749832', 'system_version': '7.0', 'size': '1080x1920', 'device_id': '54a4c6159804', 'network': '当前网络为-wifi'}
+[文件大小]:241.93 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2288&f=jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk完成！ 用时18.72秒
+---------------------------设备:54a4c6159804____jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk----节点1-----------------------------------下载校验结果：True
+1588079085
+production
+{'status': True, 'msg': '成功'}
+Tue Apr 28 21:04:45 2020--11876--54a4c6159804:D:\Downloads下包有['jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk']
+2020-04-28 21:04:45--54a4c6159804开始安装jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk
+D:\Downloads/jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk
+D:\Downloads/jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk==com.jwjtfx.wzjh
+54a4c6159804手机已安装com.jwjtfx.wzjh包....
+True
+Tue Apr 28 21:04:50 2020--54a4c6159804--install_前检查手机已安装jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk
+54a4c6159804--开始卸载jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk包
+Tue Apr 28 21:04:51 2020--54a4c6159804--卸载jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk包完成_____进行再次安装jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk
+54a4c6159804手机已安装com.jwjtfx.wzjh包....
+------------------------------54a4c6159804__jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk----节点2-------------------------------------安装返回结果：True
+1588079119
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk==com.jwjtfx.wzjh
+{'status': True, 'msg': '成功', 'data': {'file': [{'load': 'cc12f932e8274e9e818f1cabb28797a3', 'login': '941e74bff974dedd8d5c966f5b9e01ea'}], 'game_app_name': '剑舞九天', 'channel_pinyin': 'dsdk', 'asset': [{'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'mp3_file': ''}], 'game_original_name': '我在江湖'}}
+D:/Downloads/jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.zip
+11876--54a4c6159804--实际图片对应路径{'splash': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg', 'logo': '', 'decompression': '', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743/，对应pkg_id=2288
+Tue Apr 28 21:05:29 2020--11876--54a4c6159804服务端素材图片['cc12f932e8274e9e818f1cabb28797a3.jpg', '941e74bff974dedd8d5c966f5b9e01ea.jpg']
+54a4c6159804--apk的应用名称=剑舞九天
+54a4c6159804--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------11876--54a4c6159804---jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk----节点3------------------------------------拆包校验结果：True
+1588079132
+production
+{'status': True, 'msg': '成功'}
+54a4c6159804手机已灭屏_将执行解锁命令
+54a4c6159804--手机亮屏状态_二次点亮
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804 com.jwjtfx.wzjh
+54a4c6159804启动游戏时_有权限弹框
+54a4c6159804已授权_或无需授权=2
+11876--54a4c6159804打开app成功==到了登录页面
+<img src='http://file.superdalan.com//6251a2a8a90eef4cb4c4dc33d56c9df0~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//6251a2a8a90eef4cb4c4dc33d56c9df0~500
+1588079198
+production
+{'status': True, 'msg': '成功'}
+----------Tue Apr 28 21:06:38 2020--11876--54a4c6159804--jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+54a4c6159804在登录方式选择页面_有账号登录元素
+54a4c6159804游戏前有公告
+54a4c6159804进入登录页_有进入游戏按钮
+54a4c6159804进入创角界面
+54a4c6159804循环判断游戏内元素
+54a4c6159804登录游戏成功
+<img src='http://file.superdalan.com//bc39c8f783be6ead482b82fd4f23d94c~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//bc39c8f783be6ead482b82fd4f23d94c~500
+1588079245
+production
+{'status': True, 'msg': '成功'}
+--------------------11876--54a4c6159804--jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk---节点5----------------------------登录游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+11876--54a4c6159804找到首充按钮
+11876--54a4c6159804有立即领取按钮
+54a4c6159804--已在充值档位页面
+54a4c6159804___主线程开始___
+eve 子线程 start 
+___主线程先走一步跳微信页面___
+eve 子线程 stop
+54a4c6159804___主线程结束___
+54a4c6159804登录order_id=2020042837928831248
+54a4c6159804当前未登录微信
+<img src='http://file.superdalan.com//7f5d8682aec55822e5d3c44e8a2524d2~500' width=600 />
+54a4c6159804--返回的png为 http://file.superdalan.com//7f5d8682aec55822e5d3c44e8a2524d2~500
+(True, '2020042837928831248', '7f5d8682aec55822e5d3c44e8a2524d2')
+production
+{'content': {'status': 1, 'status_desc': '已下单'}, 'msg': 'success', 'ret': 1}
+1588079284
+production
+{'status': True, 'msg': '成功'}
+-------------------Tue Apr 28 21:08:04 2020--11876--54a4c6159804__jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk---节点6----------------------------下单调起微信结果:True
+54a4c6159804执行完成清除链接 -------------------------------------------------------------delete OK-----------------------------------------------------------
+1__end 进程:11876--设备id:54a4c6159804--Tue Apr 28 21:08:06 2020
+当前进程:12980--时间21:08:07的设备:R8AYIJWO99999999_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+Tue Apr 28 21:08:09 2020--设备R8AYIJWO99999999:{'size': '1080x1920', 'network': '当前网络为-移动网络', 'device_id': 'R8AYIJWO99999999', 'system_version': '5.0.2', 'model': 'Redmi Note 3', 'imei': '/system/bin/sh: tail: not found\n\n'}
+[文件大小]:240.98 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk完成！ 用时12.42秒
+---------------------------设备:R8AYIJWO99999999____zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点1-----------------------------------下载校验结果：True
+1588079301
+production
+{'msg': '成功', 'status': True}
+Tue Apr 28 21:08:21 2020--12980--R8AYIJWO99999999:D:\Downloads下包有['zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk']
+2020-04-28 21:08:21--R8AYIJWO99999999开始安装zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+D:\Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+D:\Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk==com.dalan.zyrg
+R8AYIJWO99999999手机已安装com.dalan.zyrg包....
+True
+Tue Apr 28 21:08:27 2020--R8AYIJWO99999999--install_前检查手机已安装zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+R8AYIJWO99999999--开始卸载zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk包
+Tue Apr 28 21:08:28 2020--R8AYIJWO99999999--卸载zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk包完成_____进行再次安装zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk
+R8AYIJWO99999999手机已安装com.dalan.zyrg包....
+------------------------------R8AYIJWO99999999__zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点2-------------------------------------安装返回结果：True
+1588079363
+production
+{'msg': '成功', 'status': True}
+D:/Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk==com.dalan.zyrg
+{'msg': '成功', 'status': True, 'data': {'game_app_name': '招摇如歌', 'file': [{'login': '33a5032c20d6e161ac107776183b27af', 'load': '99de8fe120359e6c0283d85edf04971d'}], 'asset': [{'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}], 'game_original_name': '我在江湖', 'channel_pinyin': 'dsdk'}}
+D:/Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.zip
+12980--R8AYIJWO99999999--实际图片对应路径{'decompression': '', 'splash': '', 'logo': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'mp3_file': ''}，拆包后后apk目录D:/Downloads/zyrghb_dalan_dsdk_48_1.0.0_20200427_221957/，对应pkg_id=2590
+Tue Apr 28 21:09:28 2020--12980--R8AYIJWO99999999服务端素材图片['33a5032c20d6e161ac107776183b27af.jpg', '99de8fe120359e6c0283d85edf04971d.jpg']
+R8AYIJWO99999999--apk的应用名称=招摇如歌
+R8AYIJWO99999999--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------12980--R8AYIJWO99999999---zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点3------------------------------------拆包校验结果：True
+1588079369
+production
+{'msg': '成功', 'status': True}
+R8AYIJWO99999999--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+R8AYIJWO99999999 com.dalan.zyrg
+12980--R8AYIJWO99999999找不到登录元素，或元素超时
+<img src='http://file.superdalan.com//8ba75a4bb918212dde26721d12204d22~500' width=600 />
+R8AYIJWO99999999--返回的png为 http://file.superdalan.com//8ba75a4bb918212dde26721d12204d22~500
+1588079478
+production
+{'msg': '成功', 'status': True}
+----------Tue Apr 28 21:11:18 2020--12980--R8AYIJWO99999999--zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk----节点4------------------------------打开游戏结果:False
+========================================start程序1111=============================================
+    ====================================2020-04-28 21:04:20===========================================
+Tue Apr 28 21:04:20 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2286&f=jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2288&f=jwjtfx_dalan_dsdk_48_1.0.0_20200428_182743.apk', 'http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk']
+start主线程 at: Tue Apr 28 21:04:20 2020
+剩余_1_任务需要减档执行_再次创建进程:['http://pkg.superdalan.com/game.pkg/download?pkgId=2590&f=zyrghb_dalan_dsdk_48_1.0.0_20200427_221957.apk']
+主进程 end at: Tue Apr 28 21:11:18 2020
+当前进程:14320--时间21:25:32的设备:QDY4C17818002168_apk链接：http://pkg.superdalan.com/game.pkg/download?pkgId=2286&f=jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+Tue Apr 28 21:25:34 2020--设备QDY4C17818002168:{'model': 'TRT-AL00', 'imei': '865767038708929', 'network': '当前网络为-wifi', 'device_id': 'QDY4C17818002168', 'system_version': '7.0', 'size': '720x1280'}
+[文件大小]:241.93 MB
+
+下载http://pkg.superdalan.com/game.pkg/download?pkgId=2286&f=jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk完成！ 用时11.45秒
+---------------------------设备:QDY4C17818002168____jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点1-----------------------------------下载校验结果：True
+1588080346
+production
+{'status': True, 'msg': '成功'}
+Tue Apr 28 21:25:46 2020--14320--QDY4C17818002168:D:\Downloads下包有['jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk']
+2020-04-28 21:25:46--QDY4C17818002168开始安装jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+D:\Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+D:\Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk==com.jwjtgw.wzjh
+QDY4C17818002168手机未安装com.jwjtgw.wzjh包....
+False
+2020-04-28 21:25:52_开始在QDY4C17818002168设备安装_jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk
+QDY4C17818002168手机已安装com.jwjtgw.wzjh包....
+True
+------------------------------QDY4C17818002168__jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点2-------------------------------------安装返回结果：True
+1588080379
+production
+{'status': True, 'msg': '成功'}
+D:/Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk==com.jwjtgw.wzjh
+{'msg': '成功', 'data': {'file': [{'load': 'cc12f932e8274e9e818f1cabb28797a3', 'login': '941e74bff974dedd8d5c966f5b9e01ea'}], 'game_app_name': '剑舞九天', 'channel_pinyin': 'dsdk', 'asset': [{'mp3_file': '', 'logo': '', 'splash': '', 'decompression': '', 'load': 'assets/loadingbg.jpg', 'login': 'assets/selectserverbg.jpg'}], 'game_original_name': '我在江湖'}, 'status': True}
+D:/Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.zip
+14320--QDY4C17818002168--实际图片对应路径{'mp3_file': '', 'logo': '', 'splash': '', 'login': 'assets/selectserverbg.jpg', 'load': 'assets/loadingbg.jpg', 'decompression': ''}，拆包后后apk目录D:/Downloads/jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529/，对应pkg_id=2286
+Tue Apr 28 21:26:27 2020--14320--QDY4C17818002168服务端素材图片['cc12f932e8274e9e818f1cabb28797a3.jpg', '941e74bff974dedd8d5c966f5b9e01ea.jpg']
+QDY4C17818002168--apk的应用名称=剑舞九天
+QDY4C17818002168--素材及应用名验证成功,期望匹配数2，实际匹配数2
+--------------------------14320--QDY4C17818002168---jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点3------------------------------------拆包校验结果：True
+1588080388
+production
+{'status': True, 'msg': '成功'}
+QDY4C17818002168--手机亮屏状态
+我在江湖 TestCase.wzjh_48.dsdk.run
+TestCase.wzjh_48.dsdk.run
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168 com.jwjtgw.wzjh
+14320--QDY4C17818002168打开app成功==到了登录页面
+<img src='http://file.superdalan.com//90a85888899cd0eb1e05d2c78d0e42af~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//90a85888899cd0eb1e05d2c78d0e42af~500
+1588080493
+production
+{'status': True, 'msg': '成功'}
+----------Tue Apr 28 21:28:13 2020--14320--QDY4C17818002168--jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk----节点4------------------------------打开游戏结果:True
+installed version is 41, installer version is 41. force_reinstall=False
+installed version is 0, installer version is 0. force_reinstall=False
+QDY4C17818002168在登录方式选择页面_有账号登录元素
+QDY4C17818002168-已走异常流程_截图异常页面___(原因：主要是因为没有进入指定页面_)
+<img src='http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500' width=600 />
+QDY4C17818002168--返回的png为 http://file.superdalan.com//d41d8cd98f00b204e9800998ecf8427e~500
+1588080515
+production
+{'status': True, 'msg': '成功'}
+--------------------14320--QDY4C17818002168--jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk---节点5----------------------------登录游戏结果:False
+========================================start程序1111=============================================
+    ====================================2020-04-28 21:25:32===========================================
+Tue Apr 28 21:25:32 2020获取数据库中apk链接=['http://pkg.superdalan.com/game.pkg/download?pkgId=2286&f=jwjtgw_dalan_dsdk_48_1.0.0_20200428_182529.apk']
+start主线程 at: Tue Apr 28 21:25:32 2020
+主进程 end at: Tue Apr 28 21:28:35 2020
